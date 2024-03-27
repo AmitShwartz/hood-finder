@@ -1,34 +1,49 @@
+import { Neighborhood } from "../types";
 import db from "../utils/database";
 import { Op } from "sequelize";
 
-type GetNeighborhoodsBody = {
+interface NeighborhoodSearchParams {
   searchTerm?: string;
   ageRange?: [number, number];
   maxDistance?: number;
   sortBy?: [string, string];
+}
+
+const buildNeighborhoodsQuery = ({
+  searchTerm,
+  ageRange,
+  maxDistance,
+  sortBy,
+}: NeighborhoodSearchParams) => {
+  const query: any = {};
+
+  if (searchTerm)
+    query.neighborhood = {
+      [Op.like]: `%${searchTerm}%`,
+    };
+
+  if (ageRange)
+    query.age = {
+      [Op.between]: ageRange,
+    };
+
+  if (maxDistance)
+    query.distance = {
+      [Op.lte]: maxDistance,
+    };
+
+  const options: any = { raw: true };
+
+  if (sortBy) options.order = [sortBy];
+
+  return { where: query, ...options };
 };
 
 class NeighborhoodService {
-  async getNeighborhoods({
-    searchTerm,
-    ageRange,
-    maxDistance,
-    sortBy,
-  }: GetNeighborhoodsBody) {
-    return await db.Neighborhood.findAll({
-      where: {
-        neighborhood: {
-          [Op.like]: `%${searchTerm}%`,
-        },
-        age: {
-          [Op.between]: ageRange,
-        },
-        distance: {
-          [Op.lte]: maxDistance,
-        },
-      },
-      order: [sortBy],
-    });
+  async getNeighborhoods(
+    params: NeighborhoodSearchParams
+  ): Promise<Neighborhood[]> {
+    return await db.Neighborhood.findAll(buildNeighborhoodsQuery(params));
   }
 }
 
