@@ -34,6 +34,6 @@ export const startServer = async () => {
       console.log(`Server running on port ${PORT}`);
     });
   } catch (error) {
-    console.error(`Error occured: ${error}`);
+    console.error(`Error occurred: ${error}`);
   }
 };
