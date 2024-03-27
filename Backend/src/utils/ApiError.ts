@@ -1,4 +1,5 @@
 import { StatusCodes } from "http-status-codes";
+import { ZodError } from "zod";
 
 export class ApiError extends Error {
   statusCode: number;
@@ -27,3 +28,19 @@ export class ServiceUnavailableError extends ApiError {
     super(StatusCodes.SERVICE_UNAVAILABLE, "Service Unavailable");
   }
 }
+
+export class InternalServerError extends ApiError {
+  constructor() {
+    super(StatusCodes.INTERNAL_SERVER_ERROR, "Internal Server Error");
+  }
+}
+
+export const handleZodError = (error: unknown) => {
+  if (error instanceof ZodError) {
+    const errorMessages = error.errors.map((issue: any) => ({
+      message: `${issue.path.join(".")} is ${issue.message}`,
+    }));
+    const errorMessage = `Invalid data: ${errorMessages.join(", ")}`;
+    throw new BadRequestError(errorMessage);
+  }
+};
