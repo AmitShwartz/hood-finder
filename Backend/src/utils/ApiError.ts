@@ -37,10 +37,10 @@ export class InternalServerError extends ApiError {
 
 export const handleZodError = (error: unknown) => {
   if (error instanceof ZodError) {
-    const errorMessages = error.errors.map((issue: any) => ({
-      message: `${issue.path.join(".")} is ${issue.message}`,
-    }));
-    const errorMessage = `Invalid data: ${errorMessages.join(", ")}`;
+    const errorMessages = error.errors.map(
+      (issue: any) => `${issue.path.join(".")} is ${issue.message}`
+    );
+    const errorMessage = `Invalid data: ${errorMessages.join(". ")}.`;
     throw new BadRequestError(errorMessage);
   }
 };
