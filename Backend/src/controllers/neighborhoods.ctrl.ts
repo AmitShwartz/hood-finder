@@ -1,17 +1,23 @@
 import { Request, Response } from "express";
+import neighborhoodService from "../services/neighborhoods.service";
+import { InternalServerError, handleZodError } from "../utils/ApiError";
 import { asyncWrapper } from "../utils/asyncWrraper";
+import { GetNeighborhoodsBodySchema } from "../validators/neighborhood.schema";
 
 class NeighborhoodController {
-  getNeighborhoods = asyncWrapper((req: Request, res: Response) => {
+  getNeighborhoods = asyncWrapper(async (req: Request, res: Response) => {
     //ageRange=[minAge,maxAge]`,`maxDistance=[distance]km`, and `sortBy=[field,order]
-    const { searchTerm, ageRange, maxDistance, sortBy } = req.query;
-    // try {
-    //   const neighborhoods = await Neighborhood.find();
-    //   return res.json(neighborhoods);
-    // } catch (err) {
-    //   return res.status(500).json({ error: err.message });
-    // }
-    return res.status(200).json({ message: "Hello World!" });
+    try {
+      const queryBody = GetNeighborhoodsBodySchema.parse(req.query);
+      const neighborhoods = await neighborhoodService.getNeighborhoods(
+        queryBody
+      );
+
+      return res.status(200).json(neighborhoods);
+    } catch (error) {
+      handleZodError(error);
+      throw new InternalServerError();
+    }
   });
 }
 
