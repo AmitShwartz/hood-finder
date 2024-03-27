@@ -23,12 +23,12 @@ const buildNeighborhoodsQuery = ({
     };
 
   if (ageRange)
-    query.age = {
+    query.averageAge = {
       [Op.between]: ageRange,
     };
 
   if (maxDistance)
-    query.distance = {
+    query.distanceFromCityCenter = {
       [Op.lte]: maxDistance,
     };
 
