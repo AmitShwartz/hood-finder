@@ -1,13 +1,13 @@
 import bodyParser from "body-parser";
 import cors from "cors";
+import dotenv from "dotenv";
 import express, { Application, Request } from "express";
 import envConfig from "./config/envConfig";
 import { ErrorHandler } from "./middlewares/ErrorHandler";
 import router from "./routes";
 import healthCheckRouter from "./routes/healthCheck.route";
 import { NotFoundError } from "./utils/ApiError";
-import db from "./utils/database";
-import dotenv from "dotenv";
+import { initDatabase } from "./utils/database";
 
 dotenv.config();
 const app: Application = express();
@@ -29,7 +29,7 @@ const PORT = envConfig.serverPort || 3000;
 
 export const startServer = async () => {
   try {
-    await db.sequelize.sync();
+    await initDatabase();
     app.listen(PORT, () => {
       console.log(`Server running on port ${PORT}`);
     });

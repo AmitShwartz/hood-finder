@@ -43,7 +43,7 @@ class NeighborhoodService {
   async getNeighborhoods(
     params: NeighborhoodSearchParams
   ): Promise<Neighborhood[]> {
-    return await db.Neighborhood.findAll(buildNeighborhoodsQuery(params));
+    return await db.neighborhood.findAll(buildNeighborhoodsQuery(params));
   }
 }
 
