@@ -8,6 +8,7 @@ import router from "./routes";
 import healthCheckRouter from "./routes/healthCheck.route";
 import { NotFoundError } from "./utils/ApiError";
 import { initDatabase } from "./utils/database";
+import { bindSwagger } from "./utils/swagger";
 
 dotenv.config();
 const app: Application = express();
@@ -15,6 +16,8 @@ const app: Application = express();
 app.use(bodyParser.json()); // to support JSON-encoded bodies
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
+
+bindSwagger(app);
 
 app.use("/health", healthCheckRouter);
 app.use("/api", router);
