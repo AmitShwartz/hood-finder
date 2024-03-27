@@ -11,7 +11,7 @@ const getHealthCheck = asyncWrapper((_req: Request, res: Response) => {
     timestamp: Date.now(),
   };
   try {
-    res.send(healthCheck);
+    res.status(200).send(healthCheck);
   } catch (error) {
     throw new ServiceUnavailableError();
   }

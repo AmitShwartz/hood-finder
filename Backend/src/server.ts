@@ -16,7 +16,7 @@ app.use(bodyParser.json()); // to support JSON-encoded bodies
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
 
-router.use("/", healthCheckRouter);
+app.use("/health", healthCheckRouter);
 app.use("/api", router);
 
 app.use((req: Request) => {
