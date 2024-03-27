@@ -7,6 +7,8 @@ const router = Router();
  * @swagger
  * /api/neighborhoods:
  *   get:
+ *     tags:
+ *       - Neighborhoods
  *     summary: Get neighborhoods
  *     description: Retrieve neighborhoods based on search parameters
  *     parameters:
