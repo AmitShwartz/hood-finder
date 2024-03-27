@@ -1,6 +1,6 @@
 export const NEIGHBORHOOD_DATA = [
   {
-    neigborhood: "Hallows",
+    neighborhood: "Hallows",
     city: "Los Dos Caminos",
     averageAge: 58,
     distanceFromCityCenter: 43.5,
@@ -10,7 +10,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -66.8335096,
   },
   {
-    neigborhood: "Stang",
+    neighborhood: "Stang",
     state: "B7",
     city: "Angoulême",
     averageAge: 20,
@@ -21,7 +21,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 0.0629891,
   },
   {
-    neigborhood: "Rockefeller",
+    neighborhood: "Rockefeller",
     city: "Nanganga",
     averageAge: 64,
     distanceFromCityCenter: 67.6,
@@ -31,7 +31,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 39.1361568,
   },
   {
-    neigborhood: "Hallows",
+    neighborhood: "Hallows",
     state: "QC",
     city: "Beauharnois",
     averageAge: 34,
@@ -42,7 +42,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.8746233,
   },
   {
-    neigborhood: "Kedzie",
+    neighborhood: "Kedzie",
     city: "Dobrica",
     averageAge: 30,
     distanceFromCityCenter: 0.4,
@@ -52,7 +52,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.8507302,
   },
   {
-    neigborhood: "3rd",
+    neighborhood: "3rd",
     state: "E",
     city: "Norrköping",
     averageAge: 58,
@@ -63,7 +63,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.1378776,
   },
   {
-    neigborhood: "Pierstorff",
+    neighborhood: "Pierstorff",
     city: "Nakasongola",
     averageAge: 22,
     distanceFromCityCenter: 4.1,
@@ -73,7 +73,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 32.463708,
   },
   {
-    neigborhood: "Stone Corner",
+    neighborhood: "Stone Corner",
     city: "Kayapa",
     averageAge: 67,
     distanceFromCityCenter: 54.7,
@@ -83,7 +83,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.9524145,
   },
   {
-    neigborhood: "Emmet",
+    neighborhood: "Emmet",
     city: "Mayumba",
     averageAge: 54,
     distanceFromCityCenter: 42.5,
@@ -93,7 +93,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 10.6562606,
   },
   {
-    neigborhood: "Spaight",
+    neighborhood: "Spaight",
     state: "AB",
     city: "Grande Prairie",
     averageAge: 40,
@@ -104,7 +104,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -118.80271,
   },
   {
-    neigborhood: "Hayes",
+    neighborhood: "Hayes",
     city: "La Calera",
     averageAge: 56,
     distanceFromCityCenter: 63.6,
@@ -114,7 +114,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -71.2106242,
   },
   {
-    neigborhood: "Drewry",
+    neighborhood: "Drewry",
     city: "Guararema",
     averageAge: 25,
     distanceFromCityCenter: 5.4,
@@ -124,7 +124,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -46.011014,
   },
   {
-    neigborhood: "Troy",
+    neighborhood: "Troy",
     city: "Kulary",
     averageAge: 52,
     distanceFromCityCenter: 24.0,
@@ -134,7 +134,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.5034856,
   },
   {
-    neigborhood: "Barnett",
+    neighborhood: "Barnett",
     city: "Xujia",
     averageAge: 43,
     distanceFromCityCenter: 64.2,
@@ -144,7 +144,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.695522,
   },
   {
-    neigborhood: "Mallard",
+    neighborhood: "Mallard",
     city: "Najrān",
     averageAge: 24,
     distanceFromCityCenter: 70.8,
@@ -154,7 +154,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.2289441,
   },
   {
-    neigborhood: "Forest",
+    neighborhood: "Forest",
     city: "Tân Châu",
     averageAge: 41,
     distanceFromCityCenter: 71.8,
@@ -164,7 +164,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.1960795,
   },
   {
-    neigborhood: "Mandrake",
+    neighborhood: "Mandrake",
     city: "Lingyang",
     averageAge: 33,
     distanceFromCityCenter: 98.2,
@@ -174,7 +174,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.127537,
   },
   {
-    neigborhood: "Gateway",
+    neighborhood: "Gateway",
     state: "Z",
     city: "Frösön",
     averageAge: 32,
@@ -185,7 +185,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.5922703,
   },
   {
-    neigborhood: "Eagan",
+    neighborhood: "Eagan",
     city: "Yakymivka",
     averageAge: 30,
     distanceFromCityCenter: 24.4,
@@ -195,7 +195,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.165005,
   },
   {
-    neigborhood: "Canary",
+    neighborhood: "Canary",
     city: "Yuecheng",
     averageAge: 35,
     distanceFromCityCenter: 38.6,
@@ -205,7 +205,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.582633,
   },
   {
-    neigborhood: "Bunting",
+    neighborhood: "Bunting",
     state: "CA",
     city: "Sacramento",
     averageAge: 29,
@@ -216,7 +216,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -121.45,
   },
   {
-    neigborhood: "Dovetail",
+    neighborhood: "Dovetail",
     city: "El Valle del Espíritu Santo",
     averageAge: 26,
     distanceFromCityCenter: 7.8,
@@ -226,7 +226,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -63.8788287,
   },
   {
-    neigborhood: "Spohn",
+    neighborhood: "Spohn",
     city: "Circa",
     averageAge: 57,
     distanceFromCityCenter: 38.4,
@@ -236,7 +236,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.875917,
   },
   {
-    neigborhood: "Thierer",
+    neighborhood: "Thierer",
     city: "Qukou",
     averageAge: 20,
     distanceFromCityCenter: 2.1,
@@ -246,7 +246,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.251947,
   },
   {
-    neigborhood: "Sloan",
+    neighborhood: "Sloan",
     city: "San Ramon",
     averageAge: 28,
     distanceFromCityCenter: 32.2,
@@ -256,7 +256,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.0286633,
   },
   {
-    neigborhood: "South",
+    neighborhood: "South",
     city: "Tatebal",
     averageAge: 63,
     distanceFromCityCenter: 83.6,
@@ -266,7 +266,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.3733989,
   },
   {
-    neigborhood: "Bluejay",
+    neighborhood: "Bluejay",
     state: "16",
     city: "Ferreira",
     averageAge: 51,
@@ -277,7 +277,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.5065208,
   },
   {
-    neigborhood: "Center",
+    neighborhood: "Center",
     city: "Smyków",
     averageAge: 58,
     distanceFromCityCenter: 73.1,
@@ -287,7 +287,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.3927571,
   },
   {
-    neigborhood: "7th",
+    neighborhood: "7th",
     city: "Hāsilpur",
     averageAge: 58,
     distanceFromCityCenter: 70.1,
@@ -297,7 +297,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 72.1485713,
   },
   {
-    neigborhood: "Haas",
+    neighborhood: "Haas",
     city: "Fukui-shi",
     averageAge: 32,
     distanceFromCityCenter: 12.4,
@@ -307,7 +307,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 136.1682227,
   },
   {
-    neigborhood: "Evergreen",
+    neighborhood: "Evergreen",
     state: "01",
     city: "Avanca",
     averageAge: 53,
@@ -318,7 +318,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.5959634,
   },
   {
-    neigborhood: "Oneill",
+    neighborhood: "Oneill",
     city: "Massaguet",
     averageAge: 33,
     distanceFromCityCenter: 26.0,
@@ -328,7 +328,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.4390254,
   },
   {
-    neigborhood: "Old Gate",
+    neighborhood: "Old Gate",
     city: "Treinta y Tres",
     averageAge: 63,
     distanceFromCityCenter: 99.0,
@@ -338,7 +338,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -54.3576473,
   },
   {
-    neigborhood: "Grim",
+    neighborhood: "Grim",
     city: "Bonpland",
     averageAge: 47,
     distanceFromCityCenter: 56.6,
@@ -348,7 +348,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -58.611532,
   },
   {
-    neigborhood: "Dovetail",
+    neighborhood: "Dovetail",
     city: "Jianrao",
     averageAge: 24,
     distanceFromCityCenter: 82.0,
@@ -358,7 +358,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.274566,
   },
   {
-    neigborhood: "Meadow Vale",
+    neighborhood: "Meadow Vale",
     city: "Naschel",
     averageAge: 55,
     distanceFromCityCenter: 73.3,
@@ -368,7 +368,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -65.3749466,
   },
   {
-    neigborhood: "Anthes",
+    neighborhood: "Anthes",
     state: "BK",
     city: "Kecskemét",
     averageAge: 61,
@@ -379,7 +379,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.691788,
   },
   {
-    neigborhood: "Lukken",
+    neighborhood: "Lukken",
     city: "Pakham",
     averageAge: 52,
     distanceFromCityCenter: 49.9,
@@ -389,7 +389,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 102.7190771,
   },
   {
-    neigborhood: "Comanche",
+    neighborhood: "Comanche",
     city: "Kovylkino",
     averageAge: 41,
     distanceFromCityCenter: 44.2,
@@ -399,7 +399,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 43.8688442,
   },
   {
-    neigborhood: "Kingsford",
+    neighborhood: "Kingsford",
     city: "Netanya",
     averageAge: 49,
     distanceFromCityCenter: 95.9,
@@ -409,7 +409,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 34.853196,
   },
   {
-    neigborhood: "Pennsylvania",
+    neighborhood: "Pennsylvania",
     city: "Qufu",
     averageAge: 24,
     distanceFromCityCenter: 57.2,
@@ -419,7 +419,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.986503,
   },
   {
-    neigborhood: "6th",
+    neighborhood: "6th",
     city: "Purwasari",
     averageAge: 64,
     distanceFromCityCenter: 16.4,
@@ -429,7 +429,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.4144526,
   },
   {
-    neigborhood: "Sunbrook",
+    neighborhood: "Sunbrook",
     city: "Kalutara",
     averageAge: 35,
     distanceFromCityCenter: 9.3,
@@ -439,7 +439,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 79.960149,
   },
   {
-    neigborhood: "Kenwood",
+    neighborhood: "Kenwood",
     city: "Villa Dolores",
     averageAge: 29,
     distanceFromCityCenter: 43.2,
@@ -449,7 +449,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -65.180261,
   },
   {
-    neigborhood: "Hauk",
+    neighborhood: "Hauk",
     city: "Mao",
     averageAge: 67,
     distanceFromCityCenter: 2.9,
@@ -459,7 +459,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -71.0790048,
   },
   {
-    neigborhood: "Surrey",
+    neighborhood: "Surrey",
     city: "Golopau",
     averageAge: 49,
     distanceFromCityCenter: 88.0,
@@ -469,7 +469,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.4492035,
   },
   {
-    neigborhood: "Iowa",
+    neighborhood: "Iowa",
     city: "Carpenter",
     averageAge: 56,
     distanceFromCityCenter: 95.6,
@@ -479,7 +479,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.0923723,
   },
   {
-    neigborhood: "Shelley",
+    neighborhood: "Shelley",
     city: "Bucheon-si",
     averageAge: 54,
     distanceFromCityCenter: 58.3,
@@ -489,7 +489,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 126.7660309,
   },
   {
-    neigborhood: "Lotheville",
+    neighborhood: "Lotheville",
     city: "Mbumi",
     averageAge: 56,
     distanceFromCityCenter: 57.8,
@@ -499,7 +499,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 39.2,
   },
   {
-    neigborhood: "Arapahoe",
+    neighborhood: "Arapahoe",
     city: "Jishi",
     averageAge: 55,
     distanceFromCityCenter: 67.5,
@@ -509,7 +509,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.4379074,
   },
   {
-    neigborhood: "High Crossing",
+    neighborhood: "High Crossing",
     city: "Jingling",
     averageAge: 58,
     distanceFromCityCenter: 71.8,
@@ -519,7 +519,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.378132,
   },
   {
-    neigborhood: "Buena Vista",
+    neighborhood: "Buena Vista",
     city: "Al Ḩarf",
     averageAge: 34,
     distanceFromCityCenter: 15.8,
@@ -529,7 +529,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.0865232,
   },
   {
-    neigborhood: "Pankratz",
+    neighborhood: "Pankratz",
     city: "Tarkwa",
     averageAge: 60,
     distanceFromCityCenter: 26.1,
@@ -539,7 +539,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -1.9930466,
   },
   {
-    neigborhood: "Autumn Leaf",
+    neighborhood: "Autumn Leaf",
     city: "Karakol",
     averageAge: 39,
     distanceFromCityCenter: 64.2,
@@ -549,7 +549,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 78.3955986,
   },
   {
-    neigborhood: "Beilfuss",
+    neighborhood: "Beilfuss",
     state: "09",
     city: "Vide",
     averageAge: 67,
@@ -560,7 +560,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -105.2061347,
   },
   {
-    neigborhood: "Pankratz",
+    neighborhood: "Pankratz",
     city: "Calheta",
     averageAge: 19,
     distanceFromCityCenter: 36.6,
@@ -570,7 +570,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -23.2141352,
   },
   {
-    neigborhood: "Briar Crest",
+    neighborhood: "Briar Crest",
     city: "Ciudad Bolivia",
     averageAge: 46,
     distanceFromCityCenter: 6.8,
@@ -580,7 +580,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -70.5770632,
   },
   {
-    neigborhood: "Sauthoff",
+    neighborhood: "Sauthoff",
     city: "Neuzina",
     averageAge: 42,
     distanceFromCityCenter: 3.1,
@@ -590,7 +590,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.7261064,
   },
   {
-    neigborhood: "Troy",
+    neighborhood: "Troy",
     city: "Sousse",
     averageAge: 48,
     distanceFromCityCenter: 75.7,
@@ -600,7 +600,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 10.608395,
   },
   {
-    neigborhood: "Atwood",
+    neighborhood: "Atwood",
     city: "Zongluzui",
     averageAge: 29,
     distanceFromCityCenter: 4.4,
@@ -610,7 +610,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.078981,
   },
   {
-    neigborhood: "Bartelt",
+    neighborhood: "Bartelt",
     city: "Dire Dawa",
     averageAge: 37,
     distanceFromCityCenter: 97.3,
@@ -620,7 +620,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 41.850142,
   },
   {
-    neigborhood: "Rusk",
+    neighborhood: "Rusk",
     city: "Mamfe",
     averageAge: 52,
     distanceFromCityCenter: 10.0,
@@ -630,7 +630,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 9.3146014,
   },
   {
-    neigborhood: "Bunting",
+    neighborhood: "Bunting",
     city: "Skoura",
     averageAge: 46,
     distanceFromCityCenter: 53.2,
@@ -640,7 +640,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -6.555654,
   },
   {
-    neigborhood: "Mallory",
+    neighborhood: "Mallory",
     city: "Tomarovka",
     averageAge: 34,
     distanceFromCityCenter: 64.6,
@@ -650,7 +650,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.1738669,
   },
   {
-    neigborhood: "Vidon",
+    neighborhood: "Vidon",
     city: "Nantang",
     averageAge: 36,
     distanceFromCityCenter: 69.7,
@@ -660,7 +660,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.792856,
   },
   {
-    neigborhood: "Raven",
+    neighborhood: "Raven",
     city: "San Casimiro",
     averageAge: 52,
     distanceFromCityCenter: 26.5,
@@ -670,7 +670,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -66.9511459,
   },
   {
-    neigborhood: "Clemons",
+    neighborhood: "Clemons",
     state: "AB",
     city: "Stockholm",
     averageAge: 39,
@@ -681,7 +681,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -68.1435063,
   },
   {
-    neigborhood: "Red Cloud",
+    neighborhood: "Red Cloud",
     city: "São Domingos",
     averageAge: 65,
     distanceFromCityCenter: 86.5,
@@ -691,7 +691,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -23.563922,
   },
   {
-    neigborhood: "Sundown",
+    neighborhood: "Sundown",
     city: "Guhua",
     averageAge: 33,
     distanceFromCityCenter: 89.6,
@@ -701,7 +701,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.972883,
   },
   {
-    neigborhood: "West",
+    neighborhood: "West",
     city: "Zvenyhorodka",
     averageAge: 39,
     distanceFromCityCenter: 91.9,
@@ -711,7 +711,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 30.9699903,
   },
   {
-    neigborhood: "Corben",
+    neighborhood: "Corben",
     state: "15",
     city: "Pinhal da Marquesa",
     averageAge: 46,
@@ -722,7 +722,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.9994843,
   },
   {
-    neigborhood: "Lotheville",
+    neighborhood: "Lotheville",
     city: "Stryszawa",
     averageAge: 36,
     distanceFromCityCenter: 6.8,
@@ -732,7 +732,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.4856654,
   },
   {
-    neigborhood: "Prairie Rose",
+    neighborhood: "Prairie Rose",
     city: "Jaraguá do Sul",
     averageAge: 25,
     distanceFromCityCenter: 12.1,
@@ -742,7 +742,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -49.073477,
   },
   {
-    neigborhood: "Fallview",
+    neighborhood: "Fallview",
     city: "Mólos",
     averageAge: 65,
     distanceFromCityCenter: 58.2,
@@ -752,7 +752,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.6461855,
   },
   {
-    neigborhood: "Lake View",
+    neighborhood: "Lake View",
     city: "Pingtian",
     averageAge: 54,
     distanceFromCityCenter: 46.8,
@@ -762,7 +762,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.790168,
   },
   {
-    neigborhood: "Onsgard",
+    neighborhood: "Onsgard",
     city: "Harjamukti",
     averageAge: 23,
     distanceFromCityCenter: 97.2,
@@ -772,7 +772,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.5522531,
   },
   {
-    neigborhood: "Chive",
+    neighborhood: "Chive",
     city: "Kembangarum",
     averageAge: 45,
     distanceFromCityCenter: 81.2,
@@ -782,7 +782,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.3740754,
   },
   {
-    neigborhood: "Norway Maple",
+    neighborhood: "Norway Maple",
     city: "Jiangkou",
     averageAge: 66,
     distanceFromCityCenter: 69.8,
@@ -792,7 +792,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.839557,
   },
   {
-    neigborhood: "Buhler",
+    neighborhood: "Buhler",
     state: "BC",
     city: "Pemberton",
     averageAge: 43,
@@ -803,7 +803,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -122.80273,
   },
   {
-    neigborhood: "Springview",
+    neighborhood: "Springview",
     city: "Drahichyn",
     averageAge: 49,
     distanceFromCityCenter: 44.4,
@@ -813,7 +813,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.1471719,
   },
   {
-    neigborhood: "Melby",
+    neighborhood: "Melby",
     city: "Pitanga",
     averageAge: 70,
     distanceFromCityCenter: 33.6,
@@ -823,7 +823,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -51.7601166,
   },
   {
-    neigborhood: "Birchwood",
+    neighborhood: "Birchwood",
     city: "Dobrich",
     averageAge: 59,
     distanceFromCityCenter: 23.8,
@@ -833,7 +833,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 27.8272802,
   },
   {
-    neigborhood: "Reinke",
+    neighborhood: "Reinke",
     city: "Huai’an",
     averageAge: 35,
     distanceFromCityCenter: 25.5,
@@ -843,7 +843,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.113185,
   },
   {
-    neigborhood: "Warbler",
+    neighborhood: "Warbler",
     city: "Huangcaotuo",
     averageAge: 40,
     distanceFromCityCenter: 5.5,
@@ -853,7 +853,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.04619,
   },
   {
-    neigborhood: "Pawling",
+    neighborhood: "Pawling",
     city: "Kafr Nubl",
     averageAge: 68,
     distanceFromCityCenter: 20.9,
@@ -863,7 +863,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.5607888,
   },
   {
-    neigborhood: "Logan",
+    neighborhood: "Logan",
     city: "Garies",
     averageAge: 68,
     distanceFromCityCenter: 33.8,
@@ -873,7 +873,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.9904127,
   },
   {
-    neigborhood: "Delladonna",
+    neighborhood: "Delladonna",
     state: "10",
     city: "Picoto",
     averageAge: 55,
@@ -884,7 +884,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.8426989,
   },
   {
-    neigborhood: "Cody",
+    neighborhood: "Cody",
     state: "OH",
     city: "Dayton",
     averageAge: 53,
@@ -895,7 +895,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -84.0854432,
   },
   {
-    neigborhood: "Green",
+    neighborhood: "Green",
     city: "Ngerengere",
     averageAge: 41,
     distanceFromCityCenter: 38.5,
@@ -905,7 +905,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.131876,
   },
   {
-    neigborhood: "Burrows",
+    neighborhood: "Burrows",
     city: "Tanjungbahagia",
     averageAge: 49,
     distanceFromCityCenter: 56.1,
@@ -915,7 +915,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.0147985,
   },
   {
-    neigborhood: "Fair Oaks",
+    neighborhood: "Fair Oaks",
     city: "Yingpu",
     averageAge: 25,
     distanceFromCityCenter: 58.3,
@@ -925,7 +925,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.525727,
   },
   {
-    neigborhood: "Bultman",
+    neighborhood: "Bultman",
     city: "Xinshui",
     averageAge: 42,
     distanceFromCityCenter: 26.0,
@@ -935,7 +935,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.4703114,
   },
   {
-    neigborhood: "South",
+    neighborhood: "South",
     city: "Boituva",
     averageAge: 35,
     distanceFromCityCenter: 49.3,
@@ -945,7 +945,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.6790285,
   },
   {
-    neigborhood: "Thompson",
+    neighborhood: "Thompson",
     city: "Lokossa",
     averageAge: 39,
     distanceFromCityCenter: 38.0,
@@ -955,7 +955,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 1.7198215,
   },
   {
-    neigborhood: "Mifflin",
+    neighborhood: "Mifflin",
     city: "Bacnor East",
     averageAge: 66,
     distanceFromCityCenter: 72.3,
@@ -965,7 +965,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.7050399,
   },
   {
-    neigborhood: "Shelley",
+    neighborhood: "Shelley",
     city: "Mentoro Wetan",
     averageAge: 49,
     distanceFromCityCenter: 15.8,
@@ -975,7 +975,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.4904,
   },
   {
-    neigborhood: "Surrey",
+    neighborhood: "Surrey",
     city: "Manzherok",
     averageAge: 61,
     distanceFromCityCenter: 7.2,
@@ -985,7 +985,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 85.7788422,
   },
   {
-    neigborhood: "La Follette",
+    neighborhood: "La Follette",
     city: "Jequitinhonha",
     averageAge: 29,
     distanceFromCityCenter: 80.7,
@@ -995,7 +995,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -41.0394028,
   },
   {
-    neigborhood: "Golf",
+    neighborhood: "Golf",
     city: "Sankoutang",
     averageAge: 22,
     distanceFromCityCenter: 74.8,
@@ -1005,7 +1005,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.8132691,
   },
   {
-    neigborhood: "Green Ridge",
+    neighborhood: "Green Ridge",
     city: "Souflí",
     averageAge: 23,
     distanceFromCityCenter: 8.5,
@@ -1015,7 +1015,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 26.2992566,
   },
   {
-    neigborhood: "School",
+    neighborhood: "School",
     state: "DC",
     city: "Washington",
     averageAge: 25,
@@ -1026,7 +1026,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -77.04997,
   },
   {
-    neigborhood: "Vera",
+    neighborhood: "Vera",
     city: "Yuzui",
     averageAge: 46,
     distanceFromCityCenter: 77.5,
@@ -1036,7 +1036,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.374025,
   },
   {
-    neigborhood: "Service",
+    neighborhood: "Service",
     city: "Salamá",
     averageAge: 61,
     distanceFromCityCenter: 12.5,
@@ -1046,7 +1046,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -86.5728785,
   },
   {
-    neigborhood: "Sutteridge",
+    neighborhood: "Sutteridge",
     city: "Gose",
     averageAge: 60,
     distanceFromCityCenter: 33.5,
@@ -1056,7 +1056,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 135.4765527,
   },
   {
-    neigborhood: "Starling",
+    neighborhood: "Starling",
     city: "Nueva Guadalupe",
     averageAge: 46,
     distanceFromCityCenter: 37.7,
@@ -1066,7 +1066,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -88.3506468,
   },
   {
-    neigborhood: "Dorton",
+    neighborhood: "Dorton",
     city: "Kihurio",
     averageAge: 65,
     distanceFromCityCenter: 78.6,
@@ -1076,7 +1076,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.0750461,
   },
   {
-    neigborhood: "Northport",
+    neighborhood: "Northport",
     city: "Kalidung",
     averageAge: 19,
     distanceFromCityCenter: 77.1,
@@ -1086,7 +1086,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.8902,
   },
   {
-    neigborhood: "Arapahoe",
+    neighborhood: "Arapahoe",
     city: "Lotoshino",
     averageAge: 61,
     distanceFromCityCenter: 63.4,
@@ -1096,7 +1096,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.6372213,
   },
   {
-    neigborhood: "Marcy",
+    neighborhood: "Marcy",
     city: "Kafyr-Kumukh",
     averageAge: 60,
     distanceFromCityCenter: 30.2,
@@ -1106,7 +1106,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 47.188097,
   },
   {
-    neigborhood: "Summer Ridge",
+    neighborhood: "Summer Ridge",
     city: "Girsereng",
     averageAge: 61,
     distanceFromCityCenter: 26.9,
@@ -1116,7 +1116,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.8915008,
   },
   {
-    neigborhood: "Dapin",
+    neighborhood: "Dapin",
     city: "Andradina",
     averageAge: 46,
     distanceFromCityCenter: 75.4,
@@ -1126,7 +1126,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -51.3860303,
   },
   {
-    neigborhood: "Lillian",
+    neighborhood: "Lillian",
     city: "Floriana",
     averageAge: 68,
     distanceFromCityCenter: 36.7,
@@ -1136,7 +1136,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.5075482,
   },
   {
-    neigborhood: "Stuart",
+    neighborhood: "Stuart",
     city: "Zubří",
     averageAge: 19,
     distanceFromCityCenter: 55.8,
@@ -1146,7 +1146,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.0992378,
   },
   {
-    neigborhood: "Sycamore",
+    neighborhood: "Sycamore",
     city: "Barreiros",
     averageAge: 69,
     distanceFromCityCenter: 38.4,
@@ -1156,7 +1156,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -35.2807624,
   },
   {
-    neigborhood: "Barnett",
+    neighborhood: "Barnett",
     state: "17",
     city: "Peso da Régua",
     averageAge: 32,
@@ -1167,7 +1167,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -7.7937927,
   },
   {
-    neigborhood: "Roth",
+    neighborhood: "Roth",
     city: "Rechitsy",
     averageAge: 64,
     distanceFromCityCenter: 15.3,
@@ -1177,7 +1177,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.47134,
   },
   {
-    neigborhood: "Grasskamp",
+    neighborhood: "Grasskamp",
     city: "La‘l",
     averageAge: 34,
     distanceFromCityCenter: 0.9,
@@ -1187,7 +1187,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 66.2724183,
   },
   {
-    neigborhood: "Northland",
+    neighborhood: "Northland",
     city: "Calvinia",
     averageAge: 52,
     distanceFromCityCenter: 55.4,
@@ -1197,7 +1197,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.7582,
   },
   {
-    neigborhood: "Linden",
+    neighborhood: "Linden",
     city: "Daming",
     averageAge: 27,
     distanceFromCityCenter: 14.9,
@@ -1207,7 +1207,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.147814,
   },
   {
-    neigborhood: "Stephen",
+    neighborhood: "Stephen",
     city: "Santiago",
     averageAge: 27,
     distanceFromCityCenter: 28.4,
@@ -1217,7 +1217,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.0298199,
   },
   {
-    neigborhood: "Nelson",
+    neighborhood: "Nelson",
     city: "El Tambo",
     averageAge: 31,
     distanceFromCityCenter: 53.4,
@@ -1227,7 +1227,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -77.0270549,
   },
   {
-    neigborhood: "Susan",
+    neighborhood: "Susan",
     city: "Shuigou",
     averageAge: 58,
     distanceFromCityCenter: 85.2,
@@ -1237,7 +1237,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 79.9088564,
   },
   {
-    neigborhood: "West",
+    neighborhood: "West",
     city: "Koszarawa",
     averageAge: 23,
     distanceFromCityCenter: 42.2,
@@ -1247,7 +1247,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.4151148,
   },
   {
-    neigborhood: "Hooker",
+    neighborhood: "Hooker",
     city: "Lushnjë",
     averageAge: 58,
     distanceFromCityCenter: 9.7,
@@ -1257,7 +1257,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.6996428,
   },
   {
-    neigborhood: "Loeprich",
+    neighborhood: "Loeprich",
     city: "Santa Cruz",
     averageAge: 43,
     distanceFromCityCenter: 47.9,
@@ -1267,7 +1267,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.7213113,
   },
   {
-    neigborhood: "Nova",
+    neighborhood: "Nova",
     city: "Quípama",
     averageAge: 54,
     distanceFromCityCenter: 65.8,
@@ -1277,7 +1277,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -74.2296713,
   },
   {
-    neigborhood: "Tennessee",
+    neighborhood: "Tennessee",
     city: "Sale",
     averageAge: 19,
     distanceFromCityCenter: 54.6,
@@ -1287,7 +1287,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.5587544,
   },
   {
-    neigborhood: "Sachtjen",
+    neighborhood: "Sachtjen",
     city: "Mat-i",
     averageAge: 41,
     distanceFromCityCenter: 72.1,
@@ -1297,7 +1297,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.9026495,
   },
   {
-    neigborhood: "Basil",
+    neighborhood: "Basil",
     city: "Solomenskoye",
     averageAge: 21,
     distanceFromCityCenter: 47.9,
@@ -1307,7 +1307,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 34.3054029,
   },
   {
-    neigborhood: "Manufacturers",
+    neighborhood: "Manufacturers",
     city: "Mvomero",
     averageAge: 64,
     distanceFromCityCenter: 83.6,
@@ -1317,7 +1317,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.693748,
   },
   {
-    neigborhood: "Summerview",
+    neighborhood: "Summerview",
     city: "Kulia Village",
     averageAge: 28,
     distanceFromCityCenter: 70.6,
@@ -1327,7 +1327,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 177.33393,
   },
   {
-    neigborhood: "Mosinee",
+    neighborhood: "Mosinee",
     city: "Cárdenas",
     averageAge: 21,
     distanceFromCityCenter: 74.6,
@@ -1337,7 +1337,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -81.2133262,
   },
   {
-    neigborhood: "Sutteridge",
+    neighborhood: "Sutteridge",
     city: "Songqiao",
     averageAge: 67,
     distanceFromCityCenter: 33.6,
@@ -1347,7 +1347,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.3078508,
   },
   {
-    neigborhood: "Lien",
+    neighborhood: "Lien",
     city: "Hukeng",
     averageAge: 34,
     distanceFromCityCenter: 64.3,
@@ -1357,7 +1357,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.951541,
   },
   {
-    neigborhood: "Lillian",
+    neighborhood: "Lillian",
     city: "Wahai",
     averageAge: 63,
     distanceFromCityCenter: 70.9,
@@ -1367,7 +1367,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 129.484497,
   },
   {
-    neigborhood: "Raven",
+    neighborhood: "Raven",
     city: "Açucena",
     averageAge: 56,
     distanceFromCityCenter: 56.3,
@@ -1377,7 +1377,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -42.5478901,
   },
   {
-    neigborhood: "1st",
+    neighborhood: "1st",
     state: "NSW",
     city: "Australia Square",
     averageAge: 23,
@@ -1388,7 +1388,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 151.2078882,
   },
   {
-    neigborhood: "Sheridan",
+    neighborhood: "Sheridan",
     city: "Novo Cruzeiro",
     averageAge: 67,
     distanceFromCityCenter: 65.4,
@@ -1398,7 +1398,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -41.9989718,
   },
   {
-    neigborhood: "Stone Corner",
+    neighborhood: "Stone Corner",
     city: "Krasnyy Oktyabr’",
     averageAge: 65,
     distanceFromCityCenter: 84.4,
@@ -1408,7 +1408,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.8768972,
   },
   {
-    neigborhood: "Laurel",
+    neighborhood: "Laurel",
     city: "Piritiba",
     averageAge: 62,
     distanceFromCityCenter: 26.3,
@@ -1418,7 +1418,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -40.5940565,
   },
   {
-    neigborhood: "Anzinger",
+    neighborhood: "Anzinger",
     state: "CL",
     city: "Leon",
     averageAge: 24,
@@ -1429,7 +1429,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -5.5722297,
   },
   {
-    neigborhood: "Bashford",
+    neighborhood: "Bashford",
     city: "Bella Vista",
     averageAge: 38,
     distanceFromCityCenter: 38.4,
@@ -1439,7 +1439,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -55.5746294,
   },
   {
-    neigborhood: "Washington",
+    neighborhood: "Washington",
     city: "Nagahama",
     averageAge: 19,
     distanceFromCityCenter: 7.2,
@@ -1449,7 +1449,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 139.3751118,
   },
   {
-    neigborhood: "Forest Run",
+    neighborhood: "Forest Run",
     city: "Poços de Caldas",
     averageAge: 42,
     distanceFromCityCenter: 18.6,
@@ -1459,7 +1459,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -46.5619303,
   },
   {
-    neigborhood: "Maple Wood",
+    neighborhood: "Maple Wood",
     city: "Bungtiang Barat",
     averageAge: 57,
     distanceFromCityCenter: 95.7,
@@ -1469,7 +1469,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.4872482,
   },
   {
-    neigborhood: "Burrows",
+    neighborhood: "Burrows",
     city: "Cinangka",
     averageAge: 54,
     distanceFromCityCenter: 44.1,
@@ -1479,7 +1479,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.7617984,
   },
   {
-    neigborhood: "Jenna",
+    neighborhood: "Jenna",
     city: "Lebu",
     averageAge: 57,
     distanceFromCityCenter: 11.3,
@@ -1489,7 +1489,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.6483294,
   },
   {
-    neigborhood: "Pepper Wood",
+    neighborhood: "Pepper Wood",
     city: "Iracemápolis",
     averageAge: 21,
     distanceFromCityCenter: 30.7,
@@ -1499,7 +1499,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.5177229,
   },
   {
-    neigborhood: "Buhler",
+    neighborhood: "Buhler",
     city: "Jubaoshan",
     averageAge: 47,
     distanceFromCityCenter: 75.6,
@@ -1509,7 +1509,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.497935,
   },
   {
-    neigborhood: "Ludington",
+    neighborhood: "Ludington",
     city: "Elele",
     averageAge: 44,
     distanceFromCityCenter: 30.4,
@@ -1519,7 +1519,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 6.8190224,
   },
   {
-    neigborhood: "Mockingbird",
+    neighborhood: "Mockingbird",
     state: "A5",
     city: "Ajaccio",
     averageAge: 34,
@@ -1530,7 +1530,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 0.813275,
   },
   {
-    neigborhood: "Laurel",
+    neighborhood: "Laurel",
     city: "Yangzhou",
     averageAge: 68,
     distanceFromCityCenter: 62.0,
@@ -1540,7 +1540,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.412939,
   },
   {
-    neigborhood: "Gerald",
+    neighborhood: "Gerald",
     state: "06",
     city: "Casal das Figueiras",
     averageAge: 70,
@@ -1551,7 +1551,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.5659855,
   },
   {
-    neigborhood: "Lotheville",
+    neighborhood: "Lotheville",
     city: "Nandu",
     averageAge: 25,
     distanceFromCityCenter: 65.7,
@@ -1561,7 +1561,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.417397,
   },
   {
-    neigborhood: "Union",
+    neighborhood: "Union",
     city: "Pilluana",
     averageAge: 66,
     distanceFromCityCenter: 79.0,
@@ -1571,7 +1571,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -76.2899071,
   },
   {
-    neigborhood: "Mayer",
+    neighborhood: "Mayer",
     city: "Srebrenica",
     averageAge: 22,
     distanceFromCityCenter: 23.7,
@@ -1581,7 +1581,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.2997218,
   },
   {
-    neigborhood: "Upham",
+    neighborhood: "Upham",
     state: "A1",
     city: "Mâcon",
     averageAge: 45,
@@ -1592,7 +1592,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 4.797057,
   },
   {
-    neigborhood: "Golf View",
+    neighborhood: "Golf View",
     city: "Banjar Kubu",
     averageAge: 38,
     distanceFromCityCenter: 73.0,
@@ -1602,7 +1602,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.566002,
   },
   {
-    neigborhood: "Mccormick",
+    neighborhood: "Mccormick",
     city: "Huibu",
     averageAge: 70,
     distanceFromCityCenter: 71.5,
@@ -1612,7 +1612,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.146885,
   },
   {
-    neigborhood: "Mosinee",
+    neighborhood: "Mosinee",
     state: "TX",
     city: "Houston",
     averageAge: 62,
@@ -1623,7 +1623,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -95.5587992,
   },
   {
-    neigborhood: "Mendota",
+    neighborhood: "Mendota",
     city: "Wan Yai",
     averageAge: 20,
     distanceFromCityCenter: 4.0,
@@ -1633,7 +1633,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 104.7345937,
   },
   {
-    neigborhood: "2nd",
+    neighborhood: "2nd",
     city: "Leping",
     averageAge: 37,
     distanceFromCityCenter: 57.7,
@@ -1643,7 +1643,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.151796,
   },
   {
-    neigborhood: "Bluestem",
+    neighborhood: "Bluestem",
     city: "Cavinti",
     averageAge: 48,
     distanceFromCityCenter: 30.3,
@@ -1653,7 +1653,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.498915,
   },
   {
-    neigborhood: "Linden",
+    neighborhood: "Linden",
     city: "Lintingkou",
     averageAge: 46,
     distanceFromCityCenter: 95.1,
@@ -1663,7 +1663,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.515189,
   },
   {
-    neigborhood: "Rigney",
+    neighborhood: "Rigney",
     city: "Lianhe",
     averageAge: 35,
     distanceFromCityCenter: 47.9,
@@ -1673,7 +1673,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 101.808485,
   },
   {
-    neigborhood: "Fuller",
+    neighborhood: "Fuller",
     city: "Foča",
     averageAge: 63,
     distanceFromCityCenter: 68.3,
@@ -1683,7 +1683,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.7772645,
   },
   {
-    neigborhood: "Autumn Leaf",
+    neighborhood: "Autumn Leaf",
     city: "Mozirje",
     averageAge: 29,
     distanceFromCityCenter: 48.6,
@@ -1693,7 +1693,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.9599807,
   },
   {
-    neigborhood: "Vera",
+    neighborhood: "Vera",
     state: "NL",
     city: "Conception Bay South",
     averageAge: 48,
@@ -1704,7 +1704,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -52.9940605,
   },
   {
-    neigborhood: "Novick",
+    neighborhood: "Novick",
     city: "Nova Cruz",
     averageAge: 49,
     distanceFromCityCenter: 47.7,
@@ -1714,7 +1714,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -35.4124355,
   },
   {
-    neigborhood: "Oak Valley",
+    neighborhood: "Oak Valley",
     city: "Digkilaan",
     averageAge: 63,
     distanceFromCityCenter: 14.2,
@@ -1724,7 +1724,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.3401302,
   },
   {
-    neigborhood: "Vahlen",
+    neighborhood: "Vahlen",
     city: "Bankaw",
     averageAge: 44,
     distanceFromCityCenter: 26.6,
@@ -1734,7 +1734,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.0493442,
   },
   {
-    neigborhood: "Gulseth",
+    neighborhood: "Gulseth",
     city: "Basak",
     averageAge: 23,
     distanceFromCityCenter: 30.5,
@@ -1744,7 +1744,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.9595164,
   },
   {
-    neigborhood: "Hagan",
+    neighborhood: "Hagan",
     city: "Hiji",
     averageAge: 33,
     distanceFromCityCenter: 16.1,
@@ -1754,7 +1754,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 128.1765722,
   },
   {
-    neigborhood: "Green",
+    neighborhood: "Green",
     city: "Łobez",
     averageAge: 63,
     distanceFromCityCenter: 93.1,
@@ -1764,7 +1764,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.62129,
   },
   {
-    neigborhood: "Merrick",
+    neighborhood: "Merrick",
     city: "Maddarulug Norte",
     averageAge: 44,
     distanceFromCityCenter: 59.0,
@@ -1774,7 +1774,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.6851715,
   },
   {
-    neigborhood: "School",
+    neighborhood: "School",
     city: "Jiufang",
     averageAge: 37,
     distanceFromCityCenter: 98.6,
@@ -1784,7 +1784,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 103.998074,
   },
   {
-    neigborhood: "Kim",
+    neighborhood: "Kim",
     city: "‘Aşīrah al Qiblīyah",
     averageAge: 57,
     distanceFromCityCenter: 25.5,
@@ -1794,7 +1794,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.21569,
   },
   {
-    neigborhood: "Gale",
+    neighborhood: "Gale",
     state: "FL",
     city: "Pensacola",
     averageAge: 58,
@@ -1805,7 +1805,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -87.193563,
   },
   {
-    neigborhood: "Mariners Cove",
+    neighborhood: "Mariners Cove",
     city: "Serh",
     averageAge: 51,
     distanceFromCityCenter: 22.3,
@@ -1815,7 +1815,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.2889917,
   },
   {
-    neigborhood: "Morning",
+    neighborhood: "Morning",
     city: "Tejen",
     averageAge: 54,
     distanceFromCityCenter: 5.3,
@@ -1825,7 +1825,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 60.5008307,
   },
   {
-    neigborhood: "Warrior",
+    neighborhood: "Warrior",
     city: "Songying",
     averageAge: 31,
     distanceFromCityCenter: 61.9,
@@ -1835,7 +1835,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.674614,
   },
   {
-    neigborhood: "Lotheville",
+    neighborhood: "Lotheville",
     city: "Néa Smýrni",
     averageAge: 65,
     distanceFromCityCenter: 8.9,
@@ -1845,7 +1845,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 23.7117556,
   },
   {
-    neigborhood: "Hermina",
+    neighborhood: "Hermina",
     state: "W",
     city: "Falun",
     averageAge: 20,
@@ -1856,7 +1856,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.6257125,
   },
   {
-    neigborhood: "Schlimgen",
+    neighborhood: "Schlimgen",
     city: "Quận Mười",
     averageAge: 70,
     distanceFromCityCenter: 86.4,
@@ -1866,7 +1866,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.6679542,
   },
   {
-    neigborhood: "Utah",
+    neighborhood: "Utah",
     city: "Rancapeundey",
     averageAge: 51,
     distanceFromCityCenter: 41.5,
@@ -1876,7 +1876,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.0665,
   },
   {
-    neigborhood: "Dottie",
+    neighborhood: "Dottie",
     city: "Yaozhou",
     averageAge: 46,
     distanceFromCityCenter: 10.3,
@@ -1886,7 +1886,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.980102,
   },
   {
-    neigborhood: "Ridgeview",
+    neighborhood: "Ridgeview",
     city: "Yasenskaya",
     averageAge: 59,
     distanceFromCityCenter: 35.0,
@@ -1896,7 +1896,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.2725015,
   },
   {
-    neigborhood: "Barby",
+    neighborhood: "Barby",
     city: "Bajiao",
     averageAge: 54,
     distanceFromCityCenter: 36.4,
@@ -1906,7 +1906,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.412626,
   },
   {
-    neigborhood: "Elmside",
+    neighborhood: "Elmside",
     city: "Ambian",
     averageAge: 30,
     distanceFromCityCenter: 54.7,
@@ -1916,7 +1916,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.1647919,
   },
   {
-    neigborhood: "Delaware",
+    neighborhood: "Delaware",
     city: "Orleans",
     averageAge: 55,
     distanceFromCityCenter: 79.9,
@@ -1926,7 +1926,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -49.3450112,
   },
   {
-    neigborhood: "Fallview",
+    neighborhood: "Fallview",
     city: "Tunggar",
     averageAge: 42,
     distanceFromCityCenter: 49.5,
@@ -1936,7 +1936,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 103.1358,
   },
   {
-    neigborhood: "Morning",
+    neighborhood: "Morning",
     state: "13",
     city: "Besteiros",
     averageAge: 31,
@@ -1947,7 +1947,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.344485,
   },
   {
-    neigborhood: "Butternut",
+    neighborhood: "Butternut",
     city: "New Washington",
     averageAge: 25,
     distanceFromCityCenter: 33.0,
@@ -1957,7 +1957,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 122.4318981,
   },
   {
-    neigborhood: "Independence",
+    neighborhood: "Independence",
     city: "Ma’an",
     averageAge: 58,
     distanceFromCityCenter: 84.2,
@@ -1967,7 +1967,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.589457,
   },
   {
-    neigborhood: "Canary",
+    neighborhood: "Canary",
     state: "GF",
     city: "Kourou",
     averageAge: 68,
@@ -1978,7 +1978,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -52.6449937,
   },
   {
-    neigborhood: "Transport",
+    neighborhood: "Transport",
     city: "Severka",
     averageAge: 53,
     distanceFromCityCenter: 93.4,
@@ -1988,7 +1988,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 60.2882554,
   },
   {
-    neigborhood: "Bultman",
+    neighborhood: "Bultman",
     city: "Níkaia",
     averageAge: 35,
     distanceFromCityCenter: 75.0,
@@ -1998,7 +1998,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 23.6412944,
   },
   {
-    neigborhood: "Monterey",
+    neighborhood: "Monterey",
     state: "DC",
     city: "Washington",
     averageAge: 50,
@@ -2009,7 +2009,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -76.99,
   },
   {
-    neigborhood: "Butterfield",
+    neighborhood: "Butterfield",
     city: "Sanhe",
     averageAge: 69,
     distanceFromCityCenter: 54.6,
@@ -2019,7 +2019,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.078294,
   },
   {
-    neigborhood: "Saint Paul",
+    neighborhood: "Saint Paul",
     city: "Shiye",
     averageAge: 50,
     distanceFromCityCenter: 82.8,
@@ -2029,7 +2029,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.798266,
   },
   {
-    neigborhood: "Anhalt",
+    neighborhood: "Anhalt",
     city: "Alta Gracia",
     averageAge: 31,
     distanceFromCityCenter: 20.8,
@@ -2039,7 +2039,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -58.5278307,
   },
   {
-    neigborhood: "Carpenter",
+    neighborhood: "Carpenter",
     state: "04",
     city: "Vila Flor",
     averageAge: 22,
@@ -2050,7 +2050,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -7.1616883,
   },
   {
-    neigborhood: "Onsgard",
+    neighborhood: "Onsgard",
     city: "Balud",
     averageAge: 55,
     distanceFromCityCenter: 40.7,
@@ -2060,7 +2060,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.0601862,
   },
   {
-    neigborhood: "Del Mar",
+    neighborhood: "Del Mar",
     city: "Kuangshan",
     averageAge: 21,
     distanceFromCityCenter: 48.6,
@@ -2070,7 +2070,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.502705,
   },
   {
-    neigborhood: "Banding",
+    neighborhood: "Banding",
     city: "Tongjiang",
     averageAge: 57,
     distanceFromCityCenter: 7.2,
@@ -2080,7 +2080,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 132.510919,
   },
   {
-    neigborhood: "Fallview",
+    neighborhood: "Fallview",
     city: "Jinzhou",
     averageAge: 44,
     distanceFromCityCenter: 95.4,
@@ -2090,7 +2090,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.1268459,
   },
   {
-    neigborhood: "Erie",
+    neighborhood: "Erie",
     state: "TAS",
     city: "Launceston",
     averageAge: 58,
@@ -2101,7 +2101,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 147.1440875,
   },
   {
-    neigborhood: "Michigan",
+    neighborhood: "Michigan",
     city: "Drawsko Pomorskie",
     averageAge: 27,
     distanceFromCityCenter: 86.2,
@@ -2111,7 +2111,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.8138245,
   },
   {
-    neigborhood: "Shopko",
+    neighborhood: "Shopko",
     city: "Solntsevo",
     averageAge: 23,
     distanceFromCityCenter: 16.9,
@@ -2121,7 +2121,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 37.39423,
   },
   {
-    neigborhood: "Ronald Regan",
+    neighborhood: "Ronald Regan",
     city: "Jiujiang",
     averageAge: 41,
     distanceFromCityCenter: 98.7,
@@ -2131,7 +2131,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.00193,
   },
   {
-    neigborhood: "Village",
+    neighborhood: "Village",
     city: "Mauhao",
     averageAge: 18,
     distanceFromCityCenter: 8.5,
@@ -2141,7 +2141,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.5849792,
   },
   {
-    neigborhood: "Briar Crest",
+    neighborhood: "Briar Crest",
     state: "13",
     city: "Aldeias de Cima",
     averageAge: 61,
@@ -2152,7 +2152,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.570312,
   },
   {
-    neigborhood: "Clyde Gallagher",
+    neighborhood: "Clyde Gallagher",
     city: "Murillo",
     averageAge: 56,
     distanceFromCityCenter: 26.8,
@@ -2162,7 +2162,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.170429,
   },
   {
-    neigborhood: "Memorial",
+    neighborhood: "Memorial",
     city: "Qiaotou",
     averageAge: 23,
     distanceFromCityCenter: 46.4,
@@ -2172,7 +2172,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.482198,
   },
   {
-    neigborhood: "Mifflin",
+    neighborhood: "Mifflin",
     state: "01",
     city: "Anadia",
     averageAge: 21,
@@ -2183,7 +2183,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.4396618,
   },
   {
-    neigborhood: "Messerschmidt",
+    neighborhood: "Messerschmidt",
     city: "Bolgar",
     averageAge: 44,
     distanceFromCityCenter: 20.9,
@@ -2193,7 +2193,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 49.0342414,
   },
   {
-    neigborhood: "Talisman",
+    neighborhood: "Talisman",
     city: "San Ignacio",
     averageAge: 30,
     distanceFromCityCenter: 24.7,
@@ -2203,7 +2203,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -87.0399404,
   },
   {
-    neigborhood: "Loftsgordon",
+    neighborhood: "Loftsgordon",
     state: "17",
     city: "Portela",
     averageAge: 18,
@@ -2214,7 +2214,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -7.7452871,
   },
   {
-    neigborhood: "Harper",
+    neighborhood: "Harper",
     state: "IN",
     city: "Bloomington",
     averageAge: 68,
@@ -2225,7 +2225,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -86.5186022,
   },
   {
-    neigborhood: "Lunder",
+    neighborhood: "Lunder",
     city: "Huibu",
     averageAge: 68,
     distanceFromCityCenter: 58.1,
@@ -2235,7 +2235,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.146885,
   },
   {
-    neigborhood: "Eastwood",
+    neighborhood: "Eastwood",
     state: "B8",
     city: "Nice",
     averageAge: 59,
@@ -2246,7 +2246,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.2559678,
   },
   {
-    neigborhood: "Thierer",
+    neighborhood: "Thierer",
     city: "Metsamor",
     averageAge: 47,
     distanceFromCityCenter: 44.3,
@@ -2256,7 +2256,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.1241666,
   },
   {
-    neigborhood: "Lotheville",
+    neighborhood: "Lotheville",
     state: "QC",
     city: "Victoriaville",
     averageAge: 36,
@@ -2267,7 +2267,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -71.9782415,
   },
   {
-    neigborhood: "Bunting",
+    neighborhood: "Bunting",
     city: "Echeng",
     averageAge: 39,
     distanceFromCityCenter: 82.0,
@@ -2277,7 +2277,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.891614,
   },
   {
-    neigborhood: "Novick",
+    neighborhood: "Novick",
     city: "Heka",
     averageAge: 49,
     distanceFromCityCenter: 45.3,
@@ -2287,7 +2287,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.0855763,
   },
   {
-    neigborhood: "Marcy",
+    neighborhood: "Marcy",
     city: "Kinatakutan",
     averageAge: 32,
     distanceFromCityCenter: 28.2,
@@ -2297,7 +2297,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 122.4776048,
   },
   {
-    neigborhood: "Havey",
+    neighborhood: "Havey",
     city: "Horad Smalyavichy",
     averageAge: 33,
     distanceFromCityCenter: 81.3,
@@ -2307,7 +2307,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 28.0892299,
   },
   {
-    neigborhood: "Oak",
+    neighborhood: "Oak",
     city: "São Miguel do Guamá",
     averageAge: 22,
     distanceFromCityCenter: 34.6,
@@ -2317,7 +2317,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.6455169,
   },
   {
-    neigborhood: "Shelley",
+    neighborhood: "Shelley",
     city: "Botoh",
     averageAge: 43,
     distanceFromCityCenter: 11.3,
@@ -2327,7 +2327,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.7793523,
   },
   {
-    neigborhood: "Ridgeview",
+    neighborhood: "Ridgeview",
     city: "Kuma",
     averageAge: 27,
     distanceFromCityCenter: 57.6,
@@ -2337,7 +2337,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.817744,
   },
   {
-    neigborhood: "Bay",
+    neighborhood: "Bay",
     state: "01",
     city: "Moss",
     averageAge: 63,
@@ -2348,7 +2348,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 10.7605604,
   },
   {
-    neigborhood: "Victoria",
+    neighborhood: "Victoria",
     city: "Kass Wollof",
     averageAge: 53,
     distanceFromCityCenter: 3.9,
@@ -2358,7 +2358,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -14.93333,
   },
   {
-    neigborhood: "Lerdahl",
+    neighborhood: "Lerdahl",
     state: "KY",
     city: "Louisville",
     averageAge: 22,
@@ -2369,7 +2369,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -85.7,
   },
   {
-    neigborhood: "4th",
+    neighborhood: "4th",
     city: "Emnambithi-Ladysmith",
     averageAge: 64,
     distanceFromCityCenter: 14.3,
@@ -2379,7 +2379,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 29.7779991,
   },
   {
-    neigborhood: "Welch",
+    neighborhood: "Welch",
     city: "Sagay",
     averageAge: 68,
     distanceFromCityCenter: 89.6,
@@ -2389,7 +2389,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.7445365,
   },
   {
-    neigborhood: "Drewry",
+    neighborhood: "Drewry",
     state: "43",
     city: "São Bartolomeu",
     averageAge: 70,
@@ -2400,7 +2400,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -27.281743,
   },
   {
-    neigborhood: "Susan",
+    neighborhood: "Susan",
     city: "Henghe",
     averageAge: 55,
     distanceFromCityCenter: 29.9,
@@ -2410,7 +2410,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.507191,
   },
   {
-    neigborhood: "Marcy",
+    neighborhood: "Marcy",
     city: "Xingtai",
     averageAge: 25,
     distanceFromCityCenter: 92.8,
@@ -2420,7 +2420,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.504677,
   },
   {
-    neigborhood: "Vahlen",
+    neighborhood: "Vahlen",
     state: "ON",
     city: "Clarence-Rockland",
     averageAge: 35,
@@ -2431,7 +2431,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.2916118,
   },
   {
-    neigborhood: "Dapin",
+    neighborhood: "Dapin",
     city: "Horad Smalyavichy",
     averageAge: 19,
     distanceFromCityCenter: 30.7,
@@ -2441,7 +2441,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 28.0892299,
   },
   {
-    neigborhood: "Village",
+    neighborhood: "Village",
     state: "B9",
     city: "Lyon",
     averageAge: 54,
@@ -2452,7 +2452,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 1.9038837,
   },
   {
-    neigborhood: "Sachs",
+    neighborhood: "Sachs",
     city: "Changbai",
     averageAge: 28,
     distanceFromCityCenter: 42.7,
@@ -2462,7 +2462,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 128.200789,
   },
   {
-    neigborhood: "Gateway",
+    neighborhood: "Gateway",
     city: "Dikou",
     averageAge: 21,
     distanceFromCityCenter: 56.8,
@@ -2472,7 +2472,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.469281,
   },
   {
-    neigborhood: "Rigney",
+    neighborhood: "Rigney",
     state: "AB",
     city: "Bromma",
     averageAge: 67,
@@ -2483,7 +2483,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.9509504,
   },
   {
-    neigborhood: "Sullivan",
+    neighborhood: "Sullivan",
     state: "U",
     city: "Heby",
     averageAge: 51,
@@ -2494,7 +2494,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.1921015,
   },
   {
-    neigborhood: "Magdeline",
+    neighborhood: "Magdeline",
     state: "NSW",
     city: "Sydney",
     averageAge: 52,
@@ -2505,7 +2505,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 151.2502275,
   },
   {
-    neigborhood: "Burrows",
+    neighborhood: "Burrows",
     city: "Taourirt",
     averageAge: 67,
     distanceFromCityCenter: 99.2,
@@ -2515,7 +2515,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -2.8935028,
   },
   {
-    neigborhood: "Swallow",
+    neighborhood: "Swallow",
     city: "Beishan",
     averageAge: 48,
     distanceFromCityCenter: 46.5,
@@ -2525,7 +2525,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.02064,
   },
   {
-    neigborhood: "Gateway",
+    neighborhood: "Gateway",
     state: "16",
     city: "Eirado",
     averageAge: 48,
@@ -2536,7 +2536,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.6423484,
   },
   {
-    neigborhood: "Golf View",
+    neighborhood: "Golf View",
     city: "Riyom",
     averageAge: 68,
     distanceFromCityCenter: 50.5,
@@ -2546,7 +2546,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 8.713707,
   },
   {
-    neigborhood: "Hovde",
+    neighborhood: "Hovde",
     city: "Sanhe",
     averageAge: 42,
     distanceFromCityCenter: 82.0,
@@ -2556,7 +2556,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.078294,
   },
   {
-    neigborhood: "Kinsman",
+    neighborhood: "Kinsman",
     city: "Gyumri",
     averageAge: 63,
     distanceFromCityCenter: 58.2,
@@ -2566,7 +2566,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 43.8464971,
   },
   {
-    neigborhood: "Northland",
+    neighborhood: "Northland",
     city: "Hepu",
     averageAge: 53,
     distanceFromCityCenter: 57.5,
@@ -2576,7 +2576,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.207335,
   },
   {
-    neigborhood: "Sachs",
+    neighborhood: "Sachs",
     city: "Nong Hin",
     averageAge: 40,
     distanceFromCityCenter: 86.0,
@@ -2586,7 +2586,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 100.9010416,
   },
   {
-    neigborhood: "Ryan",
+    neighborhood: "Ryan",
     city: "Cuamba",
     averageAge: 40,
     distanceFromCityCenter: 22.3,
@@ -2596,7 +2596,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.5337731,
   },
   {
-    neigborhood: "Dahle",
+    neighborhood: "Dahle",
     city: "Jiaokou",
     averageAge: 68,
     distanceFromCityCenter: 69.6,
@@ -2606,7 +2606,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.18115,
   },
   {
-    neigborhood: "Becker",
+    neighborhood: "Becker",
     city: "Galesong",
     averageAge: 42,
     distanceFromCityCenter: 92.0,
@@ -2616,7 +2616,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.3831026,
   },
   {
-    neigborhood: "Schmedeman",
+    neighborhood: "Schmedeman",
     city: "Piraju",
     averageAge: 52,
     distanceFromCityCenter: 76.9,
@@ -2626,7 +2626,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -49.3838782,
   },
   {
-    neigborhood: "Mosinee",
+    neighborhood: "Mosinee",
     state: "C1",
     city: "Strasbourg",
     averageAge: 29,
@@ -2637,7 +2637,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.7342943,
   },
   {
-    neigborhood: "Reinke",
+    neighborhood: "Reinke",
     city: "Shuvakish",
     averageAge: 27,
     distanceFromCityCenter: 47.3,
@@ -2647,7 +2647,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 60.4807823,
   },
   {
-    neigborhood: "Marcy",
+    neighborhood: "Marcy",
     state: "AB",
     city: "Rönninge",
     averageAge: 69,
@@ -2658,7 +2658,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.7558589,
   },
   {
-    neigborhood: "Oakridge",
+    neighborhood: "Oakridge",
     city: "Sirari",
     averageAge: 68,
     distanceFromCityCenter: 78.4,
@@ -2668,7 +2668,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 34.4705503,
   },
   {
-    neigborhood: "Elka",
+    neighborhood: "Elka",
     city: "Zhushan",
     averageAge: 50,
     distanceFromCityCenter: 95.1,
@@ -2678,7 +2678,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.228747,
   },
   {
-    neigborhood: "Michigan",
+    neighborhood: "Michigan",
     city: "Las Parejas",
     averageAge: 52,
     distanceFromCityCenter: 8.6,
@@ -2688,7 +2688,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -58.494505,
   },
   {
-    neigborhood: "Harbort",
+    neighborhood: "Harbort",
     state: "AB",
     city: "Stockholm",
     averageAge: 68,
@@ -2699,7 +2699,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.0942083,
   },
   {
-    neigborhood: "Independence",
+    neighborhood: "Independence",
     city: "Lepaterique",
     averageAge: 42,
     distanceFromCityCenter: 9.3,
@@ -2709,7 +2709,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -87.4678266,
   },
   {
-    neigborhood: "Chinook",
+    neighborhood: "Chinook",
     city: "Fubin",
     averageAge: 49,
     distanceFromCityCenter: 15.6,
@@ -2719,7 +2719,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.450653,
   },
   {
-    neigborhood: "Sundown",
+    neighborhood: "Sundown",
     state: "B8",
     city: "Orange",
     averageAge: 65,
@@ -2730,7 +2730,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 4.810107,
   },
   {
-    neigborhood: "Bunting",
+    neighborhood: "Bunting",
     city: "Dayangqi",
     averageAge: 25,
     distanceFromCityCenter: 43.2,
@@ -2740,7 +2740,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.337072,
   },
   {
-    neigborhood: "Porter",
+    neighborhood: "Porter",
     city: "Pailles",
     averageAge: 35,
     distanceFromCityCenter: 91.5,
@@ -2750,7 +2750,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 57.4895229,
   },
   {
-    neigborhood: "Hintze",
+    neighborhood: "Hintze",
     city: "Oranzherei",
     averageAge: 66,
     distanceFromCityCenter: 87.1,
@@ -2760,7 +2760,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 47.56635,
   },
   {
-    neigborhood: "Reinke",
+    neighborhood: "Reinke",
     city: "Dongdong",
     averageAge: 20,
     distanceFromCityCenter: 73.9,
@@ -2770,7 +2770,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.7632828,
   },
   {
-    neigborhood: "Vahlen",
+    neighborhood: "Vahlen",
     city: "Gradishtë",
     averageAge: 29,
     distanceFromCityCenter: 1.6,
@@ -2780,7 +2780,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.5880506,
   },
   {
-    neigborhood: "Golden Leaf",
+    neighborhood: "Golden Leaf",
     city: "Nytva",
     averageAge: 51,
     distanceFromCityCenter: 44.8,
@@ -2790,7 +2790,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 55.34672,
   },
   {
-    neigborhood: "Spenser",
+    neighborhood: "Spenser",
     city: "Genting",
     averageAge: 70,
     distanceFromCityCenter: 62.1,
@@ -2800,7 +2800,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 98.166667,
   },
   {
-    neigborhood: "Superior",
+    neighborhood: "Superior",
     city: "Jam",
     averageAge: 43,
     distanceFromCityCenter: 47.7,
@@ -2810,7 +2810,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 52.350694,
   },
   {
-    neigborhood: "Iowa",
+    neighborhood: "Iowa",
     city: "Boundiali",
     averageAge: 69,
     distanceFromCityCenter: 33.7,
@@ -2820,7 +2820,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -6.482318,
   },
   {
-    neigborhood: "Helena",
+    neighborhood: "Helena",
     city: "Lubichowo",
     averageAge: 31,
     distanceFromCityCenter: 49.0,
@@ -2830,7 +2830,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.3991666,
   },
   {
-    neigborhood: "American",
+    neighborhood: "American",
     city: "Nowe Miasto nad Pilicą",
     averageAge: 38,
     distanceFromCityCenter: 13.0,
@@ -2840,7 +2840,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.52487,
   },
   {
-    neigborhood: "Haas",
+    neighborhood: "Haas",
     city: "Tanzhou",
     averageAge: 34,
     distanceFromCityCenter: 71.3,
@@ -2850,7 +2850,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.467503,
   },
   {
-    neigborhood: "Cascade",
+    neighborhood: "Cascade",
     city: "Casimiro de Abreu",
     averageAge: 50,
     distanceFromCityCenter: 16.7,
@@ -2860,7 +2860,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -42.2015431,
   },
   {
-    neigborhood: "Blaine",
+    neighborhood: "Blaine",
     city: "Rancaerang",
     averageAge: 70,
     distanceFromCityCenter: 60.9,
@@ -2870,7 +2870,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.719766,
   },
   {
-    neigborhood: "Park Meadow",
+    neighborhood: "Park Meadow",
     city: "Roshnik",
     averageAge: 53,
     distanceFromCityCenter: 41.3,
@@ -2880,7 +2880,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.0427329,
   },
   {
-    neigborhood: "Warrior",
+    neighborhood: "Warrior",
     state: "A8",
     city: "Pantin",
     averageAge: 24,
@@ -2891,7 +2891,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 4.26286,
   },
   {
-    neigborhood: "Mandrake",
+    neighborhood: "Mandrake",
     city: "Annau",
     averageAge: 53,
     distanceFromCityCenter: 37.6,
@@ -2901,7 +2901,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 58.4972596,
   },
   {
-    neigborhood: "Oakridge",
+    neighborhood: "Oakridge",
     city: "Lourdes",
     averageAge: 58,
     distanceFromCityCenter: 60.2,
@@ -2911,7 +2911,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.0034428,
   },
   {
-    neigborhood: "Loomis",
+    neighborhood: "Loomis",
     city: "Fuyo",
     averageAge: 35,
     distanceFromCityCenter: 66.1,
@@ -2921,7 +2921,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 126.0278163,
   },
   {
-    neigborhood: "Gerald",
+    neighborhood: "Gerald",
     city: "San Felipe",
     averageAge: 50,
     distanceFromCityCenter: 51.7,
@@ -2931,7 +2931,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -79.313438,
   },
   {
-    neigborhood: "Blaine",
+    neighborhood: "Blaine",
     city: "Borogontsy",
     averageAge: 35,
     distanceFromCityCenter: 66.8,
@@ -2941,7 +2941,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 131.152863,
   },
   {
-    neigborhood: "Harbort",
+    neighborhood: "Harbort",
     city: "Saint-Pierre",
     averageAge: 21,
     distanceFromCityCenter: 86.8,
@@ -2951,7 +2951,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -56.173126,
   },
   {
-    neigborhood: "Marquette",
+    neighborhood: "Marquette",
     city: "Kcynia",
     averageAge: 63,
     distanceFromCityCenter: 91.7,
@@ -2961,7 +2961,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.4884299,
   },
   {
-    neigborhood: "Macpherson",
+    neighborhood: "Macpherson",
     city: "Wumahe",
     averageAge: 50,
     distanceFromCityCenter: 36.9,
@@ -2971,7 +2971,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 128.799478,
   },
   {
-    neigborhood: "Arapahoe",
+    neighborhood: "Arapahoe",
     city: "Kabba",
     averageAge: 40,
     distanceFromCityCenter: 70.8,
@@ -2981,7 +2981,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 6.0732146,
   },
   {
-    neigborhood: "Melrose",
+    neighborhood: "Melrose",
     city: "Haitou",
     averageAge: 40,
     distanceFromCityCenter: 11.5,
@@ -2991,7 +2991,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.26435,
   },
   {
-    neigborhood: "Cambridge",
+    neighborhood: "Cambridge",
     city: "Kaznějov",
     averageAge: 62,
     distanceFromCityCenter: 85.1,
@@ -3001,7 +3001,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 13.3829583,
   },
   {
-    neigborhood: "Lien",
+    neighborhood: "Lien",
     city: "Huai Mek",
     averageAge: 38,
     distanceFromCityCenter: 52.1,
@@ -3011,7 +3011,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 103.2432632,
   },
   {
-    neigborhood: "Becker",
+    neighborhood: "Becker",
     city: "Yamaranguila",
     averageAge: 29,
     distanceFromCityCenter: 53.3,
@@ -3021,7 +3021,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -88.2424674,
   },
   {
-    neigborhood: "Sutherland",
+    neighborhood: "Sutherland",
     city: "Megion",
     averageAge: 60,
     distanceFromCityCenter: 60.5,
@@ -3031,7 +3031,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 76.4585878,
   },
   {
-    neigborhood: "Donald",
+    neighborhood: "Donald",
     city: "Seoam",
     averageAge: 45,
     distanceFromCityCenter: 41.6,
@@ -3041,7 +3041,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.3272134,
   },
   {
-    neigborhood: "Columbus",
+    neighborhood: "Columbus",
     city: "San José de Cusmapa",
     averageAge: 42,
     distanceFromCityCenter: 72.4,
@@ -3051,7 +3051,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -86.6548114,
   },
   {
-    neigborhood: "Bobwhite",
+    neighborhood: "Bobwhite",
     city: "Garibaldi",
     averageAge: 52,
     distanceFromCityCenter: 23.3,
@@ -3061,7 +3061,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -51.5289168,
   },
   {
-    neigborhood: "Valley Edge",
+    neighborhood: "Valley Edge",
     city: "Herrera",
     averageAge: 53,
     distanceFromCityCenter: 88.8,
@@ -3071,7 +3071,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.9818412,
   },
   {
-    neigborhood: "Talisman",
+    neighborhood: "Talisman",
     city: "Ash Shiḩr",
     averageAge: 47,
     distanceFromCityCenter: 7.9,
@@ -3081,7 +3081,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 49.6044141,
   },
   {
-    neigborhood: "Dwight",
+    neighborhood: "Dwight",
     city: "Santa Ana",
     averageAge: 62,
     distanceFromCityCenter: 64.2,
@@ -3091,7 +3091,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.1397677,
   },
   {
-    neigborhood: "Vernon",
+    neighborhood: "Vernon",
     city: "Gunajaya",
     averageAge: 69,
     distanceFromCityCenter: 70.0,
@@ -3101,7 +3101,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.2822389,
   },
   {
-    neigborhood: "Lukken",
+    neighborhood: "Lukken",
     city: "Kolondiéba",
     averageAge: 62,
     distanceFromCityCenter: 81.1,
@@ -3111,7 +3111,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -6.8914024,
   },
   {
-    neigborhood: "Schmedeman",
+    neighborhood: "Schmedeman",
     city: "Zhugang",
     averageAge: 54,
     distanceFromCityCenter: 50.5,
@@ -3121,7 +3121,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 126.610421,
   },
   {
-    neigborhood: "West",
+    neighborhood: "West",
     city: "Victoria",
     averageAge: 52,
     distanceFromCityCenter: 5.9,
@@ -3131,7 +3131,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.0133007,
   },
   {
-    neigborhood: "Norway Maple",
+    neighborhood: "Norway Maple",
     city: "Harjamukti",
     averageAge: 22,
     distanceFromCityCenter: 91.8,
@@ -3141,7 +3141,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.5522531,
   },
   {
-    neigborhood: "Shoshone",
+    neighborhood: "Shoshone",
     city: "Kutapanjang",
     averageAge: 34,
     distanceFromCityCenter: 19.8,
@@ -3151,7 +3151,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 97.2005806,
   },
   {
-    neigborhood: "Raven",
+    neighborhood: "Raven",
     city: "Pengxing",
     averageAge: 51,
     distanceFromCityCenter: 92.0,
@@ -3161,7 +3161,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.922251,
   },
   {
-    neigborhood: "Mallory",
+    neighborhood: "Mallory",
     city: "Sojo",
     averageAge: 52,
     distanceFromCityCenter: 0.5,
@@ -3171,7 +3171,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -77.0445279,
   },
   {
-    neigborhood: "American",
+    neighborhood: "American",
     city: "Sankeyushu",
     averageAge: 40,
     distanceFromCityCenter: 5.1,
@@ -3181,7 +3181,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.4067749,
   },
   {
-    neigborhood: "Fairview",
+    neighborhood: "Fairview",
     state: "NSW",
     city: "Sydney",
     averageAge: 58,
@@ -3192,7 +3192,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 144.9629556,
   },
   {
-    neigborhood: "Waubesa",
+    neighborhood: "Waubesa",
     city: "Turka",
     averageAge: 44,
     distanceFromCityCenter: 89.0,
@@ -3202,7 +3202,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 30.3598522,
   },
   {
-    neigborhood: "Dawn",
+    neighborhood: "Dawn",
     city: "Qishn",
     averageAge: 44,
     distanceFromCityCenter: 9.8,
@@ -3212,7 +3212,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 51.678158,
   },
   {
-    neigborhood: "Kenwood",
+    neighborhood: "Kenwood",
     city: "Birendranagar",
     averageAge: 58,
     distanceFromCityCenter: 66.4,
@@ -3222,7 +3222,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 81.6254283,
   },
   {
-    neigborhood: "Talisman",
+    neighborhood: "Talisman",
     state: "A4",
     city: "Reims",
     averageAge: 53,
@@ -3233,7 +3233,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 4.2094771,
   },
   {
-    neigborhood: "Kingsford",
+    neighborhood: "Kingsford",
     city: "Darkūsh",
     averageAge: 20,
     distanceFromCityCenter: 35.0,
@@ -3243,7 +3243,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.3938121,
   },
   {
-    neigborhood: "Manitowish",
+    neighborhood: "Manitowish",
     city: "Vostryakovo",
     averageAge: 55,
     distanceFromCityCenter: 59.8,
@@ -3253,7 +3253,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 37.4429397,
   },
   {
-    neigborhood: "Barnett",
+    neighborhood: "Barnett",
     city: "Sungai Iyu",
     averageAge: 63,
     distanceFromCityCenter: 57.6,
@@ -3263,7 +3263,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 98.1680005,
   },
   {
-    neigborhood: "Shasta",
+    neighborhood: "Shasta",
     city: "Sarapul",
     averageAge: 45,
     distanceFromCityCenter: 53.0,
@@ -3273,7 +3273,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 53.8155143,
   },
   {
-    neigborhood: "Leroy",
+    neighborhood: "Leroy",
     city: "Spas",
     averageAge: 52,
     distanceFromCityCenter: 68.7,
@@ -3283,7 +3283,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.0435007,
   },
   {
-    neigborhood: "Meadow Ridge",
+    neighborhood: "Meadow Ridge",
     city: "El Cantón de San Pablo",
     averageAge: 27,
     distanceFromCityCenter: 57.5,
@@ -3293,7 +3293,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -78.4989722,
   },
   {
-    neigborhood: "Bellgrove",
+    neighborhood: "Bellgrove",
     city: "Sangkalputung",
     averageAge: 55,
     distanceFromCityCenter: 40.3,
@@ -3303,7 +3303,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.7286573,
   },
   {
-    neigborhood: "Garrison",
+    neighborhood: "Garrison",
     city: "San Miguel",
     averageAge: 35,
     distanceFromCityCenter: 47.6,
@@ -3313,7 +3313,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -57.0421483,
   },
   {
-    neigborhood: "Buell",
+    neighborhood: "Buell",
     city: "Ban Khok",
     averageAge: 49,
     distanceFromCityCenter: 59.3,
@@ -3323,7 +3323,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 101.0259275,
   },
   {
-    neigborhood: "Roxbury",
+    neighborhood: "Roxbury",
     city: "Kaputian",
     averageAge: 65,
     distanceFromCityCenter: 27.8,
@@ -3333,7 +3333,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.7222954,
   },
   {
-    neigborhood: "Summer Ridge",
+    neighborhood: "Summer Ridge",
     city: "Komenda",
     averageAge: 28,
     distanceFromCityCenter: 1.2,
@@ -3343,7 +3343,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.5391653,
   },
   {
-    neigborhood: "Susan",
+    neighborhood: "Susan",
     state: "42",
     city: "Fenais da Luz",
     averageAge: 49,
@@ -3354,7 +3354,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -25.6435923,
   },
   {
-    neigborhood: "Washington",
+    neighborhood: "Washington",
     city: "Ko Pha Ngan",
     averageAge: 48,
     distanceFromCityCenter: 75.8,
@@ -3364,7 +3364,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 99.9788481,
   },
   {
-    neigborhood: "Hollow Ridge",
+    neighborhood: "Hollow Ridge",
     city: "Nkayi",
     averageAge: 24,
     distanceFromCityCenter: 50.3,
@@ -3374,7 +3374,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 13.2865504,
   },
   {
-    neigborhood: "Emmet",
+    neighborhood: "Emmet",
     city: "Všemina",
     averageAge: 57,
     distanceFromCityCenter: 65.2,
@@ -3384,7 +3384,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.876832,
   },
   {
-    neigborhood: "Northfield",
+    neighborhood: "Northfield",
     city: "Udon Thani",
     averageAge: 38,
     distanceFromCityCenter: 72.9,
@@ -3394,7 +3394,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 102.7755279,
   },
   {
-    neigborhood: "Butternut",
+    neighborhood: "Butternut",
     city: "Magapit",
     averageAge: 69,
     distanceFromCityCenter: 31.2,
@@ -3404,7 +3404,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.6723186,
   },
   {
-    neigborhood: "Cottonwood",
+    neighborhood: "Cottonwood",
     state: "18",
     city: "Vales",
     averageAge: 66,
@@ -3415,7 +3415,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.0854006,
   },
   {
-    neigborhood: "Hintze",
+    neighborhood: "Hintze",
     city: "Camargo",
     averageAge: 30,
     distanceFromCityCenter: 71.7,
@@ -3425,7 +3425,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -65.2070534,
   },
   {
-    neigborhood: "Park Meadow",
+    neighborhood: "Park Meadow",
     city: "Cipadung",
     averageAge: 57,
     distanceFromCityCenter: 66.6,
@@ -3435,7 +3435,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.7177302,
   },
   {
-    neigborhood: "Lien",
+    neighborhood: "Lien",
     city: "Sevlievo",
     averageAge: 52,
     distanceFromCityCenter: 48.1,
@@ -3445,7 +3445,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.0635741,
   },
   {
-    neigborhood: "Fordem",
+    neighborhood: "Fordem",
     city: "San Diego",
     averageAge: 66,
     distanceFromCityCenter: 86.9,
@@ -3455,7 +3455,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.180718,
   },
   {
-    neigborhood: "Superior",
+    neighborhood: "Superior",
     city: "Cotton Ground",
     averageAge: 22,
     distanceFromCityCenter: 2.3,
@@ -3465,7 +3465,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -62.617788,
   },
   {
-    neigborhood: "Park Meadow",
+    neighborhood: "Park Meadow",
     city: "Palapye",
     averageAge: 23,
     distanceFromCityCenter: 40.9,
@@ -3475,7 +3475,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 27.1147095,
   },
   {
-    neigborhood: "Hallows",
+    neighborhood: "Hallows",
     city: "Bilice",
     averageAge: 28,
     distanceFromCityCenter: 68.7,
@@ -3485,7 +3485,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.8291657,
   },
   {
-    neigborhood: "Fallview",
+    neighborhood: "Fallview",
     city: "Monte Azul Paulista",
     averageAge: 36,
     distanceFromCityCenter: 37.0,
@@ -3495,7 +3495,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -48.6790007,
   },
   {
-    neigborhood: "Donald",
+    neighborhood: "Donald",
     city: "Ceper",
     averageAge: 60,
     distanceFromCityCenter: 60.4,
@@ -3505,7 +3505,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.670528,
   },
   {
-    neigborhood: "Barnett",
+    neighborhood: "Barnett",
     state: "FL",
     city: "Fort Lauderdale",
     averageAge: 64,
@@ -3516,7 +3516,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -80.3,
   },
   {
-    neigborhood: "Ridgeway",
+    neighborhood: "Ridgeway",
     city: "Fengtang",
     averageAge: 30,
     distanceFromCityCenter: 90.8,
@@ -3526,7 +3526,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.4748751,
   },
   {
-    neigborhood: "Vermont",
+    neighborhood: "Vermont",
     city: "Jiangnan",
     averageAge: 18,
     distanceFromCityCenter: 59.3,
@@ -3536,7 +3536,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.273158,
   },
   {
-    neigborhood: "Muir",
+    neighborhood: "Muir",
     city: "Chiconi",
     averageAge: 42,
     distanceFromCityCenter: 0.3,
@@ -3546,7 +3546,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.1149977,
   },
   {
-    neigborhood: "Corscot",
+    neighborhood: "Corscot",
     city: "Ōkuchi",
     averageAge: 57,
     distanceFromCityCenter: 15.3,
@@ -3556,7 +3556,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 139.9803194,
   },
   {
-    neigborhood: "Twin Pines",
+    neighborhood: "Twin Pines",
     city: "Dimiao",
     averageAge: 63,
     distanceFromCityCenter: 24.3,
@@ -3566,7 +3566,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.1518808,
   },
   {
-    neigborhood: "Loeprich",
+    neighborhood: "Loeprich",
     city: "Silao",
     averageAge: 20,
     distanceFromCityCenter: 26.1,
@@ -3576,7 +3576,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.40254,
   },
   {
-    neigborhood: "Oxford",
+    neighborhood: "Oxford",
     city: "Dul’durga",
     averageAge: 52,
     distanceFromCityCenter: 3.4,
@@ -3586,7 +3586,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.5905613,
   },
   {
-    neigborhood: "Utah",
+    neighborhood: "Utah",
     city: "Ivatsevichy",
     averageAge: 44,
     distanceFromCityCenter: 93.5,
@@ -3596,7 +3596,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.3346543,
   },
   {
-    neigborhood: "Sachs",
+    neighborhood: "Sachs",
     city: "Molochnoye",
     averageAge: 65,
     distanceFromCityCenter: 99.0,
@@ -3606,7 +3606,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 39.6767475,
   },
   {
-    neigborhood: "Dennis",
+    neighborhood: "Dennis",
     state: "U",
     city: "Sala",
     averageAge: 30,
@@ -3617,7 +3617,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.5457017,
   },
   {
-    neigborhood: "Butternut",
+    neighborhood: "Butternut",
     city: "Bateria",
     averageAge: 35,
     distanceFromCityCenter: 24.0,
@@ -3627,7 +3627,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.9658538,
   },
   {
-    neigborhood: "Independence",
+    neighborhood: "Independence",
     city: "Zastávka",
     averageAge: 21,
     distanceFromCityCenter: 28.1,
@@ -3637,7 +3637,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.3631011,
   },
   {
-    neigborhood: "Aberg",
+    neighborhood: "Aberg",
     city: "Shuangta",
     averageAge: 68,
     distanceFromCityCenter: 25.8,
@@ -3647,7 +3647,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.453743,
   },
   {
-    neigborhood: "Merry",
+    neighborhood: "Merry",
     state: "11",
     city: "Schiedam postbusnummers",
     averageAge: 22,
@@ -3658,7 +3658,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 4.3577,
   },
   {
-    neigborhood: "Ridge Oak",
+    neighborhood: "Ridge Oak",
     city: "Pensilvania",
     averageAge: 20,
     distanceFromCityCenter: 5.5,
@@ -3668,7 +3668,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.1311874,
   },
   {
-    neigborhood: "Blaine",
+    neighborhood: "Blaine",
     city: "Daduchuan",
     averageAge: 48,
     distanceFromCityCenter: 54.3,
@@ -3678,7 +3678,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.00932,
   },
   {
-    neigborhood: "Heffernan",
+    neighborhood: "Heffernan",
     city: "Zhongtang",
     averageAge: 53,
     distanceFromCityCenter: 55.1,
@@ -3688,7 +3688,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.657419,
   },
   {
-    neigborhood: "Truax",
+    neighborhood: "Truax",
     city: "Xiayang",
     averageAge: 35,
     distanceFromCityCenter: 92.1,
@@ -3698,7 +3698,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.778639,
   },
   {
-    neigborhood: "Spaight",
+    neighborhood: "Spaight",
     city: "Kornyn",
     averageAge: 65,
     distanceFromCityCenter: 0.4,
@@ -3708,7 +3708,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 29.5436691,
   },
   {
-    neigborhood: "Holmberg",
+    neighborhood: "Holmberg",
     city: "Itapevi",
     averageAge: 33,
     distanceFromCityCenter: 10.2,
@@ -3718,7 +3718,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -46.9772966,
   },
   {
-    neigborhood: "Susan",
+    neighborhood: "Susan",
     city: "Cibunar",
     averageAge: 31,
     distanceFromCityCenter: 62.2,
@@ -3728,7 +3728,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.5495683,
   },
   {
-    neigborhood: "Buell",
+    neighborhood: "Buell",
     state: "GP",
     city: "Pointe-à-Pitre",
     averageAge: 21,
@@ -3739,7 +3739,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -61.527249,
   },
   {
-    neigborhood: "Reindahl",
+    neighborhood: "Reindahl",
     city: "Shirokaya Rechka",
     averageAge: 44,
     distanceFromCityCenter: 73.0,
@@ -3749,7 +3749,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 60.4890295,
   },
   {
-    neigborhood: "Debs",
+    neighborhood: "Debs",
     city: "Āl Ma‘ūdah",
     averageAge: 61,
     distanceFromCityCenter: 84.8,
@@ -3759,7 +3759,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.3868766,
   },
   {
-    neigborhood: "Dottie",
+    neighborhood: "Dottie",
     city: "Jiyang",
     averageAge: 18,
     distanceFromCityCenter: 36.5,
@@ -3769,7 +3769,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.173524,
   },
   {
-    neigborhood: "Charing Cross",
+    neighborhood: "Charing Cross",
     city: "Pangtangis Dajah",
     averageAge: 33,
     distanceFromCityCenter: 16.4,
@@ -3779,7 +3779,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.4257,
   },
   {
-    neigborhood: "Cordelia",
+    neighborhood: "Cordelia",
     city: "Fengyi",
     averageAge: 68,
     distanceFromCityCenter: 15.7,
@@ -3789,7 +3789,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.112232,
   },
   {
-    neigborhood: "Killdeer",
+    neighborhood: "Killdeer",
     city: "Situ",
     averageAge: 66,
     distanceFromCityCenter: 31.2,
@@ -3799,7 +3799,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.891275,
   },
   {
-    neigborhood: "Cambridge",
+    neighborhood: "Cambridge",
     city: "Gandusari",
     averageAge: 52,
     distanceFromCityCenter: 92.4,
@@ -3809,7 +3809,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.7018452,
   },
   {
-    neigborhood: "Spenser",
+    neighborhood: "Spenser",
     city: "Nanling",
     averageAge: 57,
     distanceFromCityCenter: 99.5,
@@ -3819,7 +3819,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.334359,
   },
   {
-    neigborhood: "Kedzie",
+    neighborhood: "Kedzie",
     city: "Nagorsk",
     averageAge: 43,
     distanceFromCityCenter: 20.1,
@@ -3829,7 +3829,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 50.8076496,
   },
   {
-    neigborhood: "Annamark",
+    neighborhood: "Annamark",
     state: "NY",
     city: "New York City",
     averageAge: 46,
@@ -3840,7 +3840,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.9704871,
   },
   {
-    neigborhood: "Kinsman",
+    neighborhood: "Kinsman",
     city: "San Bernardo",
     averageAge: 52,
     distanceFromCityCenter: 58.5,
@@ -3850,7 +3850,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.879282,
   },
   {
-    neigborhood: "Reindahl",
+    neighborhood: "Reindahl",
     city: "Burqah",
     averageAge: 56,
     distanceFromCityCenter: 35.5,
@@ -3860,7 +3860,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.254768,
   },
   {
-    neigborhood: "Caliangt",
+    neighborhood: "Caliangt",
     city: "Bojongbenteng",
     averageAge: 51,
     distanceFromCityCenter: 86.8,
@@ -3870,7 +3870,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.2102,
   },
   {
-    neigborhood: "5th",
+    neighborhood: "5th",
     city: "Hậu Nghĩa",
     averageAge: 66,
     distanceFromCityCenter: 78.6,
@@ -3880,7 +3880,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.3905338,
   },
   {
-    neigborhood: "Pleasure",
+    neighborhood: "Pleasure",
     city: "Zhumadian",
     averageAge: 34,
     distanceFromCityCenter: 19.6,
@@ -3890,7 +3890,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.022298,
   },
   {
-    neigborhood: "Sheridan",
+    neighborhood: "Sheridan",
     city: "Jianjun",
     averageAge: 50,
     distanceFromCityCenter: 20.3,
@@ -3900,7 +3900,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.2131226,
   },
   {
-    neigborhood: "Lerdahl",
+    neighborhood: "Lerdahl",
     city: "Boende",
     averageAge: 23,
     distanceFromCityCenter: 25.9,
@@ -3910,7 +3910,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.8850949,
   },
   {
-    neigborhood: "Annamark",
+    neighborhood: "Annamark",
     city: "El Dividive",
     averageAge: 34,
     distanceFromCityCenter: 13.6,
@@ -3920,7 +3920,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -70.7346811,
   },
   {
-    neigborhood: "Carioca",
+    neighborhood: "Carioca",
     city: "Nāṟay",
     averageAge: 45,
     distanceFromCityCenter: 2.2,
@@ -3930,7 +3930,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 71.5249154,
   },
   {
-    neigborhood: "Southridge",
+    neighborhood: "Southridge",
     city: "Nabeul",
     averageAge: 47,
     distanceFromCityCenter: 12.6,
@@ -3940,7 +3940,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 10.7154228,
   },
   {
-    neigborhood: "Walton",
+    neighborhood: "Walton",
     city: "Yaoundé",
     averageAge: 53,
     distanceFromCityCenter: 63.3,
@@ -3950,7 +3950,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 11.5020752,
   },
   {
-    neigborhood: "Service",
+    neighborhood: "Service",
     city: "Taohua",
     averageAge: 19,
     distanceFromCityCenter: 90.8,
@@ -3960,7 +3960,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 122.273713,
   },
   {
-    neigborhood: "Northport",
+    neighborhood: "Northport",
     state: "X",
     city: "Edsbyn",
     averageAge: 44,
@@ -3971,7 +3971,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.9055746,
   },
   {
-    neigborhood: "Hazelcrest",
+    neighborhood: "Hazelcrest",
     state: "01",
     city: "Pigeiros",
     averageAge: 60,
@@ -3982,7 +3982,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.4860645,
   },
   {
-    neigborhood: "Daystar",
+    neighborhood: "Daystar",
     city: "Danyang",
     averageAge: 57,
     distanceFromCityCenter: 91.0,
@@ -3992,7 +3992,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.606439,
   },
   {
-    neigborhood: "Mcguire",
+    neighborhood: "Mcguire",
     city: "Pirca",
     averageAge: 64,
     distanceFromCityCenter: 0.9,
@@ -4002,7 +4002,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -76.661598,
   },
   {
-    neigborhood: "Sherman",
+    neighborhood: "Sherman",
     city: "Quỳnh Côi",
     averageAge: 31,
     distanceFromCityCenter: 8.6,
@@ -4012,7 +4012,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.3301914,
   },
   {
-    neigborhood: "Rusk",
+    neighborhood: "Rusk",
     city: "Yucheng",
     averageAge: 60,
     distanceFromCityCenter: 72.8,
@@ -4022,7 +4022,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.638327,
   },
   {
-    neigborhood: "Leroy",
+    neighborhood: "Leroy",
     city: "Ovsyanka",
     averageAge: 49,
     distanceFromCityCenter: 71.1,
@@ -4032,7 +4032,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 43.6510502,
   },
   {
-    neigborhood: "Leroy",
+    neighborhood: "Leroy",
     state: "SGR",
     city: "Klang",
     averageAge: 29,
@@ -4043,7 +4043,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 101.4687196,
   },
   {
-    neigborhood: "Brickson Park",
+    neighborhood: "Brickson Park",
     city: "Douz",
     averageAge: 58,
     distanceFromCityCenter: 60.5,
@@ -4053,7 +4053,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 9.0294708,
   },
   {
-    neigborhood: "Rusk",
+    neighborhood: "Rusk",
     city: "Xifengshan",
     averageAge: 38,
     distanceFromCityCenter: 70.4,
@@ -4063,7 +4063,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.869339,
   },
   {
-    neigborhood: "Lunder",
+    neighborhood: "Lunder",
     city: "Kenyau",
     averageAge: 42,
     distanceFromCityCenter: 84.3,
@@ -4073,7 +4073,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.4108587,
   },
   {
-    neigborhood: "Eagle Crest",
+    neighborhood: "Eagle Crest",
     city: "Esquipulas",
     averageAge: 33,
     distanceFromCityCenter: 27.0,
@@ -4083,7 +4083,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -84.3692925,
   },
   {
-    neigborhood: "Valley Edge",
+    neighborhood: "Valley Edge",
     city: "Paitan Este",
     averageAge: 41,
     distanceFromCityCenter: 11.9,
@@ -4093,7 +4093,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.03164,
   },
   {
-    neigborhood: "Helena",
+    neighborhood: "Helena",
     city: "Yangyu",
     averageAge: 68,
     distanceFromCityCenter: 76.6,
@@ -4103,7 +4103,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.120108,
   },
   {
-    neigborhood: "Calypso",
+    neighborhood: "Calypso",
     city: "Semeljci",
     averageAge: 61,
     distanceFromCityCenter: 50.8,
@@ -4113,7 +4113,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.5422141,
   },
   {
-    neigborhood: "Lyons",
+    neighborhood: "Lyons",
     city: "Malicboy",
     averageAge: 47,
     distanceFromCityCenter: 39.2,
@@ -4123,7 +4123,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.7983634,
   },
   {
-    neigborhood: "Dahle",
+    neighborhood: "Dahle",
     state: "12",
     city: "Bergen",
     averageAge: 53,
@@ -4134,7 +4134,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 5.3427677,
   },
   {
-    neigborhood: "School",
+    neighborhood: "School",
     city: "Gengma",
     averageAge: 24,
     distanceFromCityCenter: 67.0,
@@ -4144,7 +4144,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 99.397126,
   },
   {
-    neigborhood: "Ilene",
+    neighborhood: "Ilene",
     city: "Villa del Rosario",
     averageAge: 33,
     distanceFromCityCenter: 68.0,
@@ -4154,7 +4154,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.4909026,
   },
   {
-    neigborhood: "Novick",
+    neighborhood: "Novick",
     city: "Bronnitsy",
     averageAge: 55,
     distanceFromCityCenter: 72.8,
@@ -4164,7 +4164,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.2447393,
   },
   {
-    neigborhood: "Shelley",
+    neighborhood: "Shelley",
     city: "Tol’yatti",
     averageAge: 46,
     distanceFromCityCenter: 58.0,
@@ -4174,7 +4174,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 49.435224,
   },
   {
-    neigborhood: "Eliot",
+    neighborhood: "Eliot",
     city: "Copa",
     averageAge: 55,
     distanceFromCityCenter: 56.7,
@@ -4184,7 +4184,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -77.492203,
   },
   {
-    neigborhood: "Sundown",
+    neighborhood: "Sundown",
     state: "TAM",
     city: "Francisco Villa",
     averageAge: 27,
@@ -4195,7 +4195,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -99.0591821,
   },
   {
-    neigborhood: "Bartelt",
+    neighborhood: "Bartelt",
     city: "Zhifudao",
     averageAge: 51,
     distanceFromCityCenter: 63.9,
@@ -4205,7 +4205,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.3754422,
   },
   {
-    neigborhood: "Daystar",
+    neighborhood: "Daystar",
     state: "12",
     city: "Castelo de Vide",
     averageAge: 66,
@@ -4216,7 +4216,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -7.4562886,
   },
   {
-    neigborhood: "Del Mar",
+    neighborhood: "Del Mar",
     city: "Jimeta",
     averageAge: 69,
     distanceFromCityCenter: 25.4,
@@ -4226,7 +4226,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 12.4495221,
   },
   {
-    neigborhood: "Jackson",
+    neighborhood: "Jackson",
     city: "Yuanbao",
     averageAge: 48,
     distanceFromCityCenter: 82.3,
@@ -4236,7 +4236,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.395757,
   },
   {
-    neigborhood: "Barnett",
+    neighborhood: "Barnett",
     city: "Villanueva",
     averageAge: 27,
     distanceFromCityCenter: 16.5,
@@ -4246,7 +4246,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.275171,
   },
   {
-    neigborhood: "Cordelia",
+    neighborhood: "Cordelia",
     city: "Rozhniv",
     averageAge: 21,
     distanceFromCityCenter: 1.9,
@@ -4256,7 +4256,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.2298685,
   },
   {
-    neigborhood: "Jana",
+    neighborhood: "Jana",
     city: "Youguzhuang",
     averageAge: 34,
     distanceFromCityCenter: 62.8,
@@ -4266,7 +4266,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.2490532,
   },
   {
-    neigborhood: "Northwestern",
+    neighborhood: "Northwestern",
     city: "Bajo",
     averageAge: 19,
     distanceFromCityCenter: 29.0,
@@ -4276,7 +4276,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.3089541,
   },
   {
-    neigborhood: "Jay",
+    neighborhood: "Jay",
     city: "Dabou",
     averageAge: 63,
     distanceFromCityCenter: 7.3,
@@ -4286,7 +4286,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -4.3667907,
   },
   {
-    neigborhood: "Anthes",
+    neighborhood: "Anthes",
     city: "Shanguang",
     averageAge: 37,
     distanceFromCityCenter: 55.2,
@@ -4296,7 +4296,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.713868,
   },
   {
-    neigborhood: "Pawling",
+    neighborhood: "Pawling",
     city: "Kharkhorin",
     averageAge: 67,
     distanceFromCityCenter: 75.6,
@@ -4306,7 +4306,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 102.8340449,
   },
   {
-    neigborhood: "Coleman",
+    neighborhood: "Coleman",
     city: "Palmital",
     averageAge: 42,
     distanceFromCityCenter: 86.8,
@@ -4316,7 +4316,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -50.2199938,
   },
   {
-    neigborhood: "Gina",
+    neighborhood: "Gina",
     city: "Letlhakeng",
     averageAge: 49,
     distanceFromCityCenter: 63.5,
@@ -4326,7 +4326,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.0288051,
   },
   {
-    neigborhood: "Kipling",
+    neighborhood: "Kipling",
     city: "Kināna",
     averageAge: 63,
     distanceFromCityCenter: 86.7,
@@ -4336,7 +4336,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 33.1712,
   },
   {
-    neigborhood: "Dennis",
+    neighborhood: "Dennis",
     city: "Sang-e Māshah",
     averageAge: 65,
     distanceFromCityCenter: 65.7,
@@ -4346,7 +4346,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 67.44046,
   },
   {
-    neigborhood: "Mitchell",
+    neighborhood: "Mitchell",
     city: "Palanas",
     averageAge: 34,
     distanceFromCityCenter: 95.9,
@@ -4356,7 +4356,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.942358,
   },
   {
-    neigborhood: "Kennedy",
+    neighborhood: "Kennedy",
     city: "Sexiong",
     averageAge: 21,
     distanceFromCityCenter: 59.9,
@@ -4366,7 +4366,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 92.835795,
   },
   {
-    neigborhood: "Doe Crossing",
+    neighborhood: "Doe Crossing",
     state: "QC",
     city: "Sainte-Anne-des-Plaines",
     averageAge: 70,
@@ -4377,7 +4377,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.81156,
   },
   {
-    neigborhood: "Morrow",
+    neighborhood: "Morrow",
     city: "Lazarat",
     averageAge: 29,
     distanceFromCityCenter: 32.3,
@@ -4387,7 +4387,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.1581282,
   },
   {
-    neigborhood: "Myrtle",
+    neighborhood: "Myrtle",
     city: "Strzelce Krajeńskie",
     averageAge: 69,
     distanceFromCityCenter: 5.5,
@@ -4397,7 +4397,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.52966,
   },
   {
-    neigborhood: "Gerald",
+    neighborhood: "Gerald",
     city: "Banaba",
     averageAge: 44,
     distanceFromCityCenter: 31.9,
@@ -4407,7 +4407,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.042743,
   },
   {
-    neigborhood: "Summer Ridge",
+    neighborhood: "Summer Ridge",
     state: "15",
     city: "Courelas Bravas",
     averageAge: 40,
@@ -4418,7 +4418,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -9.0860982,
   },
   {
-    neigborhood: "Tennessee",
+    neighborhood: "Tennessee",
     city: "Lab",
     averageAge: 26,
     distanceFromCityCenter: 87.2,
@@ -4428,7 +4428,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.4494622,
   },
   {
-    neigborhood: "Laurel",
+    neighborhood: "Laurel",
     city: "Georgetown",
     averageAge: 69,
     distanceFromCityCenter: 0.1,
@@ -4438,7 +4438,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -61.1213871,
   },
   {
-    neigborhood: "Hoard",
+    neighborhood: "Hoard",
     city: "El Zulia",
     averageAge: 59,
     distanceFromCityCenter: 38.0,
@@ -4448,7 +4448,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.63877,
   },
   {
-    neigborhood: "Doe Crossing",
+    neighborhood: "Doe Crossing",
     state: "A8",
     city: "Aubervilliers",
     averageAge: 30,
@@ -4459,7 +4459,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.3977418,
   },
   {
-    neigborhood: "Hintze",
+    neighborhood: "Hintze",
     state: "B8",
     city: "Toulon",
     averageAge: 41,
@@ -4470,7 +4470,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 5.9294606,
   },
   {
-    neigborhood: "Ridgeway",
+    neighborhood: "Ridgeway",
     city: "Jelsa",
     averageAge: 49,
     distanceFromCityCenter: 43.7,
@@ -4480,7 +4480,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.6926372,
   },
   {
-    neigborhood: "Continental",
+    neighborhood: "Continental",
     city: "Olafulihaa",
     averageAge: 39,
     distanceFromCityCenter: 40.1,
@@ -4490,7 +4490,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.2307067,
   },
   {
-    neigborhood: "Red Cloud",
+    neighborhood: "Red Cloud",
     city: "Naebugis",
     averageAge: 42,
     distanceFromCityCenter: 45.8,
@@ -4500,7 +4500,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.0069,
   },
   {
-    neigborhood: "Superior",
+    neighborhood: "Superior",
     city: "Thị Trấn Bình Mỹ",
     averageAge: 51,
     distanceFromCityCenter: 8.4,
@@ -4510,7 +4510,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.0081819,
   },
   {
-    neigborhood: "Debs",
+    neighborhood: "Debs",
     city: "Ekimchan",
     averageAge: 18,
     distanceFromCityCenter: 74.9,
@@ -4520,7 +4520,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 132.9367253,
   },
   {
-    neigborhood: "Ruskin",
+    neighborhood: "Ruskin",
     city: "Nampula",
     averageAge: 57,
     distanceFromCityCenter: 32.5,
@@ -4530,7 +4530,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 39.2687161,
   },
   {
-    neigborhood: "Sugar",
+    neighborhood: "Sugar",
     state: "FL",
     city: "Tampa",
     averageAge: 63,
@@ -4541,7 +4541,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -82.3343375,
   },
   {
-    neigborhood: "La Follette",
+    neighborhood: "La Follette",
     city: "Cikarang",
     averageAge: 64,
     distanceFromCityCenter: 95.2,
@@ -4551,7 +4551,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.172085,
   },
   {
-    neigborhood: "Hansons",
+    neighborhood: "Hansons",
     city: "Yessentuki",
     averageAge: 56,
     distanceFromCityCenter: 95.1,
@@ -4561,7 +4561,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 42.8429639,
   },
   {
-    neigborhood: "Swallow",
+    neighborhood: "Swallow",
     city: "Phu Kradueng",
     averageAge: 29,
     distanceFromCityCenter: 40.4,
@@ -4571,7 +4571,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 101.7523854,
   },
   {
-    neigborhood: "Pleasure",
+    neighborhood: "Pleasure",
     city: "Ar Ruways",
     averageAge: 46,
     distanceFromCityCenter: 61.6,
@@ -4581,7 +4581,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 52.7241914,
   },
   {
-    neigborhood: "Knutson",
+    neighborhood: "Knutson",
     city: "Dunyāpur",
     averageAge: 41,
     distanceFromCityCenter: 53.4,
@@ -4591,7 +4591,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 71.7406583,
   },
   {
-    neigborhood: "Grasskamp",
+    neighborhood: "Grasskamp",
     city: "Puttalam",
     averageAge: 38,
     distanceFromCityCenter: 74.7,
@@ -4601,7 +4601,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 79.8367828,
   },
   {
-    neigborhood: "Emmet",
+    neighborhood: "Emmet",
     city: "Basey",
     averageAge: 42,
     distanceFromCityCenter: 55.0,
@@ -4611,7 +4611,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.0079426,
   },
   {
-    neigborhood: "Pine View",
+    neighborhood: "Pine View",
     city: "Shiquanhe",
     averageAge: 64,
     distanceFromCityCenter: 8.7,
@@ -4621,7 +4621,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 80.101607,
   },
   {
-    neigborhood: "Carberry",
+    neighborhood: "Carberry",
     city: "Purorejo",
     averageAge: 20,
     distanceFromCityCenter: 17.9,
@@ -4631,7 +4631,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.0330554,
   },
   {
-    neigborhood: "Buhler",
+    neighborhood: "Buhler",
     city: "Kagay",
     averageAge: 69,
     distanceFromCityCenter: 91.3,
@@ -4641,7 +4641,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.6404944,
   },
   {
-    neigborhood: "Mifflin",
+    neighborhood: "Mifflin",
     city: "Baolong",
     averageAge: 24,
     distanceFromCityCenter: 96.4,
@@ -4651,7 +4651,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.4870071,
   },
   {
-    neigborhood: "Ramsey",
+    neighborhood: "Ramsey",
     city: "Paiçandu",
     averageAge: 44,
     distanceFromCityCenter: 34.4,
@@ -4661,7 +4661,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -52.0423373,
   },
   {
-    neigborhood: "Kingsford",
+    neighborhood: "Kingsford",
     city: "Kizilyurt",
     averageAge: 19,
     distanceFromCityCenter: 79.8,
@@ -4671,7 +4671,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 46.8488828,
   },
   {
-    neigborhood: "Trailsway",
+    neighborhood: "Trailsway",
     city: "Dongda",
     averageAge: 51,
     distanceFromCityCenter: 83.6,
@@ -4681,7 +4681,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.522341,
   },
   {
-    neigborhood: "Bellgrove",
+    neighborhood: "Bellgrove",
     state: "42",
     city: "Fajã de Cima",
     averageAge: 50,
@@ -4692,7 +4692,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -25.6598704,
   },
   {
-    neigborhood: "Washington",
+    neighborhood: "Washington",
     city: "Blora",
     averageAge: 51,
     distanceFromCityCenter: 42.4,
@@ -4702,7 +4702,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.3798928,
   },
   {
-    neigborhood: "Bultman",
+    neighborhood: "Bultman",
     city: "Al ‘Azīzīyah",
     averageAge: 54,
     distanceFromCityCenter: 46.0,
@@ -4712,7 +4712,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.0629902,
   },
   {
-    neigborhood: "American Ash",
+    neighborhood: "American Ash",
     city: "Bayamo",
     averageAge: 38,
     distanceFromCityCenter: 49.7,
@@ -4722,7 +4722,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -76.6297189,
   },
   {
-    neigborhood: "Loftsgordon",
+    neighborhood: "Loftsgordon",
     city: "Tarakan",
     averageAge: 21,
     distanceFromCityCenter: 75.1,
@@ -4732,7 +4732,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.5785049,
   },
   {
-    neigborhood: "Red Cloud",
+    neighborhood: "Red Cloud",
     city: "Igbor",
     averageAge: 38,
     distanceFromCityCenter: 40.7,
@@ -4742,7 +4742,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 8.6091961,
   },
   {
-    neigborhood: "Pine View",
+    neighborhood: "Pine View",
     state: "10",
     city: "Terneuzen",
     averageAge: 54,
@@ -4753,7 +4753,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 5.1999127,
   },
   {
-    neigborhood: "Acker",
+    neighborhood: "Acker",
     city: "Yitang",
     averageAge: 30,
     distanceFromCityCenter: 82.5,
@@ -4763,7 +4763,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.3110482,
   },
   {
-    neigborhood: "International",
+    neighborhood: "International",
     city: "Synevyr",
     averageAge: 36,
     distanceFromCityCenter: 43.5,
@@ -4773,7 +4773,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 23.6229395,
   },
   {
-    neigborhood: "Warbler",
+    neighborhood: "Warbler",
     city: "Kastsyukovichy",
     averageAge: 21,
     distanceFromCityCenter: 15.8,
@@ -4783,7 +4783,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 32.0532332,
   },
   {
-    neigborhood: "Swallow",
+    neighborhood: "Swallow",
     city: "Borūjen",
     averageAge: 55,
     distanceFromCityCenter: 22.7,
@@ -4793,7 +4793,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 51.2946066,
   },
   {
-    neigborhood: "Artisan",
+    neighborhood: "Artisan",
     city: "Khalkhāl",
     averageAge: 42,
     distanceFromCityCenter: 15.8,
@@ -4803,7 +4803,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 48.5330218,
   },
   {
-    neigborhood: "Eliot",
+    neighborhood: "Eliot",
     city: "Bateria",
     averageAge: 60,
     distanceFromCityCenter: 72.4,
@@ -4813,7 +4813,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.9658538,
   },
   {
-    neigborhood: "Derek",
+    neighborhood: "Derek",
     state: "TN",
     city: "Knoxville",
     averageAge: 59,
@@ -4824,7 +4824,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -84.1329595,
   },
   {
-    neigborhood: "Vermont",
+    neighborhood: "Vermont",
     city: "Maniowy",
     averageAge: 65,
     distanceFromCityCenter: 12.6,
@@ -4834,7 +4834,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.2835741,
   },
   {
-    neigborhood: "Thackeray",
+    neighborhood: "Thackeray",
     city: "Baishi",
     averageAge: 50,
     distanceFromCityCenter: 45.0,
@@ -4844,7 +4844,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 100.222545,
   },
   {
-    neigborhood: "Killdeer",
+    neighborhood: "Killdeer",
     city: "Calibutbut",
     averageAge: 25,
     distanceFromCityCenter: 3.8,
@@ -4854,7 +4854,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.6551147,
   },
   {
-    neigborhood: "Old Gate",
+    neighborhood: "Old Gate",
     state: "A8",
     city: "Neuilly-sur-Marne",
     averageAge: 36,
@@ -4865,7 +4865,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.53823,
   },
   {
-    neigborhood: "Muir",
+    neighborhood: "Muir",
     city: "Timashëvsk",
     averageAge: 62,
     distanceFromCityCenter: 88.1,
@@ -4875,7 +4875,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.956757,
   },
   {
-    neigborhood: "Del Sol",
+    neighborhood: "Del Sol",
     city: "Skuhrov nad Bělou",
     averageAge: 61,
     distanceFromCityCenter: 94.9,
@@ -4885,7 +4885,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.2923097,
   },
   {
-    neigborhood: "Darwin",
+    neighborhood: "Darwin",
     city: "Thạnh Mỹ",
     averageAge: 28,
     distanceFromCityCenter: 78.4,
@@ -4895,7 +4895,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.1609838,
   },
   {
-    neigborhood: "Eagan",
+    neighborhood: "Eagan",
     city: "Karmah an Nuzul",
     averageAge: 50,
     distanceFromCityCenter: 52.7,
@@ -4905,7 +4905,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 30.41667,
   },
   {
-    neigborhood: "Mallard",
+    neighborhood: "Mallard",
     city: "Tofol",
     averageAge: 65,
     distanceFromCityCenter: 76.0,
@@ -4915,7 +4915,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 163.0080576,
   },
   {
-    neigborhood: "Sunfield",
+    neighborhood: "Sunfield",
     city: "Lipie",
     averageAge: 21,
     distanceFromCityCenter: 37.3,
@@ -4925,7 +4925,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.8071072,
   },
   {
-    neigborhood: "Esker",
+    neighborhood: "Esker",
     city: "Kolbano",
     averageAge: 48,
     distanceFromCityCenter: 39.5,
@@ -4935,7 +4935,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.5306837,
   },
   {
-    neigborhood: "Paget",
+    neighborhood: "Paget",
     city: "Pasvalys",
     averageAge: 24,
     distanceFromCityCenter: 28.8,
@@ -4945,7 +4945,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 24.4027094,
   },
   {
-    neigborhood: "Manufacturers",
+    neighborhood: "Manufacturers",
     city: "Lučina",
     averageAge: 23,
     distanceFromCityCenter: 25.3,
@@ -4955,7 +4955,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.4511722,
   },
   {
-    neigborhood: "Ramsey",
+    neighborhood: "Ramsey",
     state: "ENG",
     city: "Wootton",
     averageAge: 27,
@@ -4966,7 +4966,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -0.9009942,
   },
   {
-    neigborhood: "Hallows",
+    neighborhood: "Hallows",
     state: "ENG",
     city: "Horton",
     averageAge: 19,
@@ -4977,7 +4977,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -2.3523889,
   },
   {
-    neigborhood: "Rutledge",
+    neighborhood: "Rutledge",
     state: "NY",
     city: "Buffalo",
     averageAge: 28,
@@ -4988,7 +4988,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -78.83,
   },
   {
-    neigborhood: "Anderson",
+    neighborhood: "Anderson",
     city: "Łapsze Niżne",
     averageAge: 55,
     distanceFromCityCenter: 0.9,
@@ -4998,7 +4998,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.1858091,
   },
   {
-    neigborhood: "Briar Crest",
+    neighborhood: "Briar Crest",
     city: "Xiadian",
     averageAge: 62,
     distanceFromCityCenter: 13.7,
@@ -5008,7 +5008,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.725698,
   },
   {
-    neigborhood: "Orin",
+    neighborhood: "Orin",
     city: "Photharam",
     averageAge: 36,
     distanceFromCityCenter: 56.7,
@@ -5018,7 +5018,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 99.8543504,
   },
   {
-    neigborhood: "Roth",
+    neighborhood: "Roth",
     city: "Žandov",
     averageAge: 67,
     distanceFromCityCenter: 85.8,
@@ -5028,7 +5028,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 13.9466019,
   },
   {
-    neigborhood: "Laurel",
+    neighborhood: "Laurel",
     city: "Potštát",
     averageAge: 31,
     distanceFromCityCenter: 75.3,
@@ -5038,7 +5038,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.651743,
   },
   {
-    neigborhood: "Loftsgordon",
+    neighborhood: "Loftsgordon",
     city: "Bonga",
     averageAge: 46,
     distanceFromCityCenter: 65.2,
@@ -5048,7 +5048,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.3047135,
   },
   {
-    neigborhood: "Little Fleur",
+    neighborhood: "Little Fleur",
     city: "Sukorejo",
     averageAge: 24,
     distanceFromCityCenter: 23.8,
@@ -5058,7 +5058,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.9854145,
   },
   {
-    neigborhood: "Parkside",
+    neighborhood: "Parkside",
     city: "Ramain",
     averageAge: 40,
     distanceFromCityCenter: 4.2,
@@ -5068,7 +5068,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.3465661,
   },
   {
-    neigborhood: "Twin Pines",
+    neighborhood: "Twin Pines",
     city: "Usab",
     averageAge: 44,
     distanceFromCityCenter: 61.2,
@@ -5078,7 +5078,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.0267879,
   },
   {
-    neigborhood: "Stuart",
+    neighborhood: "Stuart",
     city: "Wichian Buri",
     averageAge: 39,
     distanceFromCityCenter: 99.1,
@@ -5088,7 +5088,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 101.207047,
   },
   {
-    neigborhood: "Gateway",
+    neighborhood: "Gateway",
     city: "Feira de Santana",
     averageAge: 48,
     distanceFromCityCenter: 35.9,
@@ -5098,7 +5098,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -38.9646608,
   },
   {
-    neigborhood: "Schurz",
+    neighborhood: "Schurz",
     city: "Huayuan",
     averageAge: 56,
     distanceFromCityCenter: 58.8,
@@ -5108,7 +5108,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.482078,
   },
   {
-    neigborhood: "Lakeland",
+    neighborhood: "Lakeland",
     city: "Caluquembe",
     averageAge: 41,
     distanceFromCityCenter: 58.1,
@@ -5118,7 +5118,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.687936,
   },
   {
-    neigborhood: "Boyd",
+    neighborhood: "Boyd",
     city: "Donggong",
     averageAge: 39,
     distanceFromCityCenter: 80.0,
@@ -5128,7 +5128,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.751799,
   },
   {
-    neigborhood: "Melby",
+    neighborhood: "Melby",
     state: "14",
     city: "São Miguel do Rio Torto",
     averageAge: 41,
@@ -5139,7 +5139,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.2103619,
   },
   {
-    neigborhood: "Heffernan",
+    neighborhood: "Heffernan",
     state: "NS",
     city: "Bridgewater",
     averageAge: 58,
@@ -5150,7 +5150,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -64.5210039,
   },
   {
-    neigborhood: "Kenwood",
+    neighborhood: "Kenwood",
     city: "Juli",
     averageAge: 36,
     distanceFromCityCenter: 79.7,
@@ -5160,7 +5160,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -69.4575979,
   },
   {
-    neigborhood: "Artisan",
+    neighborhood: "Artisan",
     city: "Potou",
     averageAge: 18,
     distanceFromCityCenter: 19.9,
@@ -5170,7 +5170,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.455332,
   },
   {
-    neigborhood: "Randy",
+    neighborhood: "Randy",
     city: "Garahan",
     averageAge: 70,
     distanceFromCityCenter: 86.2,
@@ -5180,7 +5180,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.9001141,
   },
   {
-    neigborhood: "Twin Pines",
+    neighborhood: "Twin Pines",
     city: "Riangderi",
     averageAge: 26,
     distanceFromCityCenter: 36.1,
@@ -5190,7 +5190,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.3026,
   },
   {
-    neigborhood: "Susan",
+    neighborhood: "Susan",
     state: "ENG",
     city: "Carlton",
     averageAge: 59,
@@ -5201,7 +5201,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -1.90546,
   },
   {
-    neigborhood: "4th",
+    neighborhood: "4th",
     city: "Fenghuanglu",
     averageAge: 69,
     distanceFromCityCenter: 74.2,
@@ -5211,7 +5211,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.599191,
   },
   {
-    neigborhood: "Sunbrook",
+    neighborhood: "Sunbrook",
     state: "PUE",
     city: "San Isidro",
     averageAge: 38,
@@ -5222,7 +5222,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -99.1985584,
   },
   {
-    neigborhood: "Doe Crossing",
+    neighborhood: "Doe Crossing",
     city: "Waenenda",
     averageAge: 56,
     distanceFromCityCenter: 63.8,
@@ -5232,7 +5232,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.6359,
   },
   {
-    neigborhood: "Bashford",
+    neighborhood: "Bashford",
     city: "Garbów",
     averageAge: 27,
     distanceFromCityCenter: 37.7,
@@ -5242,7 +5242,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.3461706,
   },
   {
-    neigborhood: "Farwell",
+    neighborhood: "Farwell",
     state: "O",
     city: "Torslanda",
     averageAge: 52,
@@ -5253,7 +5253,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 11.814933,
   },
   {
-    neigborhood: "Homewood",
+    neighborhood: "Homewood",
     city: "Zhenjiang",
     averageAge: 26,
     distanceFromCityCenter: 68.2,
@@ -5263,7 +5263,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.425836,
   },
   {
-    neigborhood: "Erie",
+    neighborhood: "Erie",
     city: "Sibut",
     averageAge: 61,
     distanceFromCityCenter: 2.3,
@@ -5273,7 +5273,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.0869316,
   },
   {
-    neigborhood: "Hollow Ridge",
+    neighborhood: "Hollow Ridge",
     city: "Amagi",
     averageAge: 67,
     distanceFromCityCenter: 71.9,
@@ -5283,7 +5283,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 128.9093866,
   },
   {
-    neigborhood: "Hagan",
+    neighborhood: "Hagan",
     city: "Shancheng",
     averageAge: 19,
     distanceFromCityCenter: 73.8,
@@ -5293,7 +5293,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.184427,
   },
   {
-    neigborhood: "Esker",
+    neighborhood: "Esker",
     city: "Jindayris",
     averageAge: 56,
     distanceFromCityCenter: 16.8,
@@ -5303,7 +5303,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.6889,
   },
   {
-    neigborhood: "Mosinee",
+    neighborhood: "Mosinee",
     city: "Novo Horizonte",
     averageAge: 50,
     distanceFromCityCenter: 43.9,
@@ -5313,7 +5313,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -49.2246518,
   },
   {
-    neigborhood: "Nevada",
+    neighborhood: "Nevada",
     city: "El Tambo",
     averageAge: 68,
     distanceFromCityCenter: 91.4,
@@ -5323,7 +5323,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -77.0270549,
   },
   {
-    neigborhood: "Rowland",
+    neighborhood: "Rowland",
     city: "Quận Phú Nhuận",
     averageAge: 36,
     distanceFromCityCenter: 42.7,
@@ -5333,7 +5333,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.6802639,
   },
   {
-    neigborhood: "Manley",
+    neighborhood: "Manley",
     city: "Bata Tengah",
     averageAge: 27,
     distanceFromCityCenter: 8.1,
@@ -5343,7 +5343,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.8413372,
   },
   {
-    neigborhood: "Moland",
+    neighborhood: "Moland",
     city: "Akunk’",
     averageAge: 50,
     distanceFromCityCenter: 69.9,
@@ -5353,7 +5353,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.6810797,
   },
   {
-    neigborhood: "Hoffman",
+    neighborhood: "Hoffman",
     city: "Heshan",
     averageAge: 18,
     distanceFromCityCenter: 52.5,
@@ -5363,7 +5363,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.964446,
   },
   {
-    neigborhood: "Gale",
+    neighborhood: "Gale",
     city: "Wiang Chiang Rung",
     averageAge: 23,
     distanceFromCityCenter: 73.7,
@@ -5373,7 +5373,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 100.0359661,
   },
   {
-    neigborhood: "7th",
+    neighborhood: "7th",
     state: "A8",
     city: "Domont",
     averageAge: 36,
@@ -5384,7 +5384,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.3236877,
   },
   {
-    neigborhood: "Rigney",
+    neighborhood: "Rigney",
     city: "Yanping",
     averageAge: 30,
     distanceFromCityCenter: 25.4,
@@ -5394,7 +5394,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.182036,
   },
   {
-    neigborhood: "Luster",
+    neighborhood: "Luster",
     city: "Shuangjing",
     averageAge: 53,
     distanceFromCityCenter: 53.5,
@@ -5404,7 +5404,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.46662,
   },
   {
-    neigborhood: "Marcy",
+    neighborhood: "Marcy",
     city: "Cujillo",
     averageAge: 42,
     distanceFromCityCenter: 80.5,
@@ -5414,7 +5414,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -78.5970229,
   },
   {
-    neigborhood: "Summer Ridge",
+    neighborhood: "Summer Ridge",
     city: "Nailung",
     averageAge: 60,
     distanceFromCityCenter: 3.6,
@@ -5424,7 +5424,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 93.866536,
   },
   {
-    neigborhood: "Hazelcrest",
+    neighborhood: "Hazelcrest",
     city: "Checun",
     averageAge: 58,
     distanceFromCityCenter: 70.6,
@@ -5434,7 +5434,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.123041,
   },
   {
-    neigborhood: "Upham",
+    neighborhood: "Upham",
     city: "Bao’an",
     averageAge: 32,
     distanceFromCityCenter: 87.4,
@@ -5444,7 +5444,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.884019,
   },
   {
-    neigborhood: "Northridge",
+    neighborhood: "Northridge",
     city: "Shangqing",
     averageAge: 22,
     distanceFromCityCenter: 21.5,
@@ -5454,7 +5454,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.043407,
   },
   {
-    neigborhood: "Debs",
+    neighborhood: "Debs",
     city: "Pechersk",
     averageAge: 63,
     distanceFromCityCenter: 81.7,
@@ -5464,7 +5464,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 50.198315,
   },
   {
-    neigborhood: "Gulseth",
+    neighborhood: "Gulseth",
     city: "Bokhan",
     averageAge: 62,
     distanceFromCityCenter: 3.0,
@@ -5474,7 +5474,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 103.7714,
   },
   {
-    neigborhood: "Mallory",
+    neighborhood: "Mallory",
     state: "OH",
     city: "Cincinnati",
     averageAge: 39,
@@ -5485,7 +5485,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -84.54,
   },
   {
-    neigborhood: "Village",
+    neighborhood: "Village",
     state: "AB",
     city: "Bromma",
     averageAge: 26,
@@ -5496,7 +5496,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.9299398,
   },
   {
-    neigborhood: "Debs",
+    neighborhood: "Debs",
     city: "Port-Vila",
     averageAge: 28,
     distanceFromCityCenter: 22.3,
@@ -5506,7 +5506,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 168.3273245,
   },
   {
-    neigborhood: "Sloan",
+    neighborhood: "Sloan",
     city: "Kedawung",
     averageAge: 34,
     distanceFromCityCenter: 6.8,
@@ -5516,7 +5516,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.5329338,
   },
   {
-    neigborhood: "Miller",
+    neighborhood: "Miller",
     city: "Niu",
     averageAge: 69,
     distanceFromCityCenter: 88.1,
@@ -5526,7 +5526,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.3451423,
   },
   {
-    neigborhood: "Barnett",
+    neighborhood: "Barnett",
     city: "Jiangqiao",
     averageAge: 34,
     distanceFromCityCenter: 49.1,
@@ -5536,7 +5536,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.331694,
   },
   {
-    neigborhood: "Lillian",
+    neighborhood: "Lillian",
     city: "Iperó",
     averageAge: 50,
     distanceFromCityCenter: 50.7,
@@ -5546,7 +5546,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.6931718,
   },
   {
-    neigborhood: "Veith",
+    neighborhood: "Veith",
     state: "QC",
     city: "Sainte-Anne-des-Monts",
     averageAge: 62,
@@ -5557,7 +5557,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -66.49243,
   },
   {
-    neigborhood: "Ronald Regan",
+    neighborhood: "Ronald Regan",
     city: "Tabio",
     averageAge: 59,
     distanceFromCityCenter: 10.7,
@@ -5567,7 +5567,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.7963702,
   },
   {
-    neigborhood: "Norway Maple",
+    neighborhood: "Norway Maple",
     city: "Heping",
     averageAge: 29,
     distanceFromCityCenter: 53.3,
@@ -5577,7 +5577,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.938684,
   },
   {
-    neigborhood: "Ryan",
+    neighborhood: "Ryan",
     city: "Vitória",
     averageAge: 57,
     distanceFromCityCenter: 26.6,
@@ -5587,7 +5587,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -40.2957768,
   },
   {
-    neigborhood: "Meadow Ridge",
+    neighborhood: "Meadow Ridge",
     city: "Santa Justina",
     averageAge: 22,
     distanceFromCityCenter: 0.2,
@@ -5597,7 +5597,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.4768981,
   },
   {
-    neigborhood: "Roth",
+    neighborhood: "Roth",
     city: "Semongkat",
     averageAge: 68,
     distanceFromCityCenter: 64.6,
@@ -5607,7 +5607,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.3959673,
   },
   {
-    neigborhood: "Holy Cross",
+    neighborhood: "Holy Cross",
     city: "Guaranda",
     averageAge: 61,
     distanceFromCityCenter: 94.4,
@@ -5617,7 +5617,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -78.9995154,
   },
   {
-    neigborhood: "Moose",
+    neighborhood: "Moose",
     city: "Purda",
     averageAge: 60,
     distanceFromCityCenter: 90.6,
@@ -5627,7 +5627,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.6879247,
   },
   {
-    neigborhood: "Center",
+    neighborhood: "Center",
     city: "Quebo",
     averageAge: 30,
     distanceFromCityCenter: 77.0,
@@ -5637,7 +5637,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -14.935965,
   },
   {
-    neigborhood: "Red Cloud",
+    neighborhood: "Red Cloud",
     city: "Xinji",
     averageAge: 67,
     distanceFromCityCenter: 42.9,
@@ -5647,7 +5647,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.217658,
   },
   {
-    neigborhood: "Logan",
+    neighborhood: "Logan",
     city: "Kore",
     averageAge: 23,
     distanceFromCityCenter: 33.6,
@@ -5657,7 +5657,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.2702036,
   },
   {
-    neigborhood: "David",
+    neighborhood: "David",
     state: "BU",
     city: "Budapest",
     averageAge: 43,
@@ -5668,7 +5668,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.157136,
   },
   {
-    neigborhood: "Cherokee",
+    neighborhood: "Cherokee",
     city: "Marbel",
     averageAge: 62,
     distanceFromCityCenter: 74.7,
@@ -5678,7 +5678,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.9231052,
   },
   {
-    neigborhood: "Fairfield",
+    neighborhood: "Fairfield",
     city: "Mertani",
     averageAge: 55,
     distanceFromCityCenter: 47.8,
@@ -5688,7 +5688,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.3784821,
   },
   {
-    neigborhood: "5th",
+    neighborhood: "5th",
     state: "A3",
     city: "Montargis",
     averageAge: 52,
@@ -5699,7 +5699,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.7428365,
   },
   {
-    neigborhood: "Merry",
+    neighborhood: "Merry",
     city: "Krông Kmar",
     averageAge: 69,
     distanceFromCityCenter: 30.6,
@@ -5709,7 +5709,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.3356312,
   },
   {
-    neigborhood: "Summit",
+    neighborhood: "Summit",
     city: "Olsztynek",
     averageAge: 47,
     distanceFromCityCenter: 37.2,
@@ -5719,7 +5719,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.2827,
   },
   {
-    neigborhood: "Reinke",
+    neighborhood: "Reinke",
     city: "Dongtou",
     averageAge: 25,
     distanceFromCityCenter: 11.5,
@@ -5729,7 +5729,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.157249,
   },
   {
-    neigborhood: "Straubel",
+    neighborhood: "Straubel",
     city: "Amalfi",
     averageAge: 52,
     distanceFromCityCenter: 7.4,
@@ -5739,7 +5739,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -74.9910112,
   },
   {
-    neigborhood: "Jenna",
+    neighborhood: "Jenna",
     city: "Pokrovskoye-Streshnëvo",
     averageAge: 51,
     distanceFromCityCenter: 40.1,
@@ -5749,7 +5749,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 37.478747,
   },
   {
-    neigborhood: "Eggendart",
+    neighborhood: "Eggendart",
     city: "Jinglou",
     averageAge: 52,
     distanceFromCityCenter: 23.8,
@@ -5759,7 +5759,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.15507,
   },
   {
-    neigborhood: "Eagan",
+    neighborhood: "Eagan",
     city: "Kongtian",
     averageAge: 36,
     distanceFromCityCenter: 6.4,
@@ -5769,7 +5769,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.310042,
   },
   {
-    neigborhood: "Michigan",
+    neighborhood: "Michigan",
     city: "Dawuhan",
     averageAge: 31,
     distanceFromCityCenter: 94.1,
@@ -5779,7 +5779,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.2638245,
   },
   {
-    neigborhood: "Shasta",
+    neighborhood: "Shasta",
     state: "TN",
     city: "Knoxville",
     averageAge: 20,
@@ -5790,7 +5790,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -84.1329595,
   },
   {
-    neigborhood: "Alpine",
+    neighborhood: "Alpine",
     city: "Wanshi",
     averageAge: 36,
     distanceFromCityCenter: 39.0,
@@ -5800,7 +5800,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.934764,
   },
   {
-    neigborhood: "Johnson",
+    neighborhood: "Johnson",
     city: "Tazarine",
     averageAge: 63,
     distanceFromCityCenter: 45.6,
@@ -5810,7 +5810,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -5.5459787,
   },
   {
-    neigborhood: "Manitowish",
+    neighborhood: "Manitowish",
     city: "San Pedro Zacapa",
     averageAge: 65,
     distanceFromCityCenter: 55.9,
@@ -5820,7 +5820,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -88.1132737,
   },
   {
-    neigborhood: "Washington",
+    neighborhood: "Washington",
     city: "Guaimaca",
     averageAge: 28,
     distanceFromCityCenter: 42.4,
@@ -5830,7 +5830,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -86.8270545,
   },
   {
-    neigborhood: "Graedel",
+    neighborhood: "Graedel",
     city: "Zhuyeping",
     averageAge: 51,
     distanceFromCityCenter: 71.5,
@@ -5840,7 +5840,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.5437982,
   },
   {
-    neigborhood: "Granby",
+    neighborhood: "Granby",
     city: "Khromtau",
     averageAge: 22,
     distanceFromCityCenter: 74.4,
@@ -5850,7 +5850,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 58.432675,
   },
   {
-    neigborhood: "Oriole",
+    neighborhood: "Oriole",
     city: "Huancapallac",
     averageAge: 51,
     distanceFromCityCenter: 68.7,
@@ -5860,7 +5860,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.783333,
   },
   {
-    neigborhood: "Amoth",
+    neighborhood: "Amoth",
     city: "Nong Phok",
     averageAge: 30,
     distanceFromCityCenter: 38.5,
@@ -5870,7 +5870,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 104.2279672,
   },
   {
-    neigborhood: "Bartillon",
+    neighborhood: "Bartillon",
     city: "Qijiaxi",
     averageAge: 26,
     distanceFromCityCenter: 92.9,
@@ -5880,7 +5880,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.9937015,
   },
   {
-    neigborhood: "Meadow Valley",
+    neighborhood: "Meadow Valley",
     city: "Dayong",
     averageAge: 39,
     distanceFromCityCenter: 64.3,
@@ -5890,7 +5890,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.451191,
   },
   {
-    neigborhood: "Mallory",
+    neighborhood: "Mallory",
     city: "Kilim",
     averageAge: 67,
     distanceFromCityCenter: 84.3,
@@ -5900,7 +5900,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.795761,
   },
   {
-    neigborhood: "Kensington",
+    neighborhood: "Kensington",
     state: "M",
     city: "Landskrona",
     averageAge: 36,
@@ -5911,7 +5911,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 12.9108819,
   },
   {
-    neigborhood: "Cherokee",
+    neighborhood: "Cherokee",
     city: "Cabuyaro",
     averageAge: 63,
     distanceFromCityCenter: 47.1,
@@ -5921,7 +5921,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.9460566,
   },
   {
-    neigborhood: "Debra",
+    neighborhood: "Debra",
     city: "Pamiątkowo",
     averageAge: 70,
     distanceFromCityCenter: 87.4,
@@ -5931,7 +5931,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.9124981,
   },
   {
-    neigborhood: "Corscot",
+    neighborhood: "Corscot",
     city: "Gondang",
     averageAge: 34,
     distanceFromCityCenter: 100.0,
@@ -5941,7 +5941,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.1056539,
   },
   {
-    neigborhood: "Bultman",
+    neighborhood: "Bultman",
     state: "QC",
     city: "Beauharnois",
     averageAge: 27,
@@ -5952,7 +5952,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.8746233,
   },
   {
-    neigborhood: "Cambridge",
+    neighborhood: "Cambridge",
     city: "Hetai",
     averageAge: 33,
     distanceFromCityCenter: 18.1,
@@ -5962,7 +5962,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.284638,
   },
   {
-    neigborhood: "Straubel",
+    neighborhood: "Straubel",
     state: "NW",
     city: "Hamm",
     averageAge: 70,
@@ -5973,7 +5973,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.9085254,
   },
   {
-    neigborhood: "Canary",
+    neighborhood: "Canary",
     state: "M",
     city: "Svalöv",
     averageAge: 52,
@@ -5984,7 +5984,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 13.1018168,
   },
   {
-    neigborhood: "Di Loreto",
+    neighborhood: "Di Loreto",
     city: "Bol",
     averageAge: 53,
     distanceFromCityCenter: 61.9,
@@ -5994,7 +5994,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.707735,
   },
   {
-    neigborhood: "Doe Crossing",
+    neighborhood: "Doe Crossing",
     city: "Petrolina de Goiás",
     averageAge: 47,
     distanceFromCityCenter: 38.1,
@@ -6004,7 +6004,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -49.3247147,
   },
   {
-    neigborhood: "Calypso",
+    neighborhood: "Calypso",
     state: "A8",
     city: "Cergy-Pontoise",
     averageAge: 42,
@@ -6015,7 +6015,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.0362602,
   },
   {
-    neigborhood: "8th",
+    neighborhood: "8th",
     city: "Huazhou",
     averageAge: 41,
     distanceFromCityCenter: 16.4,
@@ -6025,7 +6025,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.639569,
   },
   {
-    neigborhood: "Tennyson",
+    neighborhood: "Tennyson",
     city: "Calamba",
     averageAge: 42,
     distanceFromCityCenter: 48.9,
@@ -6035,7 +6035,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.1317352,
   },
   {
-    neigborhood: "Hayes",
+    neighborhood: "Hayes",
     city: "San Antonio Oeste",
     averageAge: 39,
     distanceFromCityCenter: 85.2,
@@ -6045,7 +6045,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -67.9800178,
   },
   {
-    neigborhood: "2nd",
+    neighborhood: "2nd",
     state: "OH",
     city: "Cincinnati",
     averageAge: 44,
@@ -6056,7 +6056,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -84.53,
   },
   {
-    neigborhood: "Swallow",
+    neighborhood: "Swallow",
     city: "Taiping",
     averageAge: 37,
     distanceFromCityCenter: 41.0,
@@ -6066,7 +6066,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -6.2634596,
   },
   {
-    neigborhood: "Anniversary",
+    neighborhood: "Anniversary",
     city: "Psary",
     averageAge: 39,
     distanceFromCityCenter: 36.6,
@@ -6076,7 +6076,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 21.6191399,
   },
   {
-    neigborhood: "Kennedy",
+    neighborhood: "Kennedy",
     city: "Burgersdorp",
     averageAge: 64,
     distanceFromCityCenter: 18.4,
@@ -6086,7 +6086,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 26.3308478,
   },
   {
-    neigborhood: "Bultman",
+    neighborhood: "Bultman",
     city: "Gaoling",
     averageAge: 69,
     distanceFromCityCenter: 94.2,
@@ -6096,7 +6096,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.088297,
   },
   {
-    neigborhood: "Rusk",
+    neighborhood: "Rusk",
     city: "Gadingrejo",
     averageAge: 38,
     distanceFromCityCenter: 27.1,
@@ -6106,7 +6106,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.8880068,
   },
   {
-    neigborhood: "Almo",
+    neighborhood: "Almo",
     city: "Colquechaca",
     averageAge: 64,
     distanceFromCityCenter: 23.1,
@@ -6116,7 +6116,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -66.0039777,
   },
   {
-    neigborhood: "Bluejay",
+    neighborhood: "Bluejay",
     city: "Tongquan",
     averageAge: 39,
     distanceFromCityCenter: 79.8,
@@ -6126,7 +6126,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.930865,
   },
   {
-    neigborhood: "Shopko",
+    neighborhood: "Shopko",
     city: "Fatou",
     averageAge: 38,
     distanceFromCityCenter: 72.9,
@@ -6136,7 +6136,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.7156302,
   },
   {
-    neigborhood: "Farwell",
+    neighborhood: "Farwell",
     state: "B3",
     city: "Toulouse",
     averageAge: 37,
@@ -6147,7 +6147,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 1.3412205,
   },
   {
-    neigborhood: "Manufacturers",
+    neighborhood: "Manufacturers",
     city: "Ashbourne",
     averageAge: 22,
     distanceFromCityCenter: 22.8,
@@ -6157,7 +6157,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -6.1215213,
   },
   {
-    neigborhood: "Scoville",
+    neighborhood: "Scoville",
     city: "Shangdian",
     averageAge: 36,
     distanceFromCityCenter: 29.3,
@@ -6167,7 +6167,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 109.875933,
   },
   {
-    neigborhood: "Eggendart",
+    neighborhood: "Eggendart",
     state: "CO",
     city: "Colorado Springs",
     averageAge: 39,
@@ -6178,7 +6178,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -104.794212,
   },
   {
-    neigborhood: "Veith",
+    neighborhood: "Veith",
     city: "Bi’r al ‘Abd",
     averageAge: 61,
     distanceFromCityCenter: 1.0,
@@ -6188,7 +6188,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 28.2477778,
   },
   {
-    neigborhood: "Moland",
+    neighborhood: "Moland",
     city: "São Lourenço do Sul",
     averageAge: 35,
     distanceFromCityCenter: 94.4,
@@ -6198,7 +6198,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -51.9760381,
   },
   {
-    neigborhood: "Fisk",
+    neighborhood: "Fisk",
     city: "Zhaotong",
     averageAge: 52,
     distanceFromCityCenter: 2.9,
@@ -6208,7 +6208,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 103.717465,
   },
   {
-    neigborhood: "Clarendon",
+    neighborhood: "Clarendon",
     city: "Verkhozim",
     averageAge: 66,
     distanceFromCityCenter: 87.7,
@@ -6218,7 +6218,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.4271291,
   },
   {
-    neigborhood: "Raven",
+    neighborhood: "Raven",
     city: "Passos",
     averageAge: 21,
     distanceFromCityCenter: 28.2,
@@ -6228,7 +6228,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -46.6096926,
   },
   {
-    neigborhood: "Londonderry",
+    neighborhood: "Londonderry",
     city: "Konsoy",
     averageAge: 68,
     distanceFromCityCenter: 22.0,
@@ -6238,7 +6238,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 69.70245,
   },
   {
-    neigborhood: "Center",
+    neighborhood: "Center",
     city: "Longtanhe",
     averageAge: 64,
     distanceFromCityCenter: 32.4,
@@ -6248,7 +6248,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.083598,
   },
   {
-    neigborhood: "Havey",
+    neighborhood: "Havey",
     city: "Chicheng",
     averageAge: 56,
     distanceFromCityCenter: 34.0,
@@ -6258,7 +6258,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.831498,
   },
   {
-    neigborhood: "Ridgeway",
+    neighborhood: "Ridgeway",
     city: "Cawayan",
     averageAge: 51,
     distanceFromCityCenter: 7.3,
@@ -6268,7 +6268,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.7223625,
   },
   {
-    neigborhood: "Farragut",
+    neighborhood: "Farragut",
     city: "Kaducondong",
     averageAge: 45,
     distanceFromCityCenter: 94.0,
@@ -6278,7 +6278,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.855,
   },
   {
-    neigborhood: "Drewry",
+    neighborhood: "Drewry",
     state: "A8",
     city: "Marne-la-Vallée",
     averageAge: 47,
@@ -6289,7 +6289,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.6402346,
   },
   {
-    neigborhood: "Ronald Regan",
+    neighborhood: "Ronald Regan",
     city: "Zhangjiahe",
     averageAge: 19,
     distanceFromCityCenter: 5.1,
@@ -6299,7 +6299,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.479191,
   },
   {
-    neigborhood: "Corben",
+    neighborhood: "Corben",
     city: "Berezna",
     averageAge: 60,
     distanceFromCityCenter: 53.8,
@@ -6309,7 +6309,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 31.7847761,
   },
   {
-    neigborhood: "Sunnyside",
+    neighborhood: "Sunnyside",
     city: "Abut",
     averageAge: 32,
     distanceFromCityCenter: 95.6,
@@ -6319,7 +6319,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.791828,
   },
   {
-    neigborhood: "Twin Pines",
+    neighborhood: "Twin Pines",
     city: "Dupi",
     averageAge: 28,
     distanceFromCityCenter: 50.2,
@@ -6329,7 +6329,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.1112743,
   },
   {
-    neigborhood: "Charing Cross",
+    neighborhood: "Charing Cross",
     city: "Jaguimitan",
     averageAge: 69,
     distanceFromCityCenter: 91.2,
@@ -6339,7 +6339,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 122.642712,
   },
   {
-    neigborhood: "Jackson",
+    neighborhood: "Jackson",
     city: "Pindamonhangaba",
     averageAge: 38,
     distanceFromCityCenter: 23.5,
@@ -6349,7 +6349,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -45.4874873,
   },
   {
-    neigborhood: "Browning",
+    neighborhood: "Browning",
     city: "Iracemápolis",
     averageAge: 59,
     distanceFromCityCenter: 75.6,
@@ -6359,7 +6359,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.5177229,
   },
   {
-    neigborhood: "Myrtle",
+    neighborhood: "Myrtle",
     state: "WI",
     city: "Milwaukee",
     averageAge: 58,
@@ -6370,7 +6370,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -87.9383822,
   },
   {
-    neigborhood: "Sheridan",
+    neighborhood: "Sheridan",
     city: "Áyios Nikólaos",
     averageAge: 26,
     distanceFromCityCenter: 27.1,
@@ -6380,7 +6380,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.7164166,
   },
   {
-    neigborhood: "Morrow",
+    neighborhood: "Morrow",
     state: "QC",
     city: "Thetford-Mines",
     averageAge: 52,
@@ -6391,7 +6391,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -71.2983257,
   },
   {
-    neigborhood: "Dakota",
+    neighborhood: "Dakota",
     city: "Callahuanca",
     averageAge: 68,
     distanceFromCityCenter: 29.0,
@@ -6401,7 +6401,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -76.6185265,
   },
   {
-    neigborhood: "Garrison",
+    neighborhood: "Garrison",
     city: "Ica",
     averageAge: 37,
     distanceFromCityCenter: 44.6,
@@ -6411,7 +6411,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.7341811,
   },
   {
-    neigborhood: "Straubel",
+    neighborhood: "Straubel",
     city: "Sulkava",
     averageAge: 20,
     distanceFromCityCenter: 78.2,
@@ -6421,7 +6421,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.8776098,
   },
   {
-    neigborhood: "Fairview",
+    neighborhood: "Fairview",
     state: "B7",
     city: "Angoulême",
     averageAge: 35,
@@ -6432,7 +6432,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 0.140606,
   },
   {
-    neigborhood: "Amoth",
+    neighborhood: "Amoth",
     city: "Ulsan",
     averageAge: 33,
     distanceFromCityCenter: 37.7,
@@ -6442,7 +6442,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 129.3113596,
   },
   {
-    neigborhood: "Mendota",
+    neighborhood: "Mendota",
     city: "Ilovlya",
     averageAge: 21,
     distanceFromCityCenter: 47.7,
@@ -6452,7 +6452,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.018505,
   },
   {
-    neigborhood: "Judy",
+    neighborhood: "Judy",
     city: "Villa Ángela",
     averageAge: 59,
     distanceFromCityCenter: 22.6,
@@ -6462,7 +6462,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -60.713149,
   },
   {
-    neigborhood: "Kenwood",
+    neighborhood: "Kenwood",
     city: "Buda-Kashalyova",
     averageAge: 28,
     distanceFromCityCenter: 53.8,
@@ -6472,7 +6472,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 30.569225,
   },
   {
-    neigborhood: "Pierstorff",
+    neighborhood: "Pierstorff",
     city: "Ustrzyki Dolne",
     averageAge: 34,
     distanceFromCityCenter: 85.8,
@@ -6482,7 +6482,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.5942366,
   },
   {
-    neigborhood: "Oak Valley",
+    neighborhood: "Oak Valley",
     state: "99",
     city: "Caen",
     averageAge: 52,
@@ -6493,7 +6493,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -0.3907558,
   },
   {
-    neigborhood: "Troy",
+    neighborhood: "Troy",
     city: "Erími",
     averageAge: 59,
     distanceFromCityCenter: 87.3,
@@ -6503,7 +6503,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 32.9184086,
   },
   {
-    neigborhood: "Iowa",
+    neighborhood: "Iowa",
     city: "Suruhan",
     averageAge: 44,
     distanceFromCityCenter: 25.5,
@@ -6513,7 +6513,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.8440632,
   },
   {
-    neigborhood: "Lillian",
+    neighborhood: "Lillian",
     state: "AB",
     city: "Stockholm",
     averageAge: 30,
@@ -6524,7 +6524,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -68.1430064,
   },
   {
-    neigborhood: "Kim",
+    neighborhood: "Kim",
     city: "Alukama",
     averageAge: 38,
     distanceFromCityCenter: 31.5,
@@ -6534,7 +6534,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.0453219,
   },
   {
-    neigborhood: "Dapin",
+    neighborhood: "Dapin",
     city: "Tomepampa",
     averageAge: 43,
     distanceFromCityCenter: 50.6,
@@ -6544,7 +6544,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.8308692,
   },
   {
-    neigborhood: "Scoville",
+    neighborhood: "Scoville",
     city: "Laguna Paiva",
     averageAge: 51,
     distanceFromCityCenter: 35.3,
@@ -6554,7 +6554,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -65.3580411,
   },
   {
-    neigborhood: "Thompson",
+    neighborhood: "Thompson",
     city: "Ban Phaeo",
     averageAge: 40,
     distanceFromCityCenter: 7.5,
@@ -6564,7 +6564,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 100.1031202,
   },
   {
-    neigborhood: "Heath",
+    neighborhood: "Heath",
     state: "12",
     city: "Benavila",
     averageAge: 34,
@@ -6575,7 +6575,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -7.8704768,
   },
   {
-    neigborhood: "Gerald",
+    neighborhood: "Gerald",
     city: "Kaga Bandoro",
     averageAge: 53,
     distanceFromCityCenter: 27.8,
@@ -6585,7 +6585,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.1850317,
   },
   {
-    neigborhood: "Fallview",
+    neighborhood: "Fallview",
     city: "Cidadap",
     averageAge: 25,
     distanceFromCityCenter: 29.9,
@@ -6595,7 +6595,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.6067354,
   },
   {
-    neigborhood: "Jenna",
+    neighborhood: "Jenna",
     city: "Futian",
     averageAge: 37,
     distanceFromCityCenter: 18.4,
@@ -6605,7 +6605,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.055023,
   },
   {
-    neigborhood: "Bayside",
+    neighborhood: "Bayside",
     city: "Batán",
     averageAge: 61,
     distanceFromCityCenter: 6.6,
@@ -6615,7 +6615,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -83.342893,
   },
   {
-    neigborhood: "Bartillon",
+    neighborhood: "Bartillon",
     city: "Bilohirs’k",
     averageAge: 21,
     distanceFromCityCenter: 10.9,
@@ -6625,7 +6625,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 34.605095,
   },
   {
-    neigborhood: "Golden Leaf",
+    neighborhood: "Golden Leaf",
     city: "La Quiaca",
     averageAge: 29,
     distanceFromCityCenter: 52.6,
@@ -6635,7 +6635,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -58.7186017,
   },
   {
-    neigborhood: "Valley Edge",
+    neighborhood: "Valley Edge",
     state: "CA",
     city: "Sacramento",
     averageAge: 24,
@@ -6646,7 +6646,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -121.45,
   },
   {
-    neigborhood: "Everett",
+    neighborhood: "Everett",
     city: "Bucu Kidul",
     averageAge: 57,
     distanceFromCityCenter: 88.8,
@@ -6656,7 +6656,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.8463512,
   },
   {
-    neigborhood: "Dryden",
+    neighborhood: "Dryden",
     city: "Maintirano",
     averageAge: 18,
     distanceFromCityCenter: 30.2,
@@ -6666,7 +6666,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.0341961,
   },
   {
-    neigborhood: "Pearson",
+    neighborhood: "Pearson",
     state: "C1",
     city: "Colmar",
     averageAge: 23,
@@ -6677,7 +6677,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.3469006,
   },
   {
-    neigborhood: "Merry",
+    neighborhood: "Merry",
     city: "Svetlograd",
     averageAge: 58,
     distanceFromCityCenter: 5.1,
@@ -6687,7 +6687,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 42.846668,
   },
   {
-    neigborhood: "Mccormick",
+    neighborhood: "Mccormick",
     city: "Rizómilos",
     averageAge: 30,
     distanceFromCityCenter: 40.0,
@@ -6697,7 +6697,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 21.9202642,
   },
   {
-    neigborhood: "Basil",
+    neighborhood: "Basil",
     city: "Dashi",
     averageAge: 25,
     distanceFromCityCenter: 89.1,
@@ -6707,7 +6707,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.461061,
   },
   {
-    neigborhood: "Moose",
+    neighborhood: "Moose",
     city: "Porvoo",
     averageAge: 37,
     distanceFromCityCenter: 53.7,
@@ -6717,7 +6717,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.5652484,
   },
   {
-    neigborhood: "Homewood",
+    neighborhood: "Homewood",
     city: "Onokivtsi",
     averageAge: 38,
     distanceFromCityCenter: 32.5,
@@ -6727,7 +6727,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.3433482,
   },
   {
-    neigborhood: "Drewry",
+    neighborhood: "Drewry",
     city: "Cigaluh",
     averageAge: 38,
     distanceFromCityCenter: 97.5,
@@ -6737,7 +6737,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.5153134,
   },
   {
-    neigborhood: "Fairview",
+    neighborhood: "Fairview",
     city: "Xinning",
     averageAge: 20,
     distanceFromCityCenter: 61.6,
@@ -6747,7 +6747,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.856622,
   },
   {
-    neigborhood: "Gateway",
+    neighborhood: "Gateway",
     state: "NY",
     city: "Brooklyn",
     averageAge: 40,
@@ -6758,7 +6758,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.9565551,
   },
   {
-    neigborhood: "Quincy",
+    neighborhood: "Quincy",
     city: "Comandante Luis Piedra Buena",
     averageAge: 41,
     distanceFromCityCenter: 98.2,
@@ -6768,7 +6768,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -58.5284973,
   },
   {
-    neigborhood: "Del Sol",
+    neighborhood: "Del Sol",
     city: "Wajak",
     averageAge: 60,
     distanceFromCityCenter: 56.0,
@@ -6778,7 +6778,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.7509656,
   },
   {
-    neigborhood: "Graceland",
+    neighborhood: "Graceland",
     city: "Guantou",
     averageAge: 44,
     distanceFromCityCenter: 18.6,
@@ -6788,7 +6788,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.569323,
   },
   {
-    neigborhood: "Luster",
+    neighborhood: "Luster",
     city: "Fengshan",
     averageAge: 67,
     distanceFromCityCenter: 56.6,
@@ -6798,7 +6798,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.04219,
   },
   {
-    neigborhood: "Sutherland",
+    neighborhood: "Sutherland",
     city: "Siqiao",
     averageAge: 43,
     distanceFromCityCenter: 86.1,
@@ -6808,7 +6808,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.366904,
   },
   {
-    neigborhood: "Vahlen",
+    neighborhood: "Vahlen",
     city: "Linmansangan",
     averageAge: 61,
     distanceFromCityCenter: 22.6,
@@ -6818,7 +6818,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.9874642,
   },
   {
-    neigborhood: "Leroy",
+    neighborhood: "Leroy",
     city: "Tanrake Village",
     averageAge: 30,
     distanceFromCityCenter: 67.3,
@@ -6828,7 +6828,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 177.14511,
   },
   {
-    neigborhood: "Tennyson",
+    neighborhood: "Tennyson",
     city: "Liuhuang",
     averageAge: 44,
     distanceFromCityCenter: 54.3,
@@ -6838,7 +6838,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.464983,
   },
   {
-    neigborhood: "Kingsford",
+    neighborhood: "Kingsford",
     city: "Torkanivka",
     averageAge: 24,
     distanceFromCityCenter: 50.3,
@@ -6848,7 +6848,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 29.1521095,
   },
   {
-    neigborhood: "International",
+    neighborhood: "International",
     state: "11",
     city: "Cortezia",
     averageAge: 55,
@@ -6859,7 +6859,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -9.4174646,
   },
   {
-    neigborhood: "Lake View",
+    neighborhood: "Lake View",
     city: "Nieborów",
     averageAge: 29,
     distanceFromCityCenter: 67.3,
@@ -6869,7 +6869,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.0873091,
   },
   {
-    neigborhood: "Moose",
+    neighborhood: "Moose",
     state: "MEX",
     city: "Buenavista",
     averageAge: 57,
@@ -6880,7 +6880,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -99.1732936,
   },
   {
-    neigborhood: "Sunbrook",
+    neighborhood: "Sunbrook",
     city: "Hengqu",
     averageAge: 32,
     distanceFromCityCenter: 70.8,
@@ -6890,7 +6890,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.497052,
   },
   {
-    neigborhood: "Autumn Leaf",
+    neighborhood: "Autumn Leaf",
     city: "Maloarkhangel’sk",
     averageAge: 37,
     distanceFromCityCenter: 83.1,
@@ -6900,7 +6900,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.5028259,
   },
   {
-    neigborhood: "Reinke",
+    neighborhood: "Reinke",
     state: "VER",
     city: "Guadalupe Victoria",
     averageAge: 49,
@@ -6911,7 +6911,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -104.1175578,
   },
   {
-    neigborhood: "Eliot",
+    neighborhood: "Eliot",
     state: "JAL",
     city: "La Huerta",
     averageAge: 67,
@@ -6922,7 +6922,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -104.6383777,
   },
   {
-    neigborhood: "Nevada",
+    neighborhood: "Nevada",
     city: "Chakari",
     averageAge: 69,
     distanceFromCityCenter: 32.1,
@@ -6932,7 +6932,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 29.8554841,
   },
   {
-    neigborhood: "Red Cloud",
+    neighborhood: "Red Cloud",
     city: "Luboń",
     averageAge: 70,
     distanceFromCityCenter: 88.4,
@@ -6942,7 +6942,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.8799555,
   },
   {
-    neigborhood: "Pine View",
+    neighborhood: "Pine View",
     city: "Providencia",
     averageAge: 21,
     distanceFromCityCenter: 1.1,
@@ -6952,7 +6952,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -81.3756862,
   },
   {
-    neigborhood: "Sundown",
+    neighborhood: "Sundown",
     city: "Santa Cruz do Sul",
     averageAge: 29,
     distanceFromCityCenter: 18.9,
@@ -6962,7 +6962,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -52.4305596,
   },
   {
-    neigborhood: "Melvin",
+    neighborhood: "Melvin",
     city: "Jawf al Maqbābah",
     averageAge: 58,
     distanceFromCityCenter: 80.7,
@@ -6972,7 +6972,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.83488,
   },
   {
-    neigborhood: "Colorado",
+    neighborhood: "Colorado",
     city: "Meiyuan",
     averageAge: 53,
     distanceFromCityCenter: 5.7,
@@ -6982,7 +6982,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.567195,
   },
   {
-    neigborhood: "Kensington",
+    neighborhood: "Kensington",
     city: "Sumoto",
     averageAge: 61,
     distanceFromCityCenter: 46.6,
@@ -6992,7 +6992,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 134.9171616,
   },
   {
-    neigborhood: "Dorton",
+    neighborhood: "Dorton",
     city: "Temanjang",
     averageAge: 26,
     distanceFromCityCenter: 71.4,
@@ -7002,7 +7002,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.3929,
   },
   {
-    neigborhood: "Redwing",
+    neighborhood: "Redwing",
     city: "Ivouani",
     averageAge: 46,
     distanceFromCityCenter: 24.6,
@@ -7012,7 +7012,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 43.390991,
   },
   {
-    neigborhood: "Graceland",
+    neighborhood: "Graceland",
     city: "Cabreúva",
     averageAge: 29,
     distanceFromCityCenter: 63.2,
@@ -7022,7 +7022,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.1367011,
   },
   {
-    neigborhood: "Lukken",
+    neighborhood: "Lukken",
     city: "San Antonio",
     averageAge: 52,
     distanceFromCityCenter: 51.2,
@@ -7032,7 +7032,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -88.7722444,
   },
   {
-    neigborhood: "Autumn Leaf",
+    neighborhood: "Autumn Leaf",
     city: "Lazarat",
     averageAge: 44,
     distanceFromCityCenter: 88.2,
@@ -7042,7 +7042,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.1581282,
   },
   {
-    neigborhood: "Little Fleur",
+    neighborhood: "Little Fleur",
     city: "Nowy Korczyn",
     averageAge: 66,
     distanceFromCityCenter: 73.2,
@@ -7052,7 +7052,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.8074789,
   },
   {
-    neigborhood: "Amoth",
+    neighborhood: "Amoth",
     city: "Żółkiewka",
     averageAge: 36,
     distanceFromCityCenter: 51.6,
@@ -7062,7 +7062,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.8346659,
   },
   {
-    neigborhood: "Montana",
+    neighborhood: "Montana",
     state: "A8",
     city: "Villeneuve-la-Garenne",
     averageAge: 28,
@@ -7073,7 +7073,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.3265854,
   },
   {
-    neigborhood: "Algoma",
+    neighborhood: "Algoma",
     city: "Dzüünkharaa",
     averageAge: 33,
     distanceFromCityCenter: 81.7,
@@ -7083,7 +7083,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.73333,
   },
   {
-    neigborhood: "Glacier Hill",
+    neighborhood: "Glacier Hill",
     city: "Gazimurskiy Zavod",
     averageAge: 37,
     distanceFromCityCenter: 75.1,
@@ -7093,7 +7093,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.3446,
   },
   {
-    neigborhood: "Mayfield",
+    neighborhood: "Mayfield",
     city: "Dorogobuzh",
     averageAge: 48,
     distanceFromCityCenter: 66.6,
@@ -7103,7 +7103,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 33.2971034,
   },
   {
-    neigborhood: "Nevada",
+    neighborhood: "Nevada",
     city: "Balaoang",
     averageAge: 50,
     distanceFromCityCenter: 57.5,
@@ -7113,7 +7113,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.5185954,
   },
   {
-    neigborhood: "Miller",
+    neighborhood: "Miller",
     city: "Meizhou",
     averageAge: 44,
     distanceFromCityCenter: 62.2,
@@ -7123,7 +7123,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.122523,
   },
   {
-    neigborhood: "Sherman",
+    neighborhood: "Sherman",
     city: "Balzan",
     averageAge: 58,
     distanceFromCityCenter: 5.4,
@@ -7133,7 +7133,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.4545529,
   },
   {
-    neigborhood: "Londonderry",
+    neighborhood: "Londonderry",
     city: "Immātīn",
     averageAge: 33,
     distanceFromCityCenter: 64.1,
@@ -7143,7 +7143,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.159475,
   },
   {
-    neigborhood: "Dryden",
+    neighborhood: "Dryden",
     city: "Fengyi",
     averageAge: 66,
     distanceFromCityCenter: 2.9,
@@ -7153,7 +7153,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -73.112232,
   },
   {
-    neigborhood: "Vahlen",
+    neighborhood: "Vahlen",
     state: "BW",
     city: "Freiburg im Breisgau",
     averageAge: 45,
@@ -7164,7 +7164,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.8107621,
   },
   {
-    neigborhood: "Fallview",
+    neighborhood: "Fallview",
     city: "Voyutychi",
     averageAge: 22,
     distanceFromCityCenter: 72.8,
@@ -7174,7 +7174,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 23.1084348,
   },
   {
-    neigborhood: "Scott",
+    neighborhood: "Scott",
     city: "Tanjung",
     averageAge: 21,
     distanceFromCityCenter: 62.1,
@@ -7184,7 +7184,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.1713917,
   },
   {
-    neigborhood: "Meadow Valley",
+    neighborhood: "Meadow Valley",
     city: "Pančevo",
     averageAge: 54,
     distanceFromCityCenter: 71.6,
@@ -7194,7 +7194,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.6475673,
   },
   {
-    neigborhood: "Nevada",
+    neighborhood: "Nevada",
     city: "Ōzu",
     averageAge: 64,
     distanceFromCityCenter: 23.7,
@@ -7204,7 +7204,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 132.6048622,
   },
   {
-    neigborhood: "Melrose",
+    neighborhood: "Melrose",
     city: "Zwierzyń",
     averageAge: 18,
     distanceFromCityCenter: 92.3,
@@ -7214,7 +7214,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.5780691,
   },
   {
-    neigborhood: "Bonner",
+    neighborhood: "Bonner",
     city: "Xinjiang",
     averageAge: 40,
     distanceFromCityCenter: 3.8,
@@ -7224,7 +7224,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 87.5395855,
   },
   {
-    neigborhood: "Sundown",
+    neighborhood: "Sundown",
     city: "Nikolayevsk",
     averageAge: 38,
     distanceFromCityCenter: 50.9,
@@ -7234,7 +7234,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 140.6634789,
   },
   {
-    neigborhood: "Derek",
+    neighborhood: "Derek",
     city: "Yanhe",
     averageAge: 18,
     distanceFromCityCenter: 16.0,
@@ -7244,7 +7244,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.50387,
   },
   {
-    neigborhood: "Chinook",
+    neighborhood: "Chinook",
     city: "Lianzhou",
     averageAge: 64,
     distanceFromCityCenter: 24.1,
@@ -7254,7 +7254,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.377361,
   },
   {
-    neigborhood: "Doe Crossing",
+    neighborhood: "Doe Crossing",
     city: "Enjitsu",
     averageAge: 29,
     distanceFromCityCenter: 4.9,
@@ -7264,7 +7264,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 129.345,
   },
   {
-    neigborhood: "Hoard",
+    neighborhood: "Hoard",
     city: "Shibukawa",
     averageAge: 50,
     distanceFromCityCenter: 74.0,
@@ -7274,7 +7274,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 140.9917351,
   },
   {
-    neigborhood: "Veith",
+    neighborhood: "Veith",
     city: "Yuncheng",
     averageAge: 63,
     distanceFromCityCenter: 72.8,
@@ -7284,7 +7284,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.00746,
   },
   {
-    neigborhood: "Thackeray",
+    neighborhood: "Thackeray",
     city: "Mali",
     averageAge: 21,
     distanceFromCityCenter: 37.2,
@@ -7294,7 +7294,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 88.341817,
   },
   {
-    neigborhood: "Welch",
+    neighborhood: "Welch",
     city: "Burgos",
     averageAge: 26,
     distanceFromCityCenter: 63.2,
@@ -7304,7 +7304,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.6889505,
   },
   {
-    neigborhood: "Cascade",
+    neighborhood: "Cascade",
     city: "Miraflores",
     averageAge: 47,
     distanceFromCityCenter: 45.0,
@@ -7314,7 +7314,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -77.0315913,
   },
   {
-    neigborhood: "Tomscot",
+    neighborhood: "Tomscot",
     state: "NW",
     city: "Duisburg",
     averageAge: 40,
@@ -7325,7 +7325,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 6.7112395,
   },
   {
-    neigborhood: "Blaine",
+    neighborhood: "Blaine",
     city: "Thanh Chương",
     averageAge: 43,
     distanceFromCityCenter: 82.9,
@@ -7335,7 +7335,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.2662931,
   },
   {
-    neigborhood: "Petterle",
+    neighborhood: "Petterle",
     city: "Hevlín",
     averageAge: 63,
     distanceFromCityCenter: 90.3,
@@ -7345,7 +7345,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.3813139,
   },
   {
-    neigborhood: "Clove",
+    neighborhood: "Clove",
     city: "Kaminokawa",
     averageAge: 46,
     distanceFromCityCenter: 46.4,
@@ -7355,7 +7355,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 130.3333333,
   },
   {
-    neigborhood: "Marquette",
+    neighborhood: "Marquette",
     city: "Portachuelo",
     averageAge: 34,
     distanceFromCityCenter: 26.7,
@@ -7365,7 +7365,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -63.3977316,
   },
   {
-    neigborhood: "Pine View",
+    neighborhood: "Pine View",
     city: "Przewóz",
     averageAge: 19,
     distanceFromCityCenter: 63.3,
@@ -7375,7 +7375,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 14.9541628,
   },
   {
-    neigborhood: "Oakridge",
+    neighborhood: "Oakridge",
     city: "Sihe",
     averageAge: 38,
     distanceFromCityCenter: 99.0,
@@ -7385,7 +7385,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.41571,
   },
   {
-    neigborhood: "Mockingbird",
+    neighborhood: "Mockingbird",
     city: "Mococa",
     averageAge: 40,
     distanceFromCityCenter: 81.3,
@@ -7395,7 +7395,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.0145295,
   },
   {
-    neigborhood: "Towne",
+    neighborhood: "Towne",
     city: "Barusuda",
     averageAge: 19,
     distanceFromCityCenter: 79.0,
@@ -7405,7 +7405,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.8317307,
   },
   {
-    neigborhood: "Jana",
+    neighborhood: "Jana",
     city: "Terpinnya",
     averageAge: 70,
     distanceFromCityCenter: 95.0,
@@ -7415,7 +7415,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.4217024,
   },
   {
-    neigborhood: "Pine View",
+    neighborhood: "Pine View",
     city: "Boca Suno",
     averageAge: 44,
     distanceFromCityCenter: 73.8,
@@ -7425,7 +7425,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -77.14083,
   },
   {
-    neigborhood: "Division",
+    neighborhood: "Division",
     state: "1084",
     city: "København",
     averageAge: 67,
@@ -7436,7 +7436,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 12.5751597,
   },
   {
-    neigborhood: "Burning Wood",
+    neighborhood: "Burning Wood",
     city: "Nerekhta",
     averageAge: 39,
     distanceFromCityCenter: 28.2,
@@ -7446,7 +7446,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 40.5773582,
   },
   {
-    neigborhood: "Duke",
+    neighborhood: "Duke",
     state: "15",
     city: "Afonsoeiro",
     averageAge: 54,
@@ -7457,7 +7457,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.9557309,
   },
   {
-    neigborhood: "Alpine",
+    neighborhood: "Alpine",
     city: "Dado",
     averageAge: 34,
     distanceFromCityCenter: 59.8,
@@ -7467,7 +7467,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.9753765,
   },
   {
-    neigborhood: "Northfield",
+    neighborhood: "Northfield",
     city: "Takeshiken",
     averageAge: 42,
     distanceFromCityCenter: 96.9,
@@ -7477,7 +7477,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 90.80581,
   },
   {
-    neigborhood: "Debs",
+    neighborhood: "Debs",
     city: "Habiganj",
     averageAge: 69,
     distanceFromCityCenter: 67.6,
@@ -7487,7 +7487,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 91.4506565,
   },
   {
-    neigborhood: "Hanson",
+    neighborhood: "Hanson",
     state: "NB",
     city: "Dieppe",
     averageAge: 37,
@@ -7498,7 +7498,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -64.7486638,
   },
   {
-    neigborhood: "Bellgrove",
+    neighborhood: "Bellgrove",
     city: "Sendang",
     averageAge: 26,
     distanceFromCityCenter: 92.8,
@@ -7508,7 +7508,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.8210866,
   },
   {
-    neigborhood: "Colorado",
+    neighborhood: "Colorado",
     state: "02",
     city: "Odivelas",
     averageAge: 38,
@@ -7519,7 +7519,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.1496483,
   },
   {
-    neigborhood: "Artisan",
+    neighborhood: "Artisan",
     city: "Koryčany",
     averageAge: 46,
     distanceFromCityCenter: 19.1,
@@ -7529,7 +7529,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.164335,
   },
   {
-    neigborhood: "Sommers",
+    neighborhood: "Sommers",
     city: "Zaoshi",
     averageAge: 43,
     distanceFromCityCenter: 18.1,
@@ -7539,7 +7539,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.449709,
   },
   {
-    neigborhood: "Morrow",
+    neighborhood: "Morrow",
     city: "Magapit",
     averageAge: 34,
     distanceFromCityCenter: 36.4,
@@ -7549,7 +7549,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.6723186,
   },
   {
-    neigborhood: "Rigney",
+    neighborhood: "Rigney",
     city: "Ngelak",
     averageAge: 66,
     distanceFromCityCenter: 60.0,
@@ -7559,7 +7559,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.3615247,
   },
   {
-    neigborhood: "1st",
+    neighborhood: "1st",
     city: "Puji",
     averageAge: 38,
     distanceFromCityCenter: 28.4,
@@ -7569,7 +7569,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 117.646567,
   },
   {
-    neigborhood: "Dapin",
+    neighborhood: "Dapin",
     city: "Tournavista",
     averageAge: 42,
     distanceFromCityCenter: 24.9,
@@ -7579,7 +7579,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -74.7059059,
   },
   {
-    neigborhood: "Saint Paul",
+    neighborhood: "Saint Paul",
     city: "Kotayk’",
     averageAge: 19,
     distanceFromCityCenter: 97.1,
@@ -7589,7 +7589,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.7690148,
   },
   {
-    neigborhood: "Buhler",
+    neighborhood: "Buhler",
     city: "Donghe",
     averageAge: 37,
     distanceFromCityCenter: 63.8,
@@ -7599,7 +7599,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.044106,
   },
   {
-    neigborhood: "Carioca",
+    neighborhood: "Carioca",
     city: "Nar'yan-Mar",
     averageAge: 45,
     distanceFromCityCenter: 67.1,
@@ -7609,7 +7609,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 53.1078339,
   },
   {
-    neigborhood: "Randy",
+    neighborhood: "Randy",
     state: "X",
     city: "Gävle",
     averageAge: 37,
@@ -7620,7 +7620,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.112779,
   },
   {
-    neigborhood: "Chinook",
+    neighborhood: "Chinook",
     state: "COL",
     city: "Progreso",
     averageAge: 38,
@@ -7631,7 +7631,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -89.6651628,
   },
   {
-    neigborhood: "Pennsylvania",
+    neighborhood: "Pennsylvania",
     city: "Oenaik",
     averageAge: 53,
     distanceFromCityCenter: 45.8,
@@ -7641,7 +7641,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.3556,
   },
   {
-    neigborhood: "Blaine",
+    neighborhood: "Blaine",
     city: "Curug",
     averageAge: 63,
     distanceFromCityCenter: 97.1,
@@ -7651,7 +7651,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.1698563,
   },
   {
-    neigborhood: "Dwight",
+    neighborhood: "Dwight",
     city: "Shanghuang",
     averageAge: 35,
     distanceFromCityCenter: 90.4,
@@ -7661,7 +7661,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.567785,
   },
   {
-    neigborhood: "Meadow Valley",
+    neighborhood: "Meadow Valley",
     city: "Sājūr",
     averageAge: 47,
     distanceFromCityCenter: 60.9,
@@ -7671,7 +7671,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.343616,
   },
   {
-    neigborhood: "Prentice",
+    neighborhood: "Prentice",
     city: "Masohi",
     averageAge: 48,
     distanceFromCityCenter: 16.2,
@@ -7681,7 +7681,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 128.9615888,
   },
   {
-    neigborhood: "Miller",
+    neighborhood: "Miller",
     city: "Jiangkou",
     averageAge: 59,
     distanceFromCityCenter: 22.2,
@@ -7691,7 +7691,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.839557,
   },
   {
-    neigborhood: "Ludington",
+    neighborhood: "Ludington",
     city: "Zhongcun",
     averageAge: 28,
     distanceFromCityCenter: 9.2,
@@ -7701,7 +7701,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.767529,
   },
   {
-    neigborhood: "West",
+    neighborhood: "West",
     city: "Calaba",
     averageAge: 26,
     distanceFromCityCenter: 12.3,
@@ -7711,7 +7711,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.6190252,
   },
   {
-    neigborhood: "Parkside",
+    neighborhood: "Parkside",
     state: "B9",
     city: "Lyon",
     averageAge: 44,
@@ -7722,7 +7722,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 1.9038837,
   },
   {
-    neigborhood: "Arapahoe",
+    neighborhood: "Arapahoe",
     city: "Wassa-Akropong",
     averageAge: 49,
     distanceFromCityCenter: 34.9,
@@ -7732,7 +7732,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -2.091848,
   },
   {
-    neigborhood: "Scoville",
+    neighborhood: "Scoville",
     city: "Sanxiang",
     averageAge: 20,
     distanceFromCityCenter: 91.3,
@@ -7742,7 +7742,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.440958,
   },
   {
-    neigborhood: "Loomis",
+    neighborhood: "Loomis",
     city: "Mas‘adah",
     averageAge: 59,
     distanceFromCityCenter: 49.9,
@@ -7752,7 +7752,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.75572,
   },
   {
-    neigborhood: "International",
+    neighborhood: "International",
     city: "Złota",
     averageAge: 28,
     distanceFromCityCenter: 5.5,
@@ -7762,7 +7762,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.6937448,
   },
   {
-    neigborhood: "2nd",
+    neighborhood: "2nd",
     city: "Al Ibrāhīmīyah",
     averageAge: 50,
     distanceFromCityCenter: 50.0,
@@ -7772,7 +7772,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 31.56241,
   },
   {
-    neigborhood: "Logan",
+    neighborhood: "Logan",
     city: "Babo-Pangulo",
     averageAge: 67,
     distanceFromCityCenter: 20.7,
@@ -7782,7 +7782,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.5150706,
   },
   {
-    neigborhood: "Eastwood",
+    neighborhood: "Eastwood",
     city: "Famatina",
     averageAge: 49,
     distanceFromCityCenter: 54.4,
@@ -7792,7 +7792,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -58.4184031,
   },
   {
-    neigborhood: "Anderson",
+    neighborhood: "Anderson",
     city: "Rizal",
     averageAge: 62,
     distanceFromCityCenter: 46.0,
@@ -7802,7 +7802,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.1092186,
   },
   {
-    neigborhood: "Banding",
+    neighborhood: "Banding",
     city: "Longshan",
     averageAge: 66,
     distanceFromCityCenter: 43.1,
@@ -7812,7 +7812,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.136451,
   },
   {
-    neigborhood: "Kedzie",
+    neighborhood: "Kedzie",
     city: "Yokosuka",
     averageAge: 32,
     distanceFromCityCenter: 76.5,
@@ -7822,7 +7822,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 137.9865313,
   },
   {
-    neigborhood: "Transport",
+    neighborhood: "Transport",
     city: "Huwan",
     averageAge: 19,
     distanceFromCityCenter: 50.4,
@@ -7832,7 +7832,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.576901,
   },
   {
-    neigborhood: "Lindbergh",
+    neighborhood: "Lindbergh",
     city: "Obsharovka",
     averageAge: 39,
     distanceFromCityCenter: 50.3,
@@ -7842,7 +7842,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 48.8618445,
   },
   {
-    neigborhood: "Dapin",
+    neighborhood: "Dapin",
     city: "Banjing",
     averageAge: 55,
     distanceFromCityCenter: 88.3,
@@ -7852,7 +7852,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.796877,
   },
   {
-    neigborhood: "Paget",
+    neighborhood: "Paget",
     city: "Tsurib",
     averageAge: 69,
     distanceFromCityCenter: 38.6,
@@ -7862,7 +7862,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 46.83073,
   },
   {
-    neigborhood: "Tennyson",
+    neighborhood: "Tennyson",
     city: "Laidian",
     averageAge: 32,
     distanceFromCityCenter: 95.9,
@@ -7872,7 +7872,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.732669,
   },
   {
-    neigborhood: "3rd",
+    neighborhood: "3rd",
     city: "Buk",
     averageAge: 45,
     distanceFromCityCenter: 46.7,
@@ -7882,7 +7882,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.519559,
   },
   {
-    neigborhood: "Packers",
+    neighborhood: "Packers",
     city: "Nachalovo",
     averageAge: 36,
     distanceFromCityCenter: 72.6,
@@ -7892,7 +7892,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 48.2017123,
   },
   {
-    neigborhood: "Cambridge",
+    neighborhood: "Cambridge",
     city: "Sindangsari",
     averageAge: 24,
     distanceFromCityCenter: 52.8,
@@ -7902,7 +7902,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.438797,
   },
   {
-    neigborhood: "Chinook",
+    neighborhood: "Chinook",
     city: "Geshan",
     averageAge: 30,
     distanceFromCityCenter: 38.7,
@@ -7912,7 +7912,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.440283,
   },
   {
-    neigborhood: "Victoria",
+    neighborhood: "Victoria",
     city: "Pesnica pri Mariboru",
     averageAge: 32,
     distanceFromCityCenter: 26.9,
@@ -7922,7 +7922,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.6758117,
   },
   {
-    neigborhood: "Acker",
+    neighborhood: "Acker",
     city: "Oro Timur",
     averageAge: 49,
     distanceFromCityCenter: 48.9,
@@ -7932,7 +7932,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.5201746,
   },
   {
-    neigborhood: "Jenna",
+    neighborhood: "Jenna",
     city: "Palmitas",
     averageAge: 28,
     distanceFromCityCenter: 7.4,
@@ -7942,7 +7942,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -57.7992243,
   },
   {
-    neigborhood: "Express",
+    neighborhood: "Express",
     city: "Vysokovsk",
     averageAge: 30,
     distanceFromCityCenter: 95.1,
@@ -7952,7 +7952,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.5573127,
   },
   {
-    neigborhood: "Gale",
+    neighborhood: "Gale",
     city: "Krosno",
     averageAge: 35,
     distanceFromCityCenter: 20.0,
@@ -7962,7 +7962,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.506072,
   },
   {
-    neigborhood: "Jackson",
+    neighborhood: "Jackson",
     city: "Sacramento",
     averageAge: 32,
     distanceFromCityCenter: 47.3,
@@ -7972,7 +7972,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -47.3706554,
   },
   {
-    neigborhood: "Hoard",
+    neighborhood: "Hoard",
     city: "Moutfort",
     averageAge: 26,
     distanceFromCityCenter: 24.4,
@@ -7982,7 +7982,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 6.257054,
   },
   {
-    neigborhood: "Crowley",
+    neighborhood: "Crowley",
     state: "03",
     city: "Oslo",
     averageAge: 38,
@@ -7993,7 +7993,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 10.7673005,
   },
   {
-    neigborhood: "Kedzie",
+    neighborhood: "Kedzie",
     city: "São Lourenço",
     averageAge: 21,
     distanceFromCityCenter: 75.4,
@@ -8003,7 +8003,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -45.0584384,
   },
   {
-    neigborhood: "Brickson Park",
+    neighborhood: "Brickson Park",
     city: "Cap Malheureux",
     averageAge: 41,
     distanceFromCityCenter: 8.1,
@@ -8013,7 +8013,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 57.6127424,
   },
   {
-    neigborhood: "Loftsgordon",
+    neighborhood: "Loftsgordon",
     city: "Banarankrajan",
     averageAge: 65,
     distanceFromCityCenter: 36.3,
@@ -8023,7 +8023,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.6694,
   },
   {
-    neigborhood: "Clemons",
+    neighborhood: "Clemons",
     state: "O",
     city: "Borås",
     averageAge: 30,
@@ -8034,7 +8034,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 12.9277839,
   },
   {
-    neigborhood: "Farragut",
+    neighborhood: "Farragut",
     city: "Bouca",
     averageAge: 67,
     distanceFromCityCenter: 35.3,
@@ -8044,7 +8044,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.2763069,
   },
   {
-    neigborhood: "Clarendon",
+    neighborhood: "Clarendon",
     state: "AB",
     city: "Järna",
     averageAge: 66,
@@ -8055,7 +8055,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.5786783,
   },
   {
-    neigborhood: "Holy Cross",
+    neighborhood: "Holy Cross",
     city: "Mirimire",
     averageAge: 19,
     distanceFromCityCenter: 96.6,
@@ -8065,7 +8065,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -68.7259306,
   },
   {
-    neigborhood: "Schiller",
+    neighborhood: "Schiller",
     city: "Saraktash",
     averageAge: 45,
     distanceFromCityCenter: 2.5,
@@ -8075,7 +8075,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 56.3442985,
   },
   {
-    neigborhood: "Tennessee",
+    neighborhood: "Tennessee",
     city: "Sadar",
     averageAge: 49,
     distanceFromCityCenter: 21.0,
@@ -8085,7 +8085,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 139.9469432,
   },
   {
-    neigborhood: "Michigan",
+    neighborhood: "Michigan",
     city: "Isnā",
     averageAge: 58,
     distanceFromCityCenter: 31.9,
@@ -8095,7 +8095,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 32.5522304,
   },
   {
-    neigborhood: "Nelson",
+    neighborhood: "Nelson",
     city: "Orguz",
     averageAge: 49,
     distanceFromCityCenter: 97.8,
@@ -8105,7 +8105,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.8628891,
   },
   {
-    neigborhood: "Glacier Hill",
+    neighborhood: "Glacier Hill",
     city: "Теарце",
     averageAge: 29,
     distanceFromCityCenter: 78.8,
@@ -8115,7 +8115,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 21.0523541,
   },
   {
-    neigborhood: "Homewood",
+    neighborhood: "Homewood",
     city: "Nawá",
     averageAge: 41,
     distanceFromCityCenter: 11.4,
@@ -8125,7 +8125,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.0404049,
   },
   {
-    neigborhood: "Banding",
+    neighborhood: "Banding",
     state: "15",
     city: "Pinhal da Marquesa",
     averageAge: 24,
@@ -8136,7 +8136,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.9994843,
   },
   {
-    neigborhood: "Morrow",
+    neighborhood: "Morrow",
     city: "Slantsy",
     averageAge: 45,
     distanceFromCityCenter: 51.4,
@@ -8146,7 +8146,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 28.0935735,
   },
   {
-    neigborhood: "Sutherland",
+    neighborhood: "Sutherland",
     city: "Bujaków",
     averageAge: 44,
     distanceFromCityCenter: 38.7,
@@ -8156,7 +8156,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.1930625,
   },
   {
-    neigborhood: "Shelley",
+    neighborhood: "Shelley",
     state: "MA",
     city: "Springfield",
     averageAge: 54,
@@ -8167,7 +8167,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.5815752,
   },
   {
-    neigborhood: "Hoffman",
+    neighborhood: "Hoffman",
     state: "01",
     city: "Canedo",
     averageAge: 45,
@@ -8178,7 +8178,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -8.4622869,
   },
   {
-    neigborhood: "Becker",
+    neighborhood: "Becker",
     city: "Kalunan",
     averageAge: 35,
     distanceFromCityCenter: 5.0,
@@ -8188,7 +8188,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.6687109,
   },
   {
-    neigborhood: "Vernon",
+    neighborhood: "Vernon",
     city: "Morfovoúni",
     averageAge: 51,
     distanceFromCityCenter: 96.9,
@@ -8198,7 +8198,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 21.7513868,
   },
   {
-    neigborhood: "Loftsgordon",
+    neighborhood: "Loftsgordon",
     state: "WI",
     city: "Madison",
     averageAge: 58,
@@ -8209,7 +8209,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -89.3274391,
   },
   {
-    neigborhood: "Oak Valley",
+    neighborhood: "Oak Valley",
     state: "A1",
     city: "Dijon",
     averageAge: 57,
@@ -8220,7 +8220,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.5135985,
   },
   {
-    neigborhood: "Calypso",
+    neighborhood: "Calypso",
     city: "Lisui",
     averageAge: 61,
     distanceFromCityCenter: 28.0,
@@ -8230,7 +8230,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.922796,
   },
   {
-    neigborhood: "Kensington",
+    neighborhood: "Kensington",
     city: "Verkhn’odniprovs’k",
     averageAge: 44,
     distanceFromCityCenter: 3.9,
@@ -8240,7 +8240,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 34.336891,
   },
   {
-    neigborhood: "Northwestern",
+    neighborhood: "Northwestern",
     city: "Huangzhuang",
     averageAge: 54,
     distanceFromCityCenter: 46.0,
@@ -8250,7 +8250,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.317558,
   },
   {
-    neigborhood: "Ronald Regan",
+    neighborhood: "Ronald Regan",
     city: "Kalodzishchy",
     averageAge: 55,
     distanceFromCityCenter: 13.6,
@@ -8260,7 +8260,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 27.7823,
   },
   {
-    neigborhood: "Thackeray",
+    neighborhood: "Thackeray",
     city: "Tais",
     averageAge: 61,
     distanceFromCityCenter: 21.4,
@@ -8270,7 +8270,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.745253,
   },
   {
-    neigborhood: "Morningstar",
+    neighborhood: "Morningstar",
     city: "Puqian",
     averageAge: 51,
     distanceFromCityCenter: 30.1,
@@ -8280,7 +8280,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.580002,
   },
   {
-    neigborhood: "Westerfield",
+    neighborhood: "Westerfield",
     city: "Qinghaihu",
     averageAge: 41,
     distanceFromCityCenter: 50.9,
@@ -8290,7 +8290,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 100.3497895,
   },
   {
-    neigborhood: "3rd",
+    neighborhood: "3rd",
     city: "Uvarovka",
     averageAge: 36,
     distanceFromCityCenter: 85.1,
@@ -8300,7 +8300,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 35.6160989,
   },
   {
-    neigborhood: "Reinke",
+    neighborhood: "Reinke",
     city: "Terek",
     averageAge: 21,
     distanceFromCityCenter: 0.5,
@@ -8310,7 +8310,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.1393572,
   },
   {
-    neigborhood: "Fisk",
+    neighborhood: "Fisk",
     city: "Gamping Lor",
     averageAge: 69,
     distanceFromCityCenter: 13.9,
@@ -8320,7 +8320,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.3249238,
   },
   {
-    neigborhood: "Thompson",
+    neighborhood: "Thompson",
     city: "Noginsk",
     averageAge: 67,
     distanceFromCityCenter: 10.1,
@@ -8330,7 +8330,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.428733,
   },
   {
-    neigborhood: "Holy Cross",
+    neighborhood: "Holy Cross",
     city: "Sanchang",
     averageAge: 42,
     distanceFromCityCenter: 71.2,
@@ -8340,7 +8340,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.255306,
   },
   {
-    neigborhood: "Portage",
+    neighborhood: "Portage",
     city: "São Bernardo do Campo",
     averageAge: 66,
     distanceFromCityCenter: 77.9,
@@ -8350,7 +8350,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -46.5648481,
   },
   {
-    neigborhood: "Tony",
+    neighborhood: "Tony",
     city: "Ngepoh Kidul",
     averageAge: 34,
     distanceFromCityCenter: 61.1,
@@ -8360,7 +8360,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.2424227,
   },
   {
-    neigborhood: "Atwood",
+    neighborhood: "Atwood",
     city: "Puerto Madryn",
     averageAge: 63,
     distanceFromCityCenter: 35.4,
@@ -8370,7 +8370,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -65.0306302,
   },
   {
-    neigborhood: "Hanover",
+    neighborhood: "Hanover",
     city: "Miranda",
     averageAge: 24,
     distanceFromCityCenter: 74.0,
@@ -8380,7 +8380,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -76.229027,
   },
   {
-    neigborhood: "Troy",
+    neighborhood: "Troy",
     city: "Puerto Berrío",
     averageAge: 65,
     distanceFromCityCenter: 51.0,
@@ -8390,7 +8390,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -74.4088,
   },
   {
-    neigborhood: "Old Shore",
+    neighborhood: "Old Shore",
     city: "Cikole",
     averageAge: 37,
     distanceFromCityCenter: 43.1,
@@ -8400,7 +8400,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.6392892,
   },
   {
-    neigborhood: "Morrow",
+    neighborhood: "Morrow",
     city: "Ciputih",
     averageAge: 61,
     distanceFromCityCenter: 36.7,
@@ -8410,7 +8410,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.8373244,
   },
   {
-    neigborhood: "Vahlen",
+    neighborhood: "Vahlen",
     city: "Kybartai",
     averageAge: 37,
     distanceFromCityCenter: 67.1,
@@ -8420,7 +8420,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.7575987,
   },
   {
-    neigborhood: "Sugar",
+    neighborhood: "Sugar",
     state: "99",
     city: "Saint-Lô",
     averageAge: 23,
@@ -8431,7 +8431,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -1.0793373,
   },
   {
-    neigborhood: "Walton",
+    neighborhood: "Walton",
     city: "Artsvaberd",
     averageAge: 39,
     distanceFromCityCenter: 81.1,
@@ -8441,7 +8441,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.4714491,
   },
   {
-    neigborhood: "Fordem",
+    neighborhood: "Fordem",
     city: "Karang Daye",
     averageAge: 60,
     distanceFromCityCenter: 76.5,
@@ -8451,7 +8451,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 130.5052176,
   },
   {
-    neigborhood: "Washington",
+    neighborhood: "Washington",
     city: "Malainen Luma",
     averageAge: 56,
     distanceFromCityCenter: 71.1,
@@ -8461,7 +8461,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.765351,
   },
   {
-    neigborhood: "Sauthoff",
+    neighborhood: "Sauthoff",
     city: "Xiwu",
     averageAge: 21,
     distanceFromCityCenter: 49.2,
@@ -8471,7 +8471,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.07514,
   },
   {
-    neigborhood: "Hollow Ridge",
+    neighborhood: "Hollow Ridge",
     city: "Kowingir",
     averageAge: 55,
     distanceFromCityCenter: 78.4,
@@ -8481,7 +8481,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.0497,
   },
   {
-    neigborhood: "Forster",
+    neighborhood: "Forster",
     city: "Dong Liang’erzhuang",
     averageAge: 64,
     distanceFromCityCenter: 70.3,
@@ -8491,7 +8491,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.59158,
   },
   {
-    neigborhood: "Valley Edge",
+    neighborhood: "Valley Edge",
     city: "E’zhou",
     averageAge: 60,
     distanceFromCityCenter: 59.3,
@@ -8501,7 +8501,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 114.894843,
   },
   {
-    neigborhood: "Carpenter",
+    neighborhood: "Carpenter",
     state: "MO",
     city: "Lees Summit",
     averageAge: 56,
@@ -8512,7 +8512,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -94.4079213,
   },
   {
-    neigborhood: "American Ash",
+    neighborhood: "American Ash",
     city: "Cabinda",
     averageAge: 44,
     distanceFromCityCenter: 85.3,
@@ -8522,7 +8522,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 12.1927103,
   },
   {
-    neigborhood: "Washington",
+    neighborhood: "Washington",
     city: "Taquara",
     averageAge: 20,
     distanceFromCityCenter: 45.8,
@@ -8532,7 +8532,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -50.7757844,
   },
   {
-    neigborhood: "Mendota",
+    neighborhood: "Mendota",
     city: "Extremoz",
     averageAge: 22,
     distanceFromCityCenter: 73.7,
@@ -8542,7 +8542,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -35.2697802,
   },
   {
-    neigborhood: "Forest Dale",
+    neighborhood: "Forest Dale",
     city: "Mobaye",
     averageAge: 19,
     distanceFromCityCenter: 80.8,
@@ -8552,7 +8552,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 21.1861342,
   },
   {
-    neigborhood: "Dunning",
+    neighborhood: "Dunning",
     city: "Zhujiatai",
     averageAge: 61,
     distanceFromCityCenter: 16.9,
@@ -8562,7 +8562,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.152436,
   },
   {
-    neigborhood: "Almo",
+    neighborhood: "Almo",
     city: "Nanbin",
     averageAge: 65,
     distanceFromCityCenter: 62.4,
@@ -8572,7 +8572,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.398,
   },
   {
-    neigborhood: "Hanover",
+    neighborhood: "Hanover",
     city: "Wolofeo",
     averageAge: 28,
     distanceFromCityCenter: 94.7,
@@ -8582,7 +8582,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.7508912,
   },
   {
-    neigborhood: "Sherman",
+    neighborhood: "Sherman",
     city: "Zhengji",
     averageAge: 34,
     distanceFromCityCenter: 66.3,
@@ -8592,7 +8592,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 116.4374738,
   },
   {
-    neigborhood: "Esker",
+    neighborhood: "Esker",
     state: "GRO",
     city: "Santa Cruz",
     averageAge: 37,
@@ -8603,7 +8603,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -110.5967674,
   },
   {
-    neigborhood: "Hansons",
+    neighborhood: "Hansons",
     city: "Zlatar",
     averageAge: 50,
     distanceFromCityCenter: 96.1,
@@ -8613,7 +8613,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 16.0768315,
   },
   {
-    neigborhood: "Burrows",
+    neighborhood: "Burrows",
     city: "Barra dos Coqueiros",
     averageAge: 24,
     distanceFromCityCenter: 22.8,
@@ -8623,7 +8623,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -36.970226,
   },
   {
-    neigborhood: "Dunning",
+    neighborhood: "Dunning",
     city: "Caqu",
     averageAge: 34,
     distanceFromCityCenter: 63.7,
@@ -8633,7 +8633,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 106.454213,
   },
   {
-    neigborhood: "Sycamore",
+    neighborhood: "Sycamore",
     city: "Tupiza",
     averageAge: 58,
     distanceFromCityCenter: 13.8,
@@ -8643,7 +8643,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -65.7193442,
   },
   {
-    neigborhood: "Springs",
+    neighborhood: "Springs",
     city: "Nagutskoye",
     averageAge: 70,
     distanceFromCityCenter: 64.4,
@@ -8653,7 +8653,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 42.8839636,
   },
   {
-    neigborhood: "Fairview",
+    neighborhood: "Fairview",
     city: "Plaza Huincul",
     averageAge: 39,
     distanceFromCityCenter: 99.5,
@@ -8663,7 +8663,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -68.8493333,
   },
   {
-    neigborhood: "Harbort",
+    neighborhood: "Harbort",
     city: "Starokorsunskaya",
     averageAge: 57,
     distanceFromCityCenter: 45.5,
@@ -8673,7 +8673,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 39.1162056,
   },
   {
-    neigborhood: "Sutherland",
+    neighborhood: "Sutherland",
     city: "Šmarje pri Jelšah",
     averageAge: 20,
     distanceFromCityCenter: 80.2,
@@ -8683,7 +8683,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.5190353,
   },
   {
-    neigborhood: "Morning",
+    neighborhood: "Morning",
     city: "São João dos Patos",
     averageAge: 46,
     distanceFromCityCenter: 16.7,
@@ -8693,7 +8693,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -43.7039903,
   },
   {
-    neigborhood: "Corscot",
+    neighborhood: "Corscot",
     city: "Tanguá",
     averageAge: 44,
     distanceFromCityCenter: 24.7,
@@ -8703,7 +8703,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -42.7205994,
   },
   {
-    neigborhood: "Bluestem",
+    neighborhood: "Bluestem",
     city: "Jacutinga",
     averageAge: 70,
     distanceFromCityCenter: 88.2,
@@ -8713,7 +8713,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -52.5425318,
   },
   {
-    neigborhood: "Hagan",
+    neighborhood: "Hagan",
     city: "Panitian",
     averageAge: 46,
     distanceFromCityCenter: 91.3,
@@ -8723,7 +8723,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.0843002,
   },
   {
-    neigborhood: "Lighthouse Bay",
+    neighborhood: "Lighthouse Bay",
     city: "Kangxung",
     averageAge: 19,
     distanceFromCityCenter: 78.7,
@@ -8733,7 +8733,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 90.081241,
   },
   {
-    neigborhood: "Loftsgordon",
+    neighborhood: "Loftsgordon",
     city: "Gobabis",
     averageAge: 27,
     distanceFromCityCenter: 74.3,
@@ -8743,7 +8743,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.9739954,
   },
   {
-    neigborhood: "Farwell",
+    neighborhood: "Farwell",
     city: "Ikaalinen",
     averageAge: 36,
     distanceFromCityCenter: 12.1,
@@ -8753,7 +8753,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 23.0729829,
   },
   {
-    neigborhood: "Mayer",
+    neighborhood: "Mayer",
     city: "Campamento",
     averageAge: 69,
     distanceFromCityCenter: 15.4,
@@ -8763,7 +8763,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.2966019,
   },
   {
-    neigborhood: "Orin",
+    neighborhood: "Orin",
     city: "Cái Dầu",
     averageAge: 21,
     distanceFromCityCenter: 20.0,
@@ -8773,7 +8773,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.2341082,
   },
   {
-    neigborhood: "Delaware",
+    neighborhood: "Delaware",
     city: "Onega",
     averageAge: 44,
     distanceFromCityCenter: 3.6,
@@ -8783,7 +8783,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.1141079,
   },
   {
-    neigborhood: "Thompson",
+    neighborhood: "Thompson",
     city: "Zhengyangshan",
     averageAge: 45,
     distanceFromCityCenter: 83.0,
@@ -8793,7 +8793,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 126.991527,
   },
   {
-    neigborhood: "Hauk",
+    neighborhood: "Hauk",
     city: "Morondava",
     averageAge: 39,
     distanceFromCityCenter: 29.3,
@@ -8803,7 +8803,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.2999955,
   },
   {
-    neigborhood: "Scott",
+    neighborhood: "Scott",
     state: "B4",
     city: "Arras",
     averageAge: 23,
@@ -8814,7 +8814,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.7425682,
   },
   {
-    neigborhood: "Ramsey",
+    neighborhood: "Ramsey",
     state: "CM",
     city: "Toledo",
     averageAge: 33,
@@ -8825,7 +8825,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -4.0414005,
   },
   {
-    neigborhood: "Swallow",
+    neighborhood: "Swallow",
     city: "Sarykemer",
     averageAge: 59,
     distanceFromCityCenter: 29.8,
@@ -8835,7 +8835,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 71.513917,
   },
   {
-    neigborhood: "Magdeline",
+    neighborhood: "Magdeline",
     city: "Zhushan",
     averageAge: 67,
     distanceFromCityCenter: 78.7,
@@ -8845,7 +8845,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.228747,
   },
   {
-    neigborhood: "Park Meadow",
+    neighborhood: "Park Meadow",
     city: "Mardakyany",
     averageAge: 21,
     distanceFromCityCenter: 91.0,
@@ -8855,7 +8855,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 50.1454455,
   },
   {
-    neigborhood: "Ilene",
+    neighborhood: "Ilene",
     city: "Proletar",
     averageAge: 52,
     distanceFromCityCenter: 16.5,
@@ -8865,7 +8865,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 69.4903717,
   },
   {
-    neigborhood: "Anhalt",
+    neighborhood: "Anhalt",
     city: "Biqiao",
     averageAge: 33,
     distanceFromCityCenter: 65.4,
@@ -8875,7 +8875,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.663681,
   },
   {
-    neigborhood: "Hudson",
+    neighborhood: "Hudson",
     state: "OH",
     city: "Cincinnati",
     averageAge: 55,
@@ -8886,7 +8886,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -84.5484275,
   },
   {
-    neigborhood: "Spaight",
+    neighborhood: "Spaight",
     city: "Hokor",
     averageAge: 46,
     distanceFromCityCenter: 37.2,
@@ -8896,7 +8896,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 122.2483726,
   },
   {
-    neigborhood: "Corscot",
+    neighborhood: "Corscot",
     state: "55",
     city: "Yeşilköy",
     averageAge: 25,
@@ -8907,7 +8907,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.861253,
   },
   {
-    neigborhood: "Sugar",
+    neighborhood: "Sugar",
     city: "Uttar Char Fasson",
     averageAge: 63,
     distanceFromCityCenter: 54.4,
@@ -8917,7 +8917,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 90.295166,
   },
   {
-    neigborhood: "Sheridan",
+    neighborhood: "Sheridan",
     city: "Jawor",
     averageAge: 55,
     distanceFromCityCenter: 20.0,
@@ -8927,7 +8927,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 19.0896399,
   },
   {
-    neigborhood: "Bayside",
+    neighborhood: "Bayside",
     city: "Trambalan",
     averageAge: 27,
     distanceFromCityCenter: 35.9,
@@ -8937,7 +8937,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.3245,
   },
   {
-    neigborhood: "Hooker",
+    neighborhood: "Hooker",
     city: "Vera",
     averageAge: 69,
     distanceFromCityCenter: 5.8,
@@ -8947,7 +8947,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -60.7829517,
   },
   {
-    neigborhood: "Hanson",
+    neighborhood: "Hanson",
     city: "Lyambir’",
     averageAge: 32,
     distanceFromCityCenter: 13.0,
@@ -8957,7 +8957,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 45.1311627,
   },
   {
-    neigborhood: "Cherokee",
+    neighborhood: "Cherokee",
     city: "Loay",
     averageAge: 64,
     distanceFromCityCenter: 73.4,
@@ -8967,7 +8967,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.9985973,
   },
   {
-    neigborhood: "Parkside",
+    neighborhood: "Parkside",
     city: "Camatagua",
     averageAge: 20,
     distanceFromCityCenter: 85.2,
@@ -8977,7 +8977,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -66.9094499,
   },
   {
-    neigborhood: "Jay",
+    neighborhood: "Jay",
     state: "AB",
     city: "Södertälje",
     averageAge: 35,
@@ -8988,7 +8988,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.6475071,
   },
   {
-    neigborhood: "Milwaukee",
+    neighborhood: "Milwaukee",
     city: "Balibago",
     averageAge: 52,
     distanceFromCityCenter: 1.2,
@@ -8998,7 +8998,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.9330931,
   },
   {
-    neigborhood: "Kropf",
+    neighborhood: "Kropf",
     city: "Brylivka",
     averageAge: 48,
     distanceFromCityCenter: 70.3,
@@ -9008,7 +9008,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 33.1462635,
   },
   {
-    neigborhood: "Holy Cross",
+    neighborhood: "Holy Cross",
     city: "Concepción de la Barranca",
     averageAge: 54,
     distanceFromCityCenter: 25.6,
@@ -9018,7 +9018,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -88.724632,
   },
   {
-    neigborhood: "Mifflin",
+    neighborhood: "Mifflin",
     state: "VER",
     city: "San Francisco",
     averageAge: 36,
@@ -9029,7 +9029,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -105.4093552,
   },
   {
-    neigborhood: "Nobel",
+    neighborhood: "Nobel",
     city: "Kapyl’",
     averageAge: 31,
     distanceFromCityCenter: 70.5,
@@ -9039,7 +9039,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 27.0908004,
   },
   {
-    neigborhood: "Hoffman",
+    neighborhood: "Hoffman",
     city: "Viljandi",
     averageAge: 58,
     distanceFromCityCenter: 13.7,
@@ -9049,7 +9049,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.5974276,
   },
   {
-    neigborhood: "Algoma",
+    neighborhood: "Algoma",
     city: "Mbanga",
     averageAge: 51,
     distanceFromCityCenter: 38.0,
@@ -9059,7 +9059,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 9.5617847,
   },
   {
-    neigborhood: "Clyde Gallagher",
+    neighborhood: "Clyde Gallagher",
     city: "Jiannan",
     averageAge: 35,
     distanceFromCityCenter: 7.0,
@@ -9069,7 +9069,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.273158,
   },
   {
-    neigborhood: "Debs",
+    neighborhood: "Debs",
     city: "Carabamba",
     averageAge: 69,
     distanceFromCityCenter: 59.0,
@@ -9079,7 +9079,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -78.0452217,
   },
   {
-    neigborhood: "Mesta",
+    neighborhood: "Mesta",
     city: "Houping",
     averageAge: 46,
     distanceFromCityCenter: 50.1,
@@ -9089,7 +9089,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.481377,
   },
   {
-    neigborhood: "Tomscot",
+    neighborhood: "Tomscot",
     city: "Beizhuang",
     averageAge: 48,
     distanceFromCityCenter: 81.3,
@@ -9099,7 +9099,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.852187,
   },
   {
-    neigborhood: "Redwing",
+    neighborhood: "Redwing",
     city: "Ghanzi",
     averageAge: 32,
     distanceFromCityCenter: 8.8,
@@ -9109,7 +9109,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 21.6481861,
   },
   {
-    neigborhood: "Menomonie",
+    neighborhood: "Menomonie",
     state: "A8",
     city: "Paris 16",
     averageAge: 29,
@@ -9120,7 +9120,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 5.8978018,
   },
   {
-    neigborhood: "Sutherland",
+    neighborhood: "Sutherland",
     city: "Unisław",
     averageAge: 24,
     distanceFromCityCenter: 4.6,
@@ -9130,7 +9130,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 18.3961325,
   },
   {
-    neigborhood: "Holmberg",
+    neighborhood: "Holmberg",
     city: "Shangjie",
     averageAge: 29,
     distanceFromCityCenter: 70.7,
@@ -9140,7 +9140,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 113.308961,
   },
   {
-    neigborhood: "Norway Maple",
+    neighborhood: "Norway Maple",
     city: "Masuda",
     averageAge: 28,
     distanceFromCityCenter: 9.4,
@@ -9150,7 +9150,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 140.0433007,
   },
   {
-    neigborhood: "Paget",
+    neighborhood: "Paget",
     city: "Ribeira do Pombal",
     averageAge: 40,
     distanceFromCityCenter: 37.1,
@@ -9160,7 +9160,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -38.5761383,
   },
   {
-    neigborhood: "Elmside",
+    neighborhood: "Elmside",
     city: "Obolo-Eke (1)",
     averageAge: 38,
     distanceFromCityCenter: 69.4,
@@ -9170,7 +9170,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.6182095,
   },
   {
-    neigborhood: "Kensington",
+    neighborhood: "Kensington",
     city: "Luozhou",
     averageAge: 48,
     distanceFromCityCenter: 69.7,
@@ -9180,7 +9180,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.44174,
   },
   {
-    neigborhood: "Grim",
+    neighborhood: "Grim",
     city: "Saxin",
     averageAge: 25,
     distanceFromCityCenter: 97.5,
@@ -9190,7 +9190,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 121.2288833,
   },
   {
-    neigborhood: "Mitchell",
+    neighborhood: "Mitchell",
     city: "Shalakusha",
     averageAge: 44,
     distanceFromCityCenter: 70.9,
@@ -9200,7 +9200,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 40.2634504,
   },
   {
-    neigborhood: "Lakeland",
+    neighborhood: "Lakeland",
     city: "Karakol",
     averageAge: 69,
     distanceFromCityCenter: 91.3,
@@ -9210,7 +9210,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 78.3955986,
   },
   {
-    neigborhood: "Buell",
+    neighborhood: "Buell",
     state: "B9",
     city: "Vienne",
     averageAge: 33,
@@ -9221,7 +9221,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -1.0849968,
   },
   {
-    neigborhood: "Sherman",
+    neighborhood: "Sherman",
     city: "Chadiza",
     averageAge: 53,
     distanceFromCityCenter: 10.7,
@@ -9231,7 +9231,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 32.4382307,
   },
   {
-    neigborhood: "Mockingbird",
+    neighborhood: "Mockingbird",
     city: "Juanshui",
     averageAge: 37,
     distanceFromCityCenter: 84.2,
@@ -9241,7 +9241,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 102.826557,
   },
   {
-    neigborhood: "Talisman",
+    neighborhood: "Talisman",
     city: "Hoopstad",
     averageAge: 36,
     distanceFromCityCenter: 21.6,
@@ -9251,7 +9251,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.9063474,
   },
   {
-    neigborhood: "5th",
+    neighborhood: "5th",
     city: "Shuhong",
     averageAge: 31,
     distanceFromCityCenter: 48.6,
@@ -9261,7 +9261,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 118.781868,
   },
   {
-    neigborhood: "Buell",
+    neighborhood: "Buell",
     city: "Hangou",
     averageAge: 27,
     distanceFromCityCenter: 95.8,
@@ -9271,7 +9271,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.15507,
   },
   {
-    neigborhood: "Lighthouse Bay",
+    neighborhood: "Lighthouse Bay",
     city: "Holoriang",
     averageAge: 43,
     distanceFromCityCenter: 71.2,
@@ -9281,7 +9281,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.3991,
   },
   {
-    neigborhood: "Bayside",
+    neighborhood: "Bayside",
     city: "Shirgjan",
     averageAge: 52,
     distanceFromCityCenter: 66.7,
@@ -9291,7 +9291,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 20.0524105,
   },
   {
-    neigborhood: "Village",
+    neighborhood: "Village",
     city: "Beishidian",
     averageAge: 26,
     distanceFromCityCenter: 71.0,
@@ -9301,7 +9301,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.901438,
   },
   {
-    neigborhood: "Quincy",
+    neighborhood: "Quincy",
     city: "Mitsuke",
     averageAge: 64,
     distanceFromCityCenter: 59.5,
@@ -9311,7 +9311,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 137.8550711,
   },
   {
-    neigborhood: "Goodland",
+    neighborhood: "Goodland",
     city: "Ozërsk",
     averageAge: 56,
     distanceFromCityCenter: 63.1,
@@ -9321,7 +9321,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.0193739,
   },
   {
-    neigborhood: "Carpenter",
+    neighborhood: "Carpenter",
     state: "B8",
     city: "Villefranche-sur-Mer",
     averageAge: 43,
@@ -9332,7 +9332,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.310776,
   },
   {
-    neigborhood: "Gulseth",
+    neighborhood: "Gulseth",
     city: "Sísion",
     averageAge: 55,
     distanceFromCityCenter: 20.5,
@@ -9342,7 +9342,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 25.5207204,
   },
   {
-    neigborhood: "Cherokee",
+    neighborhood: "Cherokee",
     city: "Cunha",
     averageAge: 40,
     distanceFromCityCenter: 1.4,
@@ -9352,7 +9352,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -44.9561012,
   },
   {
-    neigborhood: "Mcguire",
+    neighborhood: "Mcguire",
     city: "Izmaylovo",
     averageAge: 19,
     distanceFromCityCenter: 99.1,
@@ -9362,7 +9362,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 37.8046391,
   },
   {
-    neigborhood: "Nelson",
+    neighborhood: "Nelson",
     state: "B4",
     city: "Arras",
     averageAge: 21,
@@ -9373,7 +9373,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 2.7425682,
   },
   {
-    neigborhood: "Jana",
+    neighborhood: "Jana",
     city: "Zhonggongmiao",
     averageAge: 41,
     distanceFromCityCenter: 34.1,
@@ -9383,7 +9383,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.319842,
   },
   {
-    neigborhood: "Barby",
+    neighborhood: "Barby",
     city: "Liudu",
     averageAge: 24,
     distanceFromCityCenter: 18.1,
@@ -9393,7 +9393,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.007814,
   },
   {
-    neigborhood: "Milwaukee",
+    neighborhood: "Milwaukee",
     city: "Chonglou",
     averageAge: 18,
     distanceFromCityCenter: 23.8,
@@ -9403,7 +9403,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.814502,
   },
   {
-    neigborhood: "Farragut",
+    neighborhood: "Farragut",
     city: "Krajan",
     averageAge: 18,
     distanceFromCityCenter: 11.7,
@@ -9413,7 +9413,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.6556388,
   },
   {
-    neigborhood: "Jackson",
+    neighborhood: "Jackson",
     city: "Sławatycze",
     averageAge: 24,
     distanceFromCityCenter: 85.2,
@@ -9423,7 +9423,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 23.528792,
   },
   {
-    neigborhood: "Graceland",
+    neighborhood: "Graceland",
     state: "12",
     city: "Aldeia da Mata",
     averageAge: 23,
@@ -9434,7 +9434,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -7.7271881,
   },
   {
-    neigborhood: "Corben",
+    neighborhood: "Corben",
     city: "Fálanna",
     averageAge: 60,
     distanceFromCityCenter: 90.8,
@@ -9444,7 +9444,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 22.3956933,
   },
   {
-    neigborhood: "Hanover",
+    neighborhood: "Hanover",
     city: "Jinchang",
     averageAge: 55,
     distanceFromCityCenter: 78.3,
@@ -9454,7 +9454,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 102.188043,
   },
   {
-    neigborhood: "3rd",
+    neighborhood: "3rd",
     city: "Bouaflé",
     averageAge: 26,
     distanceFromCityCenter: 66.9,
@@ -9464,7 +9464,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -5.7405139,
   },
   {
-    neigborhood: "Swallow",
+    neighborhood: "Swallow",
     city: "Karang Kulon",
     averageAge: 36,
     distanceFromCityCenter: 66.3,
@@ -9474,7 +9474,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 110.1317822,
   },
   {
-    neigborhood: "Marcy",
+    neighborhood: "Marcy",
     city: "Cabatang",
     averageAge: 28,
     distanceFromCityCenter: 1.6,
@@ -9484,7 +9484,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.4318122,
   },
   {
-    neigborhood: "Hoard",
+    neighborhood: "Hoard",
     city: "San Juan",
     averageAge: 38,
     distanceFromCityCenter: 33.8,
@@ -9494,7 +9494,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -57.5753755,
   },
   {
-    neigborhood: "Springview",
+    neighborhood: "Springview",
     city: "Masarayao",
     averageAge: 55,
     distanceFromCityCenter: 96.6,
@@ -9504,7 +9504,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 124.6005108,
   },
   {
-    neigborhood: "Cambridge",
+    neighborhood: "Cambridge",
     city: "Al Mushannaf",
     averageAge: 66,
     distanceFromCityCenter: 90.6,
@@ -9514,7 +9514,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 36.7738708,
   },
   {
-    neigborhood: "Susan",
+    neighborhood: "Susan",
     city: "Ochër",
     averageAge: 42,
     distanceFromCityCenter: 72.1,
@@ -9524,7 +9524,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 54.7288281,
   },
   {
-    neigborhood: "Atwood",
+    neighborhood: "Atwood",
     city: "Boa Viagem",
     averageAge: 18,
     distanceFromCityCenter: 56.2,
@@ -9534,7 +9534,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -39.6043575,
   },
   {
-    neigborhood: "Clyde Gallagher",
+    neighborhood: "Clyde Gallagher",
     city: "Świdwin",
     averageAge: 47,
     distanceFromCityCenter: 12.4,
@@ -9544,7 +9544,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.8278204,
   },
   {
-    neigborhood: "Toban",
+    neighborhood: "Toban",
     city: "Miskindzha",
     averageAge: 44,
     distanceFromCityCenter: 22.9,
@@ -9554,7 +9554,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 47.8443304,
   },
   {
-    neigborhood: "Valley Edge",
+    neighborhood: "Valley Edge",
     city: "Chocz",
     averageAge: 37,
     distanceFromCityCenter: 99.7,
@@ -9564,7 +9564,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 17.8705418,
   },
   {
-    neigborhood: "Dahle",
+    neighborhood: "Dahle",
     city: "Loncoche",
     averageAge: 58,
     distanceFromCityCenter: 6.7,
@@ -9574,7 +9574,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.6315127,
   },
   {
-    neigborhood: "Arkansas",
+    neighborhood: "Arkansas",
     city: "Všestary",
     averageAge: 29,
     distanceFromCityCenter: 92.9,
@@ -9584,7 +9584,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.7601242,
   },
   {
-    neigborhood: "Stone Corner",
+    neighborhood: "Stone Corner",
     city: "Corumbá",
     averageAge: 40,
     distanceFromCityCenter: 76.3,
@@ -9594,7 +9594,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -57.6594997,
   },
   {
-    neigborhood: "Tony",
+    neighborhood: "Tony",
     city: "Punsu",
     averageAge: 28,
     distanceFromCityCenter: 48.9,
@@ -9604,7 +9604,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.1010641,
   },
   {
-    neigborhood: "Onsgard",
+    neighborhood: "Onsgard",
     state: "A7",
     city: "Dieppe",
     averageAge: 47,
@@ -9615,7 +9615,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 1.1843207,
   },
   {
-    neigborhood: "Ridgeview",
+    neighborhood: "Ridgeview",
     city: "Bajomulyo",
     averageAge: 37,
     distanceFromCityCenter: 12.2,
@@ -9625,7 +9625,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 111.1518552,
   },
   {
-    neigborhood: "Pearson",
+    neighborhood: "Pearson",
     city: "Thị Xã Lai Châu",
     averageAge: 55,
     distanceFromCityCenter: 0.6,
@@ -9635,7 +9635,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 103.393389,
   },
   {
-    neigborhood: "Northfield",
+    neighborhood: "Northfield",
     city: "Los Palacios",
     averageAge: 40,
     distanceFromCityCenter: 4.6,
@@ -9645,7 +9645,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -83.2425711,
   },
   {
-    neigborhood: "Pawling",
+    neighborhood: "Pawling",
     city: "Novoul’yanovsk",
     averageAge: 31,
     distanceFromCityCenter: 44.1,
@@ -9655,7 +9655,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 48.390554,
   },
   {
-    neigborhood: "Hoard",
+    neighborhood: "Hoard",
     city: "Wuluo",
     averageAge: 47,
     distanceFromCityCenter: 95.8,
@@ -9665,7 +9665,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.7986202,
   },
   {
-    neigborhood: "Sullivan",
+    neighborhood: "Sullivan",
     city: "Inčukalns",
     averageAge: 56,
     distanceFromCityCenter: 5.5,
@@ -9675,7 +9675,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 24.685557,
   },
   {
-    neigborhood: "Crowley",
+    neighborhood: "Crowley",
     city: "Terney",
     averageAge: 26,
     distanceFromCityCenter: 92.3,
@@ -9685,7 +9685,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 136.6092251,
   },
   {
-    neigborhood: "Continental",
+    neighborhood: "Continental",
     city: "Baishuiyang",
     averageAge: 32,
     distanceFromCityCenter: 13.6,
@@ -9695,7 +9695,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 119.662909,
   },
   {
-    neigborhood: "Claremont",
+    neighborhood: "Claremont",
     city: "Lauro de Freitas",
     averageAge: 37,
     distanceFromCityCenter: 56.5,
@@ -9705,7 +9705,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -38.3271112,
   },
   {
-    neigborhood: "Heffernan",
+    neighborhood: "Heffernan",
     state: "97",
     city: "Trélissac",
     averageAge: 30,
@@ -9716,7 +9716,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 0.7423124,
   },
   {
-    neigborhood: "Pawling",
+    neighborhood: "Pawling",
     city: "Kukulu",
     averageAge: 69,
     distanceFromCityCenter: 68.2,
@@ -9726,7 +9726,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.90367,
   },
   {
-    neigborhood: "Clarendon",
+    neighborhood: "Clarendon",
     city: "Sayḩūt",
     averageAge: 67,
     distanceFromCityCenter: 96.5,
@@ -9736,7 +9736,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 51.2500919,
   },
   {
-    neigborhood: "Colorado",
+    neighborhood: "Colorado",
     state: "B7",
     city: "Poitiers",
     averageAge: 38,
@@ -9747,7 +9747,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 0.3350126,
   },
   {
-    neigborhood: "Hooker",
+    neighborhood: "Hooker",
     city: "Kretinga",
     averageAge: 68,
     distanceFromCityCenter: 35.7,
@@ -9757,7 +9757,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 21.2431408,
   },
   {
-    neigborhood: "Vernon",
+    neighborhood: "Vernon",
     city: "Cereté",
     averageAge: 68,
     distanceFromCityCenter: 55.5,
@@ -9767,7 +9767,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -75.9579358,
   },
   {
-    neigborhood: "Bonner",
+    neighborhood: "Bonner",
     city: "Baojia",
     averageAge: 53,
     distanceFromCityCenter: 4.6,
@@ -9777,7 +9777,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 107.237743,
   },
   {
-    neigborhood: "Center",
+    neighborhood: "Center",
     city: "Duyang",
     averageAge: 18,
     distanceFromCityCenter: 20.9,
@@ -9787,7 +9787,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 115.814504,
   },
   {
-    neigborhood: "Bellgrove",
+    neighborhood: "Bellgrove",
     city: "Sherpur",
     averageAge: 27,
     distanceFromCityCenter: 17.8,
@@ -9797,7 +9797,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 90.1494904,
   },
   {
-    neigborhood: "Sunnyside",
+    neighborhood: "Sunnyside",
     city: "Causwagan",
     averageAge: 24,
     distanceFromCityCenter: 11.6,
@@ -9807,7 +9807,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.9153917,
   },
   {
-    neigborhood: "Nelson",
+    neighborhood: "Nelson",
     city: "Citundun",
     averageAge: 23,
     distanceFromCityCenter: 73.7,
@@ -9817,7 +9817,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.6383454,
   },
   {
-    neigborhood: "Ridgeway",
+    neighborhood: "Ridgeway",
     city: "Mpulungu",
     averageAge: 63,
     distanceFromCityCenter: 0.9,
@@ -9827,7 +9827,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 31.1166193,
   },
   {
-    neigborhood: "Gateway",
+    neighborhood: "Gateway",
     city: "Cazin",
     averageAge: 52,
     distanceFromCityCenter: 19.6,
@@ -9837,7 +9837,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 15.9431582,
   },
   {
-    neigborhood: "Meadow Ridge",
+    neighborhood: "Meadow Ridge",
     city: "Kukichūō",
     averageAge: 59,
     distanceFromCityCenter: 84.6,
@@ -9847,7 +9847,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 139.6749288,
   },
   {
-    neigborhood: "Shasta",
+    neighborhood: "Shasta",
     city: "Pacajus",
     averageAge: 53,
     distanceFromCityCenter: 89.4,
@@ -9857,7 +9857,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -38.460945,
   },
   {
-    neigborhood: "Bunting",
+    neighborhood: "Bunting",
     city: "Pleiku",
     averageAge: 20,
     distanceFromCityCenter: 8.1,
@@ -9867,7 +9867,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 108.0150796,
   },
   {
-    neigborhood: "Glacier Hill",
+    neighborhood: "Glacier Hill",
     city: "Tungawan",
     averageAge: 69,
     distanceFromCityCenter: 90.2,
@@ -9877,7 +9877,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 122.3617095,
   },
   {
-    neigborhood: "Trailsway",
+    neighborhood: "Trailsway",
     state: "1084",
     city: "København",
     averageAge: 70,
@@ -9888,7 +9888,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 12.5468826,
   },
   {
-    neigborhood: "Clemons",
+    neighborhood: "Clemons",
     city: "Francisco Morato",
     averageAge: 55,
     distanceFromCityCenter: 8.5,
@@ -9898,7 +9898,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -46.7452277,
   },
   {
-    neigborhood: "Cody",
+    neighborhood: "Cody",
     city: "Aguazul",
     averageAge: 54,
     distanceFromCityCenter: 34.3,
@@ -9908,7 +9908,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -72.5441445,
   },
   {
-    neigborhood: "Debra",
+    neighborhood: "Debra",
     city: "Spitsevka",
     averageAge: 37,
     distanceFromCityCenter: 94.9,
@@ -9918,7 +9918,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 42.503334,
   },
   {
-    neigborhood: "Morning",
+    neighborhood: "Morning",
     state: "01",
     city: "Askim",
     averageAge: 37,
@@ -9929,7 +9929,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 11.1771539,
   },
   {
-    neigborhood: "Cordelia",
+    neighborhood: "Cordelia",
     city: "Davyd-Haradok",
     averageAge: 44,
     distanceFromCityCenter: 8.9,
@@ -9939,7 +9939,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 27.2119237,
   },
   {
-    neigborhood: "Ohio",
+    neighborhood: "Ohio",
     city: "Imeni Tsyurupy",
     averageAge: 20,
     distanceFromCityCenter: 57.4,
@@ -9949,7 +9949,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.65064,
   },
   {
-    neigborhood: "Lindbergh",
+    neighborhood: "Lindbergh",
     city: "Zhongwei",
     averageAge: 47,
     distanceFromCityCenter: 11.7,
@@ -9959,7 +9959,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 105.196902,
   },
   {
-    neigborhood: "Tennyson",
+    neighborhood: "Tennyson",
     city: "Mabini",
     averageAge: 47,
     distanceFromCityCenter: 73.5,
@@ -9969,7 +9969,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 120.9921722,
   },
   {
-    neigborhood: "Declaration",
+    neighborhood: "Declaration",
     city: "Rovnoye",
     averageAge: 67,
     distanceFromCityCenter: 26.1,
@@ -9979,7 +9979,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 46.0479668,
   },
   {
-    neigborhood: "Randy",
+    neighborhood: "Randy",
     city: "Muroto-misakicho",
     averageAge: 34,
     distanceFromCityCenter: 96.5,
@@ -9989,7 +9989,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 134.1641616,
   },
   {
-    neigborhood: "Gale",
+    neighborhood: "Gale",
     state: "A8",
     city: "Provins",
     averageAge: 33,
@@ -10000,7 +10000,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 3.3093771,
   },
   {
-    neigborhood: "Bluestem",
+    neighborhood: "Bluestem",
     state: "CA",
     city: "Sacramento",
     averageAge: 24,
@@ -10011,7 +10011,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -121.49,
   },
   {
-    neigborhood: "Monument",
+    neighborhood: "Monument",
     city: "Selopuro",
     averageAge: 69,
     distanceFromCityCenter: 23.5,
@@ -10021,7 +10021,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 112.3158945,
   },
   {
-    neigborhood: "Dennis",
+    neighborhood: "Dennis",
     city: "Hats’avan",
     averageAge: 55,
     distanceFromCityCenter: 59.0,
@@ -10031,7 +10031,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 44.6507762,
   },
   {
-    neigborhood: "Waxwing",
+    neighborhood: "Waxwing",
     city: "Los Arcos",
     averageAge: 23,
     distanceFromCityCenter: 64.8,
@@ -10041,7 +10041,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 125.892784,
   },
   {
-    neigborhood: "Eagan",
+    neighborhood: "Eagan",
     city: "İsmayıllı",
     averageAge: 39,
     distanceFromCityCenter: 33.1,
@@ -10051,7 +10051,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 48.1523426,
   },
   {
-    neigborhood: "Starling",
+    neighborhood: "Starling",
     city: "Moquegua",
     averageAge: 26,
     distanceFromCityCenter: 7.9,
@@ -10061,7 +10061,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -70.9328138,
   },
   {
-    neigborhood: "Hoard",
+    neighborhood: "Hoard",
     city: "Pitanga",
     averageAge: 29,
     distanceFromCityCenter: 17.2,
@@ -10071,7 +10071,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -51.7601166,
   },
   {
-    neigborhood: "Redwing",
+    neighborhood: "Redwing",
     city: "Kadugannawa",
     averageAge: 53,
     distanceFromCityCenter: 54.3,
@@ -10081,7 +10081,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 80.510807,
   },
   {
-    neigborhood: "Nevada",
+    neighborhood: "Nevada",
     city: "Kolirerek",
     averageAge: 45,
     distanceFromCityCenter: 95.2,
@@ -10091,7 +10091,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 123.4715,
   },
   {
-    neigborhood: "Johnson",
+    neighborhood: "Johnson",
     city: "Nefta",
     averageAge: 57,
     distanceFromCityCenter: 19.9,
@@ -10101,7 +10101,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 7.8803236,
   },
   {
-    neigborhood: "Mifflin",
+    neighborhood: "Mifflin",
     city: "Bamiantong",
     averageAge: 54,
     distanceFromCityCenter: 63.1,
@@ -10111,7 +10111,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 129.6373897,
   },
   {
-    neigborhood: "Sycamore",
+    neighborhood: "Sycamore",
     city: "Timashëvsk",
     averageAge: 37,
     distanceFromCityCenter: 45.7,
@@ -10121,7 +10121,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 38.956757,
   },
   {
-    neigborhood: "Ruskin",
+    neighborhood: "Ruskin",
     state: "NC",
     city: "Charlotte",
     averageAge: 46,
@@ -10132,7 +10132,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: -80.69,
   },
   {
-    neigborhood: "Evergreen",
+    neighborhood: "Evergreen",
     city: "Uychi",
     averageAge: 30,
     distanceFromCityCenter: 15.2,
@@ -10142,7 +10142,7 @@ export const NEIGHBORHOOD_DATA = [
     longitude: 71.845274,
   },
   {
-    neigborhood: "Corry",
+    neighborhood: "Corry",
     city: "Banjar Penyalin",
     averageAge: 38,
     distanceFromCityCenter: 11.0,
