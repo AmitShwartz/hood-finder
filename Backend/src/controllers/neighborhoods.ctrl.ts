@@ -7,7 +7,9 @@ import { GetNeighborhoodsBodySchema } from "../validators/neighborhood.schema";
 class NeighborhoodController {
   getNeighborhoods = asyncWrapper(async (req: Request, res: Response) => {
     try {
+      // validate and parse query parameters
       const queryBody = GetNeighborhoodsBodySchema.parse(req.query);
+
       const neighborhoods = await neighborhoodService.getNeighborhoods(
         queryBody
       );

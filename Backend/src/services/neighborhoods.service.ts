@@ -1,6 +1,6 @@
+import { Op } from "sequelize";
 import { Neighborhood } from "../types";
 import db from "../utils/database";
-import { Op } from "sequelize";
 
 interface NeighborhoodSearchParams {
   searchTerm?: string;
