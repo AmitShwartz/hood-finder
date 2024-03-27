@@ -13,19 +13,19 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       allowNull: false,
     },
-    average_age: {
+    averageAge: {
       type: DataTypes.INTEGER,
       allowNull: false,
     },
-    distance_from_city_center: {
+    distanceFromCityCenter: {
       type: DataTypes.FLOAT,
       allowNull: false,
     },
-    average_income: {
+    averageIncome: {
       type: DataTypes.INTEGER,
       allowNull: false,
     },
-    public_transport_availability: {
+    publicTransportAvailability: {
       type: DataTypes.ENUM("low", "medium", "high", "none"),
       allowNull: false,
     },

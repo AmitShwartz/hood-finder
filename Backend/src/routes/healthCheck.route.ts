@@ -1,5 +1,5 @@
 import { Request, Response, Router } from "express";
-import { asyncWrapper } from "../utils/asyncWrraper";
+import { asyncWrapper } from "../utils/asyncWrapper";
 import { ServiceUnavailableError } from "../utils/ApiError";
 
 const router = Router();

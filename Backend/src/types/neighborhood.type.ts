@@ -9,10 +9,10 @@ export type Neighborhood = {
   id: number;
   neighborhood: string;
   city: string;
-  average_age: number;
-  distance_from_city_center: number;
+  averageAge: number;
+  distanceFromCityCenter: number;
   average_income: number;
-  public_transport_availability: PublicTransportAvailability;
+  publicTransportAvailability: PublicTransportAvailability;
   latitude: number;
   longitude: number;
 };
