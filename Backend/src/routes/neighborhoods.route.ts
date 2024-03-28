@@ -46,6 +46,36 @@ const router = Router();
  */
 router.get("/", neighborhoodController.getNeighborhoods);
 
+/**
+ * @swagger
+ * /api/neighborhoods/sortOptions:
+ *   get:
+ *     tags:
+ *       - Neighborhoods
+ *     summary: Get neighborhood sort options
+ *     description: Retrieve available sort options for neighborhoods
+ *     responses:
+ *       '200':
+ *         description: Successful response
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 fieldOptions:
+ *                   type: array
+ *                   items:
+ *                     type: string
+ *                 sortOptions:
+ *                   type: array
+ *                   items:
+ *                     type: string
+ *             example:
+ *               fieldOptions: ["neighborhood", "city", "averageAge", "distanceFromCityCenter", "averageIncome", "publicTransportAvailability", "latitude", "longitude", "createdAt", "updatedAt"]
+ *               sortOptions: ["ASC", "DESC"]
+ */
+router.get("/sortOptions", neighborhoodController.getNeighborhoodSortOptions);
+
 export default router;
 
 /**

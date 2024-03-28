@@ -30,8 +30,11 @@ export class ServiceUnavailableError extends ApiError {
 }
 
 export class InternalServerError extends ApiError {
-  constructor() {
-    super(StatusCodes.INTERNAL_SERVER_ERROR, "Internal Server Error");
+  constructor(error: unknown) {
+    super(
+      StatusCodes.INTERNAL_SERVER_ERROR,
+      `Internal Server Error: ${JSON.stringify(error)}`
+    );
   }
 }
 

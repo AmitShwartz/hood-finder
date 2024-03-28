@@ -1,12 +1,18 @@
 import { Op } from "sequelize";
 import { Neighborhood } from "../types";
 import db from "../utils/database";
+import { sortOptions } from "../utils/const";
 
 type NeighborhoodSearchParams = {
   searchTerm?: string;
   ageRange?: [number, number];
   maxDistance?: number;
   sortBy?: [string, string];
+};
+
+type sortOption = {
+  fieldOptions: string[];
+  sortOptions: string[];
 };
 
 const buildNeighborhoodsQuery = ({
@@ -44,6 +50,13 @@ class NeighborhoodService {
     params: NeighborhoodSearchParams
   ): Promise<Neighborhood[]> {
     return await db.neighborhood.findAll(buildNeighborhoodsQuery(params));
+  }
+
+  getNeighborhoodSortOptions(): sortOption {
+    return {
+      fieldOptions: Object.keys(db.neighborhood.rawAttributes),
+      sortOptions,
+    };
   }
 }
 

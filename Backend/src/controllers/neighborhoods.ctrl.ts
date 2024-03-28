@@ -17,9 +17,21 @@ class NeighborhoodController {
       return res.status(200).json(neighborhoods);
     } catch (error) {
       handleZodError(error);
-      throw new InternalServerError();
+      throw new InternalServerError(error);
     }
   });
+
+  getNeighborhoodSortOptions = asyncWrapper(
+    async (req: Request, res: Response) => {
+      try {
+        const sortOptions = neighborhoodService.getNeighborhoodSortOptions();
+
+        return res.status(200).json(sortOptions);
+      } catch (error) {
+        throw new InternalServerError(error);
+      }
+    }
+  );
 }
 
 const neighborhoodController = new NeighborhoodController();
