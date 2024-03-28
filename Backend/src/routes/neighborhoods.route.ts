@@ -74,10 +74,7 @@ router.get("/", neighborhoodController.getNeighborhoods);
  *               fieldOptions: ["neighborhood", "city", "averageAge", "distanceFromCityCenter", "averageIncome", "publicTransportAvailability", "latitude", "longitude", "createdAt", "updatedAt"]
  *               sortOptions: ["ASC", "DESC"]
  */
-router.get(
-  "neighborhoods/sortOptions",
-  neighborhoodController.getNeighborhoodSortOptions
-);
+router.get("/sortOptions", neighborhoodController.getNeighborhoodSortOptions);
 
 export default router;
 
