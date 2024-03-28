@@ -2,12 +2,12 @@ import { Op } from "sequelize";
 import { Neighborhood } from "../types";
 import db from "../utils/database";
 
-interface NeighborhoodSearchParams {
+type NeighborhoodSearchParams = {
   searchTerm?: string;
   ageRange?: [number, number];
   maxDistance?: number;
   sortBy?: [string, string];
-}
+};
 
 const buildNeighborhoodsQuery = ({
   searchTerm,
