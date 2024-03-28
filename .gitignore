@@ -1,5 +1,7 @@
 # dependencies
 node_modules
+android/.gradle
+Pods/
 
 # production
 build
@@ -14,3 +16,5 @@ build
 
 # typescript
 *.tsbuildinfo
+
+package-lock.json
