@@ -56,10 +56,10 @@ const HoodFinderFilterModalContent = () => {
     <Container>
       <Title>Filter</Title>
       <RangeInput
-        onChange={(_low, high) => setFormValuesByKey("maxDistance", high)}
+        onChange={(low, _high) => setFormValuesByKey("maxDistance", low)}
         max={DISTANCE_MAX_VALUE}
         min={DISTANCE_MIN_VALUE}
-        initialMaxValue={initialValues.maxDistance}
+        low={formValues.maxDistance}
         disableRange={true}
         label="Max Distance"
       />
@@ -67,8 +67,8 @@ const HoodFinderFilterModalContent = () => {
         onChange={(low, high) => setFormValuesByKey("ageRange", [low, high])}
         max={AGE_MAX_VALUE}
         min={AGE_MIN_VALUE}
-        initialLowValue={initialValues?.ageRange?.[0]}
-        initialMaxValue={initialValues?.ageRange?.[1]}
+        low={initialValues?.ageRange?.[0]}
+        high={initialValues?.ageRange?.[1]}
         label="Age Range"
       />
       <DropdownInput

@@ -1,5 +1,5 @@
 import { useDebouncedCallback } from "use-debounce";
-import useFormStore from "../../../hooks/server/stores/useFormStore";
+import useFormStore from "../../../hooks/stores/useFormStore";
 
 const useSearchBar = () => {
   const { setSearchTerm } = useFormStore();

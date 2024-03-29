@@ -1,7 +1,7 @@
 import Styled from "@emotion/native";
 import { Ionicons } from "@expo/vector-icons";
 import React from "react";
-import useFormStore from "../../hooks/server/stores/useFormStore";
+import useFormStore from "../../hooks/stores/useFormStore";
 import colors from "../../utils/colors";
 import HoodFinderFilterModal from "./HoodFinderFilterModal";
 import { observer } from "mobx-react";

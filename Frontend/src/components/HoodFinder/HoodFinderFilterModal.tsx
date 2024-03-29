@@ -7,7 +7,7 @@ import {
   TouchableWithoutFeedback,
   View,
 } from "react-native";
-import useFormStore from "../../hooks/server/stores/useFormStore";
+import useFormStore from "../../hooks/stores/useFormStore";
 import HoodFinderFilterModalContent from "./HoodFinderFilterModalContent";
 
 const Overlay = Styled.View({

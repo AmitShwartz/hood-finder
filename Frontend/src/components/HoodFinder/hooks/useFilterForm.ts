@@ -1,7 +1,8 @@
-import { useCallback, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { StyleSheet } from "react-native";
-import useFormStore from "../../../hooks/server/stores/useFormStore";
+import useFormStore from "../../../hooks/stores/useFormStore";
 import useFetchNeighborhoodSortOptions from "../../../hooks/server/useFetchNeighborhoodSortOptions";
+import { convertToTitleCase } from "../../../utils/strings";
 
 const useFilterForm = () => {
   const {
@@ -20,17 +21,21 @@ const useFilterForm = () => {
     () => ({
       maxDistance,
       ageRange,
-      sortOrder: sortBy?.[0],
-      sortField: sortBy?.[1],
+      sortField: sortBy?.[0],
+      sortOrder: sortBy?.[1],
     }),
     [maxDistance, ageRange, sortBy]
   );
 
   const [formValues, setFormValues] = useState(initialValues);
 
+  useEffect(() => {
+    setFormValues(initialValues);
+  }, [initialValues]);
+
   const { fieldOptions, sortOrderOptions } = useMemo(() => {
     const fieldOptions = data?.fieldOptions.map((field) => ({
-      label: field,
+      label: convertToTitleCase(field),
       value: field,
     }));
     const sortOrderOptions = data?.sortOptions.map((sortOrder) => ({
@@ -48,7 +53,8 @@ const useFilterForm = () => {
     setMaxDistance(formValues.maxDistance);
     setAgeRange(formValues.ageRange);
     if (formValues.sortField && formValues.sortOrder)
-      setSortBy([formValues.sortOrder, formValues.sortField]);
+      setSortBy([formValues.sortField, formValues.sortOrder]);
+    else setSortBy(undefined);
 
     hideModal();
   }, [formValues]);
