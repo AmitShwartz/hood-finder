@@ -70,7 +70,3 @@ returning neighborhoods using auto complete search bar with filters such as age 
 ## Contact
 
 For questions, feedback, or support, contact [Amit Shwartz](shwartzamit17@email.com).
-
-```
-
-```
