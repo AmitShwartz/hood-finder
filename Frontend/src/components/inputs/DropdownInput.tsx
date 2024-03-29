@@ -6,8 +6,8 @@ import AntDesign from "@expo/vector-icons/AntDesign";
 type Props = {
   data: { label: string; value: string }[];
   onChange: (value: string) => void;
-  value: string;
-  placeholder: string;
+  value?: string;
+  placeholder?: string;
 };
 
 const DropdownInput = ({ data, onChange, value, placeholder }: Props) => {
@@ -64,7 +64,7 @@ export default DropdownInput;
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "white",
-    padding: 16,
+    marginBottom: 20,
   },
   dropdown: {
     height: 50,

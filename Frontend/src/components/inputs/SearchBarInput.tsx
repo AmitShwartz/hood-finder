@@ -16,12 +16,13 @@ const Container = Styled.View({
   shadowOpacity: 0.1,
   shadowRadius: 5,
   elevation: 5,
+  flex: 1,
 });
 
 const TextInput = Styled.TextInput({
   fontSize: 16,
   marginLeft: 10,
-  width: "100%",
+  flex: 1,
 });
 
 const SearchBarInput = (props: TextInputProps) => {

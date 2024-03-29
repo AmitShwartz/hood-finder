@@ -1,38 +1,59 @@
 import React from "react";
-import { StyleSheet, View } from "react-native";
-// @ts-ignore
-import RangeSlider from "react-native-range-slider";
+import { StyleSheet, Text, View } from "react-native";
+import RangeSlider from "rn-range-slider";
+import colors from "../../utils/colors";
 
-type Props = {
-  minValue: number;
-  maxValue: number;
-  selectedMinimum: number;
-  selectedMaximum: number;
-  disableRange: boolean;
-  onChange: (data: any) => void;
+const THUMB_RADIUS_LOW = 12;
+const THUMB_RADIUS_HIGH = 16;
+
+const Thumb = () => {
+  return <View style={styles.rootCircle} />;
+};
+const Rail = () => {
+  return <View style={styles.root} />;
+};
+
+const RailSelected = () => {
+  return <View style={styles.root} />;
+};
+
+export type RangeInputProps = {
+  min: number;
+  max: number;
+  initialLowValue?: number;
+  initialMaxValue?: number;
+  onChange: (low: number, high: number) => void;
+  disableRange?: boolean;
+  label?: string;
 };
 
 const RangeInput = ({
-  minValue,
-  maxValue,
-  selectedMinimum,
-  selectedMaximum,
-  disableRange,
+  min,
+  max,
+  initialLowValue,
+  initialMaxValue,
   onChange,
-}: Props) => {
+  disableRange,
+  label,
+}: RangeInputProps) => {
   return (
-    <View style={{ flex: 1, flexDirection: "row" }}>
+    <View style={styles.slider}>
+      {!!label && <Text style={styles.label}>{label}</Text>}
       <RangeSlider
         disableRange={disableRange}
-        minValue={minValue}
-        maxValue={maxValue}
-        tintColor={"#da0f22"}
-        handleBorderWidth={1}
-        handleBorderColor="#454d55"
-        selectedMinimum={selectedMinimum}
-        selectedMaximum={selectedMaximum}
-        style={{ flex: 1, height: 70, padding: 10, backgroundColor: "#ddd" }}
-        onChange={onChange}
+        style={{ width: "100%", height: 40 }}
+        gravity={"center"}
+        min={min}
+        max={max}
+        step={1}
+        selectionColor="#3df"
+        blankColor="#f618"
+        onSliderTouchEnd={onChange}
+        renderThumb={() => <Thumb />}
+        renderRail={() => <Rail />}
+        renderRailSelected={() => <RailSelected />}
+        initialLowValue={initialLowValue}
+        initialHighValue={initialMaxValue}
       />
     </View>
   );
@@ -43,6 +64,25 @@ export default RangeInput;
 const styles = StyleSheet.create({
   slider: {
     width: "100%",
-    height: 80,
+    height: 60,
+    marginBottom: 10,
+  },
+  rootCircle: {
+    width: THUMB_RADIUS_LOW * 2,
+    height: THUMB_RADIUS_LOW * 2,
+    borderRadius: THUMB_RADIUS_LOW,
+    borderWidth: 2,
+    borderColor: colors.lightTeal,
+    backgroundColor: colors.teal,
+  },
+  root: {
+    flex: 1,
+    height: 4,
+    borderRadius: 2,
+    backgroundColor: colors.lightTeal,
+  },
+  label: {
+    fontSize: 16,
+    marginBottom: 4,
   },
 });
