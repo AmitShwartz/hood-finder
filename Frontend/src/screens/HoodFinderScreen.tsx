@@ -7,7 +7,8 @@ import useFetchNeighborhoods from "../hooks/server/useFetchNeighborhoods";
 const HoodFinderScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Finder</Text>
+      <Text style={styles.title2}>Hoods</Text>
+      <Text style={styles.title1}>Finder</Text>
       <HoodFinderSearchContainer />
       <HoodCardsList />
     </View>
@@ -17,8 +18,13 @@ const HoodFinderScreen = () => {
 export default HoodFinderScreen;
 
 const styles = StyleSheet.create({
-  title: {
+  title1: {
     fontSize: 24,
+    fontWeight: "500",
+  },
+  title2: {
+    fontSize: 16,
+    fontWeight: "400",
   },
   container: {
     flex: 1,

@@ -16,8 +16,9 @@ const CardContainer = Styled.View({
   shadowOpacity: 0.25,
   shadowRadius: 3.84,
   elevation: 5,
-  width: "100%",
   marginBottom: 16,
+  width: "96%",
+  alignSelf: "center",
 });
 
 const Text = Styled.Text(

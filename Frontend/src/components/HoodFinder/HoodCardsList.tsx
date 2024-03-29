@@ -20,7 +20,7 @@ const HoodCardsList = () => {
   return (
     <Container>
       {isLoading && <Text>Loading...</Text>}
-      {!!neighborhoods &&
+      {!!neighborhoods?.length &&
         neighborhoods.map((neighborhood, index) => (
           <HoodCard key={index} {...neighborhood} />
         ))}
