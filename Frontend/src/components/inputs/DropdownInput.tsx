@@ -2,6 +2,7 @@ import React, { useCallback, useState } from "react";
 import { StyleSheet, Text, View } from "react-native";
 import { Dropdown } from "react-native-element-dropdown";
 import AntDesign from "@expo/vector-icons/AntDesign";
+import colors from "../../utils/colors";
 
 type Props = {
   data: { label: string; value: string }[];
@@ -17,7 +18,7 @@ const DropdownInput = ({ data, onChange, value, placeholder }: Props) => {
     if (!value && !isFocus) return null;
 
     return (
-      <Text style={[styles.label, isFocus && { color: "blue" }]}>
+      <Text style={[styles.label, isFocus && { color: colors.teal }]}>
         {placeholder}
       </Text>
     );
@@ -27,7 +28,7 @@ const DropdownInput = ({ data, onChange, value, placeholder }: Props) => {
     <View style={styles.container}>
       {renderLabel()}
       <Dropdown
-        style={[styles.dropdown, isFocus && { borderColor: "blue" }]}
+        style={[styles.dropdown, isFocus && { borderColor: colors.teal }]}
         placeholderStyle={styles.placeholderStyle}
         selectedTextStyle={styles.selectedTextStyle}
         inputSearchStyle={styles.inputSearchStyle}
@@ -49,7 +50,7 @@ const DropdownInput = ({ data, onChange, value, placeholder }: Props) => {
         renderLeftIcon={() => (
           <AntDesign
             style={styles.icon}
-            color={isFocus ? "blue" : "black"}
+            color={isFocus ? colors.teal : "black"}
             name="check"
             size={20}
           />
@@ -64,7 +65,8 @@ export default DropdownInput;
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "white",
-    marginBottom: 20,
+    paddingTop: 18,
+    marginBottom: 10,
   },
   dropdown: {
     height: 50,

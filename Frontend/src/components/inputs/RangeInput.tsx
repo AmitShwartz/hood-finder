@@ -25,6 +25,8 @@ export type RangeInputProps = {
   onChange: (low: number, high: number) => void;
   disableRange?: boolean;
   label?: string;
+  low?: number;
+  high?: number;
 };
 
 const RangeInput = ({
@@ -35,6 +37,8 @@ const RangeInput = ({
   onChange,
   disableRange,
   label,
+  low,
+  high,
 }: RangeInputProps) => {
   return (
     <View style={styles.slider}>
@@ -54,6 +58,8 @@ const RangeInput = ({
         renderRailSelected={() => <RailSelected />}
         initialLowValue={initialLowValue}
         initialHighValue={initialMaxValue}
+        low={low}
+        high={high}
       />
     </View>
   );
