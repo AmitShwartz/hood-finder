@@ -1,4 +1,12 @@
 #!/bin/bash
+# #go to Backend folder
+cd Backend
+
+# # Run npm install
+npm i
+
+# # go back to the root folder
+cd ..
 
 # Define paths and filenames
 DOCKER_COMPOSE_FILE="docker-compose.yml"
