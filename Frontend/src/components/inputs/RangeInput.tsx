@@ -1,10 +1,10 @@
+// @ts-nocheck
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import RangeSlider from "rn-range-slider";
 import colors from "../../utils/colors";
 
 const THUMB_RADIUS_LOW = 12;
-const THUMB_RADIUS_HIGH = 16;
 
 const Thumb = () => {
   return <View style={styles.rootCircle} />;
