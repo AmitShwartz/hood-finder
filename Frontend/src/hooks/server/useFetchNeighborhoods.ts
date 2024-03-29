@@ -37,7 +37,7 @@ const useFetchNeighborhoods = ({
         maxDistance,
         sortBy,
       }),
-    staleTime: FIVE_MINUTES,
+    // staleTime: FIVE_MINUTES,
   });
 
   return {

@@ -5,8 +5,8 @@ import { AxiosError } from "axios";
 
 const useFetchNeighborhoodSortOptions = () => {
   const { data, isFetching, error } = useQuery<sortOption, AxiosError>({
-    queryKey: "neighborhoods/sortOptions",
-    queryFn: neighborhoodService.fetchNeighborhoodSortOptions,
+    queryKey: ["neighborhoods_sortOptions"],
+    queryFn: () => neighborhoodService.fetchNeighborhoodSortOptions(),
     staleTime: Infinity,
   });
 
