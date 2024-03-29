@@ -3,6 +3,7 @@ const colors = {
   black: "#000000",
   lightTeal: "#92b2de",
   lightGrey: "#b4b2b2",
+  teal: "#86b6e7",
 };
 
 export default colors;
