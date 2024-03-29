@@ -65,7 +65,7 @@ returning neighborhoods using auto complete search bar with filters such as age 
 
 ## Documentation
 
-[API Documentation](http://localhost:8080/api-docs)
+[API Documentation](http://localhost:8080/api-docs) - The server must be up for this documentation.
 
 ## Contact
 
