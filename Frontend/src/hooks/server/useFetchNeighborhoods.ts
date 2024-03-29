@@ -1,10 +1,11 @@
+import { AxiosError } from "axios";
 import { useMemo } from "react";
 import { useQuery } from "react-query";
 import { FetchNeighborhoodsParams } from "../../api/neighborhood/neighborhood.api.interface";
 import neighborhoodService from "../../services/neighborhood.service";
-import { buildFetchNeighborhoodsQueryKey } from "../../utils/useQuery.utils";
 import { Neighborhood } from "../../types";
-import { AxiosError } from "axios";
+import { buildFetchNeighborhoodsQueryKey } from "../../utils/useQuery.utils";
+import useOnServerError from "./useOnServerError";
 
 const FIVE_MINUTES = 5 * 60 * 1000;
 
@@ -14,6 +15,8 @@ const useFetchNeighborhoods = ({
   maxDistance,
   sortBy,
 }: FetchNeighborhoodsParams) => {
+  const { onError } = useOnServerError();
+
   const queryKey = useMemo(
     () =>
       buildFetchNeighborhoodsQueryKey({
@@ -25,7 +28,7 @@ const useFetchNeighborhoods = ({
     [searchTerm, ageRange, maxDistance, sortBy]
   );
 
-  const { data, isFetching, error, refetch } = useQuery<
+  const { data, isLoading, error, refetch } = useQuery<
     Neighborhood[],
     AxiosError
   >({
@@ -37,12 +40,13 @@ const useFetchNeighborhoods = ({
         maxDistance,
         sortBy,
       }),
-    // staleTime: FIVE_MINUTES,
+    staleTime: FIVE_MINUTES,
+    onError,
   });
 
   return {
     data,
-    isFetching,
+    isLoading,
     error,
     refetch,
   };

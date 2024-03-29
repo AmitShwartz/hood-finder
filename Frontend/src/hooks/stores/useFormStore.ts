@@ -1,4 +1,4 @@
-import { useStore } from "../../../stores/setupContext";
+import { useStore } from "../../stores/setupContext";
 
 const useFormStore = () => {
   const { form } = useStore();
