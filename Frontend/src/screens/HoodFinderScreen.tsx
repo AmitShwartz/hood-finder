@@ -1,24 +1,15 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import HoodCardsList from "../components/HoodFinder/HoodCardsList";
-import SearchBarInput from "../components/inputs/SearchBarInput";
+import HoodFinderSearchContainer from "../components/HoodFinder/HoodFinderSearchContainer";
 import useFetchNeighborhoods from "../hooks/server/useFetchNeighborhoods";
 
-type Props = {};
-
-const HoodFinderScreen = (props: Props) => {
-  const { data, error } = useFetchNeighborhoods({
-    searchTerm: "",
-    ageRange: [0, 100],
-    maxDistance: 100,
-    sortBy: ["neighborhood", "ASC"],
-  });
-
+const HoodFinderScreen = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Finder</Text>
-      <SearchBarInput />
-      {!!data && <HoodCardsList neighborhoods={data} />}
+      <HoodFinderSearchContainer />
+      <HoodCardsList />
     </View>
   );
 };
@@ -31,7 +22,6 @@ const styles = StyleSheet.create({
   },
   container: {
     flex: 1,
-
     paddingHorizontal: 20,
     paddingVertical: 60,
   },

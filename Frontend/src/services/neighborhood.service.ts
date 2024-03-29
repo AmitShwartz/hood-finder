@@ -14,6 +14,9 @@ class NeighborhoodService {
   async fetchNeighborhoods(
     params: FetchNeighborhoodsParams
   ): Promise<Neighborhood[]> {
+    if ((params.searchTerm?.length ?? 0) < 3) {
+      return [];
+    }
     return (await this.api.fetchNeighborhoods(params)).data;
   }
 
