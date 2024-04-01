@@ -5,8 +5,8 @@ Hood Finder is a versatile mobile app and HTTP-based API designed to facilitate 
 ## Table of Contents
 
 - [Installation](#installation)
+- [Justifications](#Justifications)
 - [Usage](#usage)
-- [Features](#features)
 - [Documentation](#documentation)
 - [Contact](#contact)
 
@@ -58,6 +58,16 @@ This script will perform the following steps:
 2. Address any known bugs in the libraries.
 
 To start the app, run either "npm run start" or "npx expo start", and select your preferred platform. Personally, I recommend using Android.
+
+## Justifications
+
+### DB Justification for SQL Database:
+
+1. The provided data is a well-defined schema and SQL databases are designed and structured for it, making it easy to enforce data integrity and consistency.
+2. MySQL is faster when selecting a large number of records.
+3. For Future aggregation purposes, for example, join with table Users that connect the user to his neighborhood. The relations are much clearer, as well as the time of execution of the joins.
+
+To summarize, if the dataset grows in complexity or requires more sophisticated querying capabilities in the future, an SQL database can accommodate those needs effectively while providing strong data consistency and integrity. However, if the dataset were to expand significantly or if there were requirements for unstructured or semi-structured data, a NoSQL database might become a more viable option.
 
 ## Usage
 
