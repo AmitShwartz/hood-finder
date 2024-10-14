@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 import { Dropdown } from "react-native-element-dropdown";
 import AntDesign from "@expo/vector-icons/AntDesign";
 import colors from "../../utils/colors";
+import { SEARCH } from "../../utils/strings";
 
 type Props = {
   data: { label: string; value: string }[];
@@ -39,7 +40,7 @@ const DropdownInput = ({ data, onChange, value, placeholder }: Props) => {
         labelField="label"
         valueField="value"
         placeholder={placeholder}
-        searchPlaceholder="Search..."
+        searchPlaceholder={SEARCH}
         value={value}
         onFocus={() => setIsFocus(true)}
         onBlur={() => setIsFocus(false)}
@@ -50,7 +51,7 @@ const DropdownInput = ({ data, onChange, value, placeholder }: Props) => {
         renderLeftIcon={() => (
           <AntDesign
             style={styles.icon}
-            color={isFocus ? colors.teal : "black"}
+            color={isFocus ? colors.teal : colors.black}
             name="check"
             size={20}
           />

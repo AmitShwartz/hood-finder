@@ -50,8 +50,8 @@ const RangeInput = ({
         min={min}
         max={max}
         step={1}
-        selectionColor="#3df"
-        blankColor="#f618"
+        selectionColor={colors.selectionColor}
+        blankColor={colors.blankColor}
         onSliderTouchEnd={onChange}
         renderThumb={() => <Thumb />}
         renderRail={() => <Rail />}

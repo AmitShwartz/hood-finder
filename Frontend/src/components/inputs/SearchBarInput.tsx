@@ -2,6 +2,7 @@ import React from "react";
 import Styled from "@emotion/native";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { TextInputProps } from "react-native";
+import colors from "../../utils/colors";
 
 const Container = Styled.View({
   flexDirection: "row",
@@ -9,9 +10,9 @@ const Container = Styled.View({
   justifyContent: "flex-start",
   padding: 10,
   margin: 10,
-  backgroundColor: "white",
+  backgroundColor: colors.white,
   borderRadius: 5,
-  shadowColor: "black",
+  shadowColor: colors.black,
   shadowOffset: { width: 0, height: 2 },
   shadowOpacity: 0.1,
   shadowRadius: 5,
@@ -28,7 +29,7 @@ const TextInput = Styled.TextInput({
 const SearchBarInput = (props: TextInputProps) => {
   return (
     <Container>
-      <Ionicons name="search" size={24} color="black" />
+      <Ionicons name="search" size={24} color={colors.black} />
       <TextInput placeholder="Search" {...props} />
     </Container>
   );

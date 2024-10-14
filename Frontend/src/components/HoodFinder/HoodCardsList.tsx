@@ -4,6 +4,7 @@ import HoodCard from "./HoodCard";
 import useFetchNeighborhoodsOnChange from "./hooks/useFetchNeighborhoodsOnChange";
 import { observer } from "mobx-react";
 import useFormStore from "../../hooks/stores/useFormStore";
+import { LOADING, NO_NEIGHBORHOODS } from "../../utils/strings";
 
 const Container = Styled.ScrollView({
   padding: 6,
@@ -19,14 +20,14 @@ const HoodCardsList = () => {
   const { searchTerm } = useFormStore();
   return (
     <Container>
-      {isLoading && <Text>Loading...</Text>}
+      {isLoading && <Text>{LOADING}</Text>}
       {!!neighborhoods?.length &&
         neighborhoods.map((neighborhood, index) => (
           <HoodCard key={index} {...neighborhood} />
         ))}
       {!isLoading &&
         !neighborhoods?.length &&
-        (searchTerm?.length ?? 0) > 2 && <Text>No neighborhoods found</Text>}
+        (searchTerm?.length ?? 0) > 2 && <Text>{NO_NEIGHBORHOODS}</Text>}
     </Container>
   );
 };

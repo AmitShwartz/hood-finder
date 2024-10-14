@@ -1,6 +1,5 @@
 import Styled from "@emotion/native";
 import React from "react";
-import SearchBarInput from "../inputs/SearchBarInput";
 import HoodFinderFilter from "./HoodFinderFilter";
 import HoodFinderSearchBar from "./HoodFinderSearchBar";
 

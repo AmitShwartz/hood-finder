@@ -22,7 +22,7 @@ const HoodFinderFilter = () => {
   return (
     <>
       <FilterButton onPress={showModal}>
-        <Ionicons name="options-outline" size={24} color="white" />
+        <Ionicons name="options-outline" size={24} color={colors.white} />
       </FilterButton>
       <HoodFinderFilterModal />
     </>

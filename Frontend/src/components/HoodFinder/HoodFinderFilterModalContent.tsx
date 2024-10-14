@@ -6,6 +6,7 @@ import colors from "../../utils/colors";
 import DropdownInput from "../inputs/DropdownInput";
 import RangeInput from "../inputs/RangeInput";
 import useFilterForm from "./hooks/useFilterForm";
+import { FILTER, SUBMIT } from "../../utils/strings";
 
 const DISTANCE_MAX_VALUE = 100;
 const DISTANCE_MIN_VALUE = 0;
@@ -54,7 +55,7 @@ const HoodFinderFilterModalContent = () => {
 
   return (
     <Container>
-      <Title>Filter</Title>
+      <Title>{FILTER}</Title>
       <RangeInput
         onChange={(low, _high) => setFormValuesByKey("maxDistance", low)}
         max={DISTANCE_MAX_VALUE}
@@ -84,7 +85,7 @@ const HoodFinderFilterModalContent = () => {
         placeholder="Sort Order"
       />
       <SubmitButton onPress={onSubmit}>
-        <Text>Submit</Text>
+        <Text>{SUBMIT}</Text>
       </SubmitButton>
     </Container>
   );

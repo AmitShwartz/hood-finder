@@ -2,13 +2,13 @@ import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import HoodCardsList from "../components/HoodFinder/HoodCardsList";
 import HoodFinderSearchContainer from "../components/HoodFinder/HoodFinderSearchContainer";
-import useFetchNeighborhoods from "../hooks/server/useFetchNeighborhoods";
+import { FINDER, HOODS } from "../utils/strings";
 
 const HoodFinderScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title2}>Hoods</Text>
-      <Text style={styles.title1}>Finder</Text>
+      <Text style={styles.title2}>{HOODS}</Text>
+      <Text style={styles.title1}>{FINDER}</Text>
       <HoodFinderSearchContainer />
       <HoodCardsList />
     </View>

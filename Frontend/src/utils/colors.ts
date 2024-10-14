@@ -4,6 +4,9 @@ const colors = {
   lightTeal: "#92b2de",
   lightGrey: "#b4b2b2",
   teal: "#86b6e7",
+  selectionColor: "#3df",
+  blankColor: "#f618",
+  white: "#fff",
 };
 
 export default colors;
